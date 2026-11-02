@@ -4,7 +4,7 @@ Kettoryn is an offline Android workout tracker for creating routines, recording 
 
 ## Download & Installation
 
-**[Download Kettoryn v1.0.0 for Android](Kettoryn-v1.0.0-release.apk)** · Android 8.0 or newer · One universal APK
+**[Download Kettoryn v1.0.0 for Android](https://github.com/kebojuara/Kettoryn/releases/download/v1.0.0/Kettoryn-v1.0.0-release.apk)** · Android 8.0 or newer · One universal APK
 
 1. Download the APK. If GitHub shows a file page, choose **Download raw file**.
 2. Open the downloaded file using Android Files or your file manager.

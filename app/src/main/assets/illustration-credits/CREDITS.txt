@@ -1,0 +1,13 @@
+Workout Guide exercise illustrations — Bryl Lim, derived from Everkinetic. CC BY-SA 4.0.
+Sources: https://github.com/bryllim/workout-guide and https://github.com/everkinetic/data
+Changes: SVG frames rasterized to 512×512 PNG/WebP, preserving aspect, poses and colors. Adaptations remain CC BY-SA 4.0.
+
+MuscleMap anatomy vectors — Copyright (c) 2026 Jsplice / MuscleMap contributors. MIT.
+Source: https://github.com/Jsplice/MuscleMap
+Changes: Android native vector drawing, palette/stroke adaptation and primary-muscle mapping.
+
+Manrope — Copyright 2018 The Manrope Project Authors. SIL Open Font License 1.1.
+Source: https://github.com/googlefonts/manrope
+Changes: static 400/500/600/700 instances of the official variable font; no glyph design changes.
+
+Full licenses and notices are bundled in legal/THIRD_PARTY_NOTICES.txt and the adjacent asset provenance files.

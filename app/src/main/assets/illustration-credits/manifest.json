@@ -1,0 +1,892 @@
+[
+  {
+    "slug": "bench-press",
+    "frame": 2,
+    "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/bench-press/frame-2.svg",
+    "sha256": "5803a111505f7d6e64c1f71e06d689ef2c701678e514147eca490a74608973fe",
+    "canonical": {
+      "id": "exercise-bench-press",
+      "slug": "bench-press",
+      "name": "Bench Press",
+      "exerciseType": "weight_reps",
+      "equipment": "Barbell",
+      "primaryMuscle": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "isStretch": false,
+      "frames": [
+        {
+          "index": 1,
+          "path": "assets/bench-press/frame-1.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "source": {
+              "name": "Everkinetic",
+              "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0042-tension.svg",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+            }
+          }
+        },
+        {
+          "index": 2,
+          "path": "assets/bench-press/frame-2.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        },
+        {
+          "index": 3,
+          "path": "assets/bench-press/frame-3.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        }
+      ],
+      "attribution": {
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "name": "Everkinetic",
+          "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0042-tension.svg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+        }
+      }
+    },
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "local": "drawable-nodpi/wg_bench_press.png",
+    "output_sha256": "6e7af21b57bf5c8765cb9f58531971e10fc91969df98a078e90f7d6e9da51b9b",
+    "changes": "Rasterized at 512\u00d7512 with librsvg; pose, geometry and colors unchanged; adaptations CC BY-SA 4.0."
+  },
+  {
+    "slug": "bench-press",
+    "frame": 3,
+    "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/bench-press/frame-3.svg",
+    "sha256": "870ede64650ba4b2e5298dfe34388de5ea59cc433fadf7821d6f1440c2c9bd49",
+    "canonical": {
+      "id": "exercise-bench-press",
+      "slug": "bench-press",
+      "name": "Bench Press",
+      "exerciseType": "weight_reps",
+      "equipment": "Barbell",
+      "primaryMuscle": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "isStretch": false,
+      "frames": [
+        {
+          "index": 1,
+          "path": "assets/bench-press/frame-1.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "source": {
+              "name": "Everkinetic",
+              "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0042-tension.svg",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+            }
+          }
+        },
+        {
+          "index": 2,
+          "path": "assets/bench-press/frame-2.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        },
+        {
+          "index": 3,
+          "path": "assets/bench-press/frame-3.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        }
+      ],
+      "attribution": {
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "name": "Everkinetic",
+          "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0042-tension.svg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+        }
+      }
+    },
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "local": "drawable-nodpi/wg_bench_press_end.png",
+    "output_sha256": "6f44767f8b9eb90e18481c476cd010e869f751a11e1b85bba117317c5abacba3",
+    "changes": "Rasterized at 512\u00d7512 with librsvg; pose, geometry and colors unchanged; adaptations CC BY-SA 4.0."
+  },
+  {
+    "slug": "dumbbell-bench-press",
+    "frame": 2,
+    "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/dumbbell-bench-press/frame-2.svg",
+    "sha256": "b40c240613024c2c625866ef677e27b6b1adb0f20c6c272d93e300025343f95b",
+    "canonical": {
+      "id": "exercise-dumbbell-bench-press",
+      "slug": "dumbbell-bench-press",
+      "name": "Dumbbell Bench Press",
+      "exerciseType": "weight_reps",
+      "equipment": "Dumbbell",
+      "primaryMuscle": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "isStretch": false,
+      "frames": [
+        {
+          "index": 1,
+          "path": "assets/dumbbell-bench-press/frame-1.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "source": {
+              "name": "Everkinetic",
+              "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0055-tension.svg",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+            }
+          }
+        },
+        {
+          "index": 2,
+          "path": "assets/dumbbell-bench-press/frame-2.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        },
+        {
+          "index": 3,
+          "path": "assets/dumbbell-bench-press/frame-3.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        }
+      ],
+      "attribution": {
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "name": "Everkinetic",
+          "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0055-tension.svg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+        }
+      }
+    },
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "local": "drawable-nodpi/wg_dumbbell_bench_press.png",
+    "output_sha256": "1d4b98b5b5700f92e5c3331f825f3bb6d3e620e16c5279e64a49706b9e5c888e",
+    "changes": "Rasterized at 512\u00d7512 with librsvg; pose, geometry and colors unchanged; adaptations CC BY-SA 4.0."
+  },
+  {
+    "slug": "dumbbell-bench-press",
+    "frame": 3,
+    "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/dumbbell-bench-press/frame-3.svg",
+    "sha256": "07d4c597a7c7ab8f042989ee6322df468efc5081c379a796cf10d4c2ea86ef38",
+    "canonical": {
+      "id": "exercise-dumbbell-bench-press",
+      "slug": "dumbbell-bench-press",
+      "name": "Dumbbell Bench Press",
+      "exerciseType": "weight_reps",
+      "equipment": "Dumbbell",
+      "primaryMuscle": "Chest",
+      "secondaryMuscles": [
+        "Triceps",
+        "Shoulders"
+      ],
+      "isStretch": false,
+      "frames": [
+        {
+          "index": 1,
+          "path": "assets/dumbbell-bench-press/frame-1.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "source": {
+              "name": "Everkinetic",
+              "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0055-tension.svg",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+            }
+          }
+        },
+        {
+          "index": 2,
+          "path": "assets/dumbbell-bench-press/frame-2.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        },
+        {
+          "index": 3,
+          "path": "assets/dumbbell-bench-press/frame-3.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        }
+      ],
+      "attribution": {
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "name": "Everkinetic",
+          "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0055-tension.svg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+        }
+      }
+    },
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "local": "drawable-nodpi/wg_dumbbell_bench_press_end.png",
+    "output_sha256": "ff48f67addce1a174e2c63afd737542ab578952f6826b6951e70b637dd0f0be8",
+    "changes": "Rasterized at 512\u00d7512 with librsvg; pose, geometry and colors unchanged; adaptations CC BY-SA 4.0."
+  },
+  {
+    "slug": "close-grip-bench-press",
+    "frame": 2,
+    "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/close-grip-bench-press/frame-2.svg",
+    "sha256": "99182a2d1b926a27197a9c1585355932232abac5d7c8451dcb2e7b79fa7eaefb",
+    "canonical": {
+      "id": "exercise-close-grip-bench-press",
+      "slug": "close-grip-bench-press",
+      "name": "Close-Grip Bench Press",
+      "exerciseType": "weight_reps",
+      "equipment": "Barbell",
+      "primaryMuscle": "Triceps",
+      "secondaryMuscles": [
+        "Chest",
+        "Shoulders"
+      ],
+      "isStretch": false,
+      "frames": [
+        {
+          "index": 1,
+          "path": "assets/close-grip-bench-press/frame-1.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "source": {
+              "name": "Everkinetic",
+              "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0049-tension.svg",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+            }
+          }
+        },
+        {
+          "index": 2,
+          "path": "assets/close-grip-bench-press/frame-2.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        },
+        {
+          "index": 3,
+          "path": "assets/close-grip-bench-press/frame-3.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        }
+      ],
+      "attribution": {
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "name": "Everkinetic",
+          "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0049-tension.svg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+        }
+      }
+    },
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "local": "drawable-nodpi/wg_close_grip_bench_press.png",
+    "output_sha256": "732531e701c77b74a8cfb0a56dbaa795ae935e8ee81965b1447c244863e15c0d",
+    "changes": "Rasterized at 512\u00d7512 with librsvg; pose, geometry and colors unchanged; adaptations CC BY-SA 4.0."
+  },
+  {
+    "slug": "close-grip-bench-press",
+    "frame": 3,
+    "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/close-grip-bench-press/frame-3.svg",
+    "sha256": "dde25c4f4e88adc1872c17c4fb2110c5df4f3908cbffb1de68635efce4dec9a0",
+    "canonical": {
+      "id": "exercise-close-grip-bench-press",
+      "slug": "close-grip-bench-press",
+      "name": "Close-Grip Bench Press",
+      "exerciseType": "weight_reps",
+      "equipment": "Barbell",
+      "primaryMuscle": "Triceps",
+      "secondaryMuscles": [
+        "Chest",
+        "Shoulders"
+      ],
+      "isStretch": false,
+      "frames": [
+        {
+          "index": 1,
+          "path": "assets/close-grip-bench-press/frame-1.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "source": {
+              "name": "Everkinetic",
+              "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0049-tension.svg",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+            }
+          }
+        },
+        {
+          "index": 2,
+          "path": "assets/close-grip-bench-press/frame-2.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        },
+        {
+          "index": 3,
+          "path": "assets/close-grip-bench-press/frame-3.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        }
+      ],
+      "attribution": {
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "name": "Everkinetic",
+          "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0049-tension.svg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+        }
+      }
+    },
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "local": "drawable-nodpi/wg_close_grip_bench_press_end.png",
+    "output_sha256": "3206914ed8f84c9d11328bd3d4933fb2a2e434a7991e261cc4be7778888334be",
+    "changes": "Rasterized at 512\u00d7512 with librsvg; pose, geometry and colors unchanged; adaptations CC BY-SA 4.0."
+  },
+  {
+    "slug": "squat",
+    "frame": 2,
+    "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/squat/frame-2.svg",
+    "sha256": "5bc4894cf2c9dc28d500ed6cae394c68ad9ae50cdc998414ff71f831fde5cd03",
+    "canonical": {
+      "id": "exercise-squat",
+      "slug": "squat",
+      "name": "Squat",
+      "exerciseType": "weight_reps",
+      "equipment": "Barbell",
+      "primaryMuscle": "Quads",
+      "secondaryMuscles": [
+        "Glutes",
+        "Core"
+      ],
+      "isStretch": false,
+      "frames": [
+        {
+          "index": 1,
+          "path": "assets/squat/frame-1.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "source": {
+              "name": "Everkinetic",
+              "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0122-tension.svg",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+            }
+          }
+        },
+        {
+          "index": 2,
+          "path": "assets/squat/frame-2.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        },
+        {
+          "index": 3,
+          "path": "assets/squat/frame-3.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        }
+      ],
+      "attribution": {
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "name": "Everkinetic",
+          "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0122-tension.svg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+        }
+      }
+    },
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "local": "drawable-nodpi/wg_squat.png",
+    "output_sha256": "ee08ddda904fadf3dc3167d40ca06600db202d73862a8f13668ad0a1b3fea43f",
+    "changes": "Rasterized at 512\u00d7512 with librsvg; pose, geometry and colors unchanged; adaptations CC BY-SA 4.0."
+  },
+  {
+    "slug": "squat",
+    "frame": 3,
+    "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/squat/frame-3.svg",
+    "sha256": "147708f94d0dffc717433809eb97be64dc11ee2c5f0ae3f7bae2c66c248f3ff5",
+    "canonical": {
+      "id": "exercise-squat",
+      "slug": "squat",
+      "name": "Squat",
+      "exerciseType": "weight_reps",
+      "equipment": "Barbell",
+      "primaryMuscle": "Quads",
+      "secondaryMuscles": [
+        "Glutes",
+        "Core"
+      ],
+      "isStretch": false,
+      "frames": [
+        {
+          "index": 1,
+          "path": "assets/squat/frame-1.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "source": {
+              "name": "Everkinetic",
+              "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0122-tension.svg",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+            }
+          }
+        },
+        {
+          "index": 2,
+          "path": "assets/squat/frame-2.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        },
+        {
+          "index": 3,
+          "path": "assets/squat/frame-3.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        }
+      ],
+      "attribution": {
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "name": "Everkinetic",
+          "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0122-tension.svg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+        }
+      }
+    },
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "local": "drawable-nodpi/wg_squat_end.png",
+    "output_sha256": "4221e4c1d51a769ca9246cb9430acf90ded1d573e49b76074e227013e8b25503",
+    "changes": "Rasterized at 512\u00d7512 with librsvg; pose, geometry and colors unchanged; adaptations CC BY-SA 4.0."
+  },
+  {
+    "slug": "front-squat",
+    "frame": 2,
+    "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/front-squat/frame-2.svg",
+    "sha256": "caefb746b4f2aadf84fcb72d624230596d1961cad0e97782083294cce217386f",
+    "canonical": {
+      "id": "exercise-front-squat",
+      "slug": "front-squat",
+      "name": "Front Squat",
+      "exerciseType": "weight_reps",
+      "equipment": "Barbell",
+      "primaryMuscle": "Quads",
+      "secondaryMuscles": [
+        "Core",
+        "Glutes"
+      ],
+      "isStretch": false,
+      "frames": [
+        {
+          "index": 1,
+          "path": "assets/front-squat/frame-1.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "source": {
+              "name": "Everkinetic",
+              "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0138-tension.svg",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+            }
+          }
+        },
+        {
+          "index": 2,
+          "path": "assets/front-squat/frame-2.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        },
+        {
+          "index": 3,
+          "path": "assets/front-squat/frame-3.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        }
+      ],
+      "attribution": {
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "name": "Everkinetic",
+          "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0138-tension.svg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+        }
+      }
+    },
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "local": "drawable-nodpi/wg_front_squat.png",
+    "output_sha256": "44642f259ec0355f1eabb210246fb8c5a7e7a9e543526d3c35d79269f8b4466f",
+    "changes": "Rasterized at 512\u00d7512 with librsvg; pose, geometry and colors unchanged; adaptations CC BY-SA 4.0."
+  },
+  {
+    "slug": "front-squat",
+    "frame": 3,
+    "source": "https://raw.githubusercontent.com/bryllim/workout-guide/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/front-squat/frame-3.svg",
+    "sha256": "b730b875235f222932ddc6878ef0c24cdf462fd869326236d3feb74d6d7b23c2",
+    "canonical": {
+      "id": "exercise-front-squat",
+      "slug": "front-squat",
+      "name": "Front Squat",
+      "exerciseType": "weight_reps",
+      "equipment": "Barbell",
+      "primaryMuscle": "Quads",
+      "secondaryMuscles": [
+        "Core",
+        "Glutes"
+      ],
+      "isStretch": false,
+      "frames": [
+        {
+          "index": 1,
+          "path": "assets/front-squat/frame-1.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "source": {
+              "name": "Everkinetic",
+              "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0138-tension.svg",
+              "license": "CC BY-SA 4.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+              "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+            }
+          }
+        },
+        {
+          "index": 2,
+          "path": "assets/front-squat/frame-2.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        },
+        {
+          "index": 3,
+          "path": "assets/front-squat/frame-3.svg",
+          "width": 512,
+          "height": 512,
+          "format": "svg",
+          "attribution": {
+            "creator": "Bryl Lim",
+            "creatorUrl": "https://bryllim.com",
+            "license": "CC BY-SA 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        }
+      ],
+      "attribution": {
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "name": "Everkinetic",
+          "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0138-tension.svg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "changes": "Rasterized on a transparent 512 \u00d7 512 canvas, recolored for monochrome display, and vector-traced."
+        }
+      }
+    },
+    "attribution": {
+      "creator": "Bryl Lim",
+      "creatorUrl": "https://bryllim.com",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "local": "drawable-nodpi/wg_front_squat_end.png",
+    "output_sha256": "990d8ce61c7e7793eff6d5adbb79c7a6caaa81b62de36efacaf90c1339c58298",
+    "changes": "Rasterized at 512\u00d7512 with librsvg; pose, geometry and colors unchanged; adaptations CC BY-SA 4.0."
+  }
+]

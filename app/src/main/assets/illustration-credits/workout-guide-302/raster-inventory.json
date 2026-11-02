@@ -1,0 +1,6344 @@
+[
+  {
+    "slug": "bench-press",
+    "frame": 1,
+    "resource": "wg63_bench_press_1",
+    "sha256": "6e1d1d7f06f05e205fdab784fb65471e475cb8b83971defaad979fc1604ae57d",
+    "bytes": 16658
+  },
+  {
+    "slug": "bench-press",
+    "frame": 2,
+    "resource": "wg63_bench_press_2",
+    "sha256": "8612d2d7361c5261ba59dc85bd5bfa11b5218ddec38914fabb239ff6be90b17e",
+    "bytes": 17950
+  },
+  {
+    "slug": "bench-press",
+    "frame": 3,
+    "resource": "wg63_bench_press_3",
+    "sha256": "9e0b4e3e5f82842b4afa12d19b68b8ee063a331ed6f90bf2b373972fac9877f1",
+    "bytes": 17732
+  },
+  {
+    "slug": "incline-bench-press",
+    "frame": 1,
+    "resource": "wg63_incline_bench_press_1",
+    "sha256": "3656e32b2c0f843b250226908e647e3af02d2f4e49bdda712832cd2a4a1d11e9",
+    "bytes": 17572
+  },
+  {
+    "slug": "incline-bench-press",
+    "frame": 2,
+    "resource": "wg63_incline_bench_press_2",
+    "sha256": "595456e0889f51dc151cbb2987632e523161e262d1f2cfff6f10c2cb617a37c0",
+    "bytes": 18916
+  },
+  {
+    "slug": "incline-bench-press",
+    "frame": 3,
+    "resource": "wg63_incline_bench_press_3",
+    "sha256": "f8ab5313895f5e2a8f3491aa69fdce33c1a29f7e96c2eeb0d4b2a8f0aea0f6cf",
+    "bytes": 18960
+  },
+  {
+    "slug": "incline-dumbbell-press",
+    "frame": 1,
+    "resource": "wg63_incline_dumbbell_press_1",
+    "sha256": "6247967d681072882fdc2c74e55eed2d0fd69a8ca572d9fd6a57427151f4ffc9",
+    "bytes": 14354
+  },
+  {
+    "slug": "incline-dumbbell-press",
+    "frame": 2,
+    "resource": "wg63_incline_dumbbell_press_2",
+    "sha256": "66d87880848b8826d78d14afa4e892e75f70e159c336b776705f037a0545810f",
+    "bytes": 15276
+  },
+  {
+    "slug": "incline-dumbbell-press",
+    "frame": 3,
+    "resource": "wg63_incline_dumbbell_press_3",
+    "sha256": "173bba8d6dafbf67631737a9e8a550c7d44ab44f25dff4d0bc1e45922f816521",
+    "bytes": 16216
+  },
+  {
+    "slug": "dumbbell-bench-press",
+    "frame": 1,
+    "resource": "wg63_dumbbell_bench_press_1",
+    "sha256": "c1a2ed38d1f11996f5f1f922f9ff44c9eecf8bee1752cbf2cb095026f456d9e9",
+    "bytes": 13102
+  },
+  {
+    "slug": "dumbbell-bench-press",
+    "frame": 2,
+    "resource": "wg63_dumbbell_bench_press_2",
+    "sha256": "f51634f96629cea9efe9801d78e400ecaa9626a66c94b91b11b1a1439b5dfb13",
+    "bytes": 14438
+  },
+  {
+    "slug": "dumbbell-bench-press",
+    "frame": 3,
+    "resource": "wg63_dumbbell_bench_press_3",
+    "sha256": "909f0ae34ec795f56fcdebecc794da26e0dff00c1a52e2cdbfb86ab4e9ea21d6",
+    "bytes": 14322
+  },
+  {
+    "slug": "decline-bench-press",
+    "frame": 1,
+    "resource": "wg63_decline_bench_press_1",
+    "sha256": "000c6b49622100fdf5509c1254a1876776468af3547685e59df7f6654ce6c7d0",
+    "bytes": 14410
+  },
+  {
+    "slug": "decline-bench-press",
+    "frame": 2,
+    "resource": "wg63_decline_bench_press_2",
+    "sha256": "2ed2dfdd1b3a028a77ccb29911e9a565bbb383fa76ae391e06d980b847d72d01",
+    "bytes": 15606
+  },
+  {
+    "slug": "decline-bench-press",
+    "frame": 3,
+    "resource": "wg63_decline_bench_press_3",
+    "sha256": "ad75f747a5d23cb992b726744abe3b1953be3c7bc93a4fc283a57e3a65949582",
+    "bytes": 15952
+  },
+  {
+    "slug": "machine-chest-press",
+    "frame": 1,
+    "resource": "wg63_machine_chest_press_1",
+    "sha256": "78bf9126b4fc269820701b45659dea67ba6efbcf6795fc68b1f0ad9021229889",
+    "bytes": 16958
+  },
+  {
+    "slug": "machine-chest-press",
+    "frame": 2,
+    "resource": "wg63_machine_chest_press_2",
+    "sha256": "8e46cd737567951eb067707b1e37634b4510a214fe77ddab060642f1b8b43ef3",
+    "bytes": 18750
+  },
+  {
+    "slug": "machine-chest-press",
+    "frame": 3,
+    "resource": "wg63_machine_chest_press_3",
+    "sha256": "7528ee4f6272075c066abde8acbdb5158b02cb36404e2f3c78b289d8cc2d388d",
+    "bytes": 19132
+  },
+  {
+    "slug": "pec-deck",
+    "frame": 1,
+    "resource": "wg63_pec_deck_1",
+    "sha256": "1043fd5b6774be0df9d00c464c42e560e68b4be45a091539e662ab7843d5a281",
+    "bytes": 24290
+  },
+  {
+    "slug": "pec-deck",
+    "frame": 2,
+    "resource": "wg63_pec_deck_2",
+    "sha256": "1e765f561807bca078c4a3f93cd2a763633e7952f46d9a0b35fec8d2e18bc474",
+    "bytes": 32886
+  },
+  {
+    "slug": "pec-deck",
+    "frame": 3,
+    "resource": "wg63_pec_deck_3",
+    "sha256": "194e36d33b3142193b9920b4ae9caadd1f4398ae6a290bd10894ab5a152c8c9d",
+    "bytes": 30304
+  },
+  {
+    "slug": "cable-fly",
+    "frame": 1,
+    "resource": "wg63_cable_fly_1",
+    "sha256": "41dc764542222eb7d204e689ebf82a5a999a28eeca1982c07fdecf35ad81cf20",
+    "bytes": 10536
+  },
+  {
+    "slug": "cable-fly",
+    "frame": 2,
+    "resource": "wg63_cable_fly_2",
+    "sha256": "f3f991807892a44a603b64a3c400a5d8ebc668e8d0b02c11a35aa109146b7036",
+    "bytes": 10528
+  },
+  {
+    "slug": "cable-fly",
+    "frame": 3,
+    "resource": "wg63_cable_fly_3",
+    "sha256": "83cf7e006d5f03b37a64b2b9a7749f6dbb446555ea30d0f21fa525a9f6291803",
+    "bytes": 10298
+  },
+  {
+    "slug": "push-up",
+    "frame": 1,
+    "resource": "wg63_push_up_1",
+    "sha256": "46b438f09615b2146d0b3be2e7cca4ecb1af977d9fe44bf3f35079e773d669d7",
+    "bytes": 8040
+  },
+  {
+    "slug": "push-up",
+    "frame": 2,
+    "resource": "wg63_push_up_2",
+    "sha256": "5d22872c97a75c91def6269e44e8ad4ec98c8c84056e06dd0211bfaaeb4a7847",
+    "bytes": 7316
+  },
+  {
+    "slug": "push-up",
+    "frame": 3,
+    "resource": "wg63_push_up_3",
+    "sha256": "2bc3ffe84f4b166d72ad08cfce8d9fd3ba0d8c41e5b38775eb27e31d6f4a3ebb",
+    "bytes": 8044
+  },
+  {
+    "slug": "weighted-push-up",
+    "frame": 1,
+    "resource": "wg63_weighted_push_up_1",
+    "sha256": "e7320535fdc2f7deea44ead4d542c75e8ec4a21e09cedf85fb2ffc60afd24a33",
+    "bytes": 11512
+  },
+  {
+    "slug": "weighted-push-up",
+    "frame": 2,
+    "resource": "wg63_weighted_push_up_2",
+    "sha256": "580079deee4c32cd9af3d2772a7f61e0da084f0d9b1003b0824d24d87376d157",
+    "bytes": 19216
+  },
+  {
+    "slug": "weighted-push-up",
+    "frame": 3,
+    "resource": "wg63_weighted_push_up_3",
+    "sha256": "12e73e9c0aaa30d268f4d38b0c88ee6b0521b77469b1845ab0907d85ec5fe82d",
+    "bytes": 16698
+  },
+  {
+    "slug": "overhead-press",
+    "frame": 1,
+    "resource": "wg63_overhead_press_1",
+    "sha256": "95d55d8c7656e3ec4ec2b7b5b93728f7339940222e21af9e07006cfc867925d6",
+    "bytes": 14334
+  },
+  {
+    "slug": "overhead-press",
+    "frame": 2,
+    "resource": "wg63_overhead_press_2",
+    "sha256": "bca3eace9ca7d41018665aec6c2ebc095f1abe61fc5656f5b3677a7539e2905a",
+    "bytes": 15020
+  },
+  {
+    "slug": "overhead-press",
+    "frame": 3,
+    "resource": "wg63_overhead_press_3",
+    "sha256": "36acb168fafbcad0b6c86422302121d9bbe7b6a6c817edeea162ec0228028cc2",
+    "bytes": 16116
+  },
+  {
+    "slug": "seated-dumbbell-press",
+    "frame": 1,
+    "resource": "wg63_seated_dumbbell_press_1",
+    "sha256": "8a1991d9775f9d01fe859ded1281c8cef4f7a43933ab5b99fc9ac8d8d91d828c",
+    "bytes": 18500
+  },
+  {
+    "slug": "seated-dumbbell-press",
+    "frame": 2,
+    "resource": "wg63_seated_dumbbell_press_2",
+    "sha256": "c3c13af4476a173d2f770d17022fdc04f5f2c92e87b9998d8c7a378cf007788a",
+    "bytes": 29148
+  },
+  {
+    "slug": "seated-dumbbell-press",
+    "frame": 3,
+    "resource": "wg63_seated_dumbbell_press_3",
+    "sha256": "07f20807bb134d188b49ff4e4279e6fd353267b4068008211a7e9aebecf38283",
+    "bytes": 27434
+  },
+  {
+    "slug": "arnold-press",
+    "frame": 1,
+    "resource": "wg63_arnold_press_1",
+    "sha256": "c681a9b327204ef3d0584618526224a32dd5a8cde3a7fdbcf79212a9da300273",
+    "bytes": 14398
+  },
+  {
+    "slug": "arnold-press",
+    "frame": 2,
+    "resource": "wg63_arnold_press_2",
+    "sha256": "80b8aa0b2d9e7d5fe4b700135b778e01fc775e52420fa1780ef85635e0ecab88",
+    "bytes": 15136
+  },
+  {
+    "slug": "arnold-press",
+    "frame": 3,
+    "resource": "wg63_arnold_press_3",
+    "sha256": "35a9723db637973eb0ac7c7166cc4edd1a6d5dbf9fd232610225280c6df0a427",
+    "bytes": 15416
+  },
+  {
+    "slug": "lateral-raise",
+    "frame": 1,
+    "resource": "wg63_lateral_raise_1",
+    "sha256": "0f0a605109672daff8d02c93b39fdf2156103d601efce0ea7bb76748a09619cc",
+    "bytes": 9676
+  },
+  {
+    "slug": "lateral-raise",
+    "frame": 2,
+    "resource": "wg63_lateral_raise_2",
+    "sha256": "8a1adfcca483a60e5cea40c8dea32f695d5d7de76ee2b305a7be1b5d8072bd35",
+    "bytes": 9850
+  },
+  {
+    "slug": "lateral-raise",
+    "frame": 3,
+    "resource": "wg63_lateral_raise_3",
+    "sha256": "182fba41d5506bd6e23baab42fb102984f943530663eca611a029b18e41acd06",
+    "bytes": 10624
+  },
+  {
+    "slug": "cable-lateral-raise",
+    "frame": 1,
+    "resource": "wg63_cable_lateral_raise_1",
+    "sha256": "638c332f86e86d69464396119878ade6c083706fae6e672376ec246b88039ed7",
+    "bytes": 18300
+  },
+  {
+    "slug": "cable-lateral-raise",
+    "frame": 2,
+    "resource": "wg63_cable_lateral_raise_2",
+    "sha256": "2c20dac9348061c1fcaa08d291eab503713108f642cc8dea29625785c1e05a14",
+    "bytes": 27088
+  },
+  {
+    "slug": "cable-lateral-raise",
+    "frame": 3,
+    "resource": "wg63_cable_lateral_raise_3",
+    "sha256": "1b88be236d24e0e2be4302ed4f961e9e858ff1f0856f629ffa8a66e577d97c83",
+    "bytes": 20340
+  },
+  {
+    "slug": "front-raise",
+    "frame": 1,
+    "resource": "wg63_front_raise_1",
+    "sha256": "b912d3763262328090e01c6fd4739a8caa9bcb5c8cb6683d346e06d858d592f4",
+    "bytes": 10864
+  },
+  {
+    "slug": "front-raise",
+    "frame": 2,
+    "resource": "wg63_front_raise_2",
+    "sha256": "b20bd8d9c69cfd77161bd404e43de2b059a86df2fb233569a84f85c90d975eec",
+    "bytes": 10648
+  },
+  {
+    "slug": "front-raise",
+    "frame": 3,
+    "resource": "wg63_front_raise_3",
+    "sha256": "b1d2f16caf2334b1f6cd3b49fdcce756bc0d800b0b44b14173dc9b04da5b471b",
+    "bytes": 12586
+  },
+  {
+    "slug": "rear-delt-fly",
+    "frame": 1,
+    "resource": "wg63_rear_delt_fly_1",
+    "sha256": "6e45d6cd7c6b2f301b96b7de0190ff47ffcae3917f0dfc2203c93cfd015aee8c",
+    "bytes": 15848
+  },
+  {
+    "slug": "rear-delt-fly",
+    "frame": 2,
+    "resource": "wg63_rear_delt_fly_2",
+    "sha256": "c798231fea7f54044c05b6087b785bb69ce1fbde13d4b96387d8c484d9963de9",
+    "bytes": 16588
+  },
+  {
+    "slug": "rear-delt-fly",
+    "frame": 3,
+    "resource": "wg63_rear_delt_fly_3",
+    "sha256": "c175289deeadc3dae03ebaddcf24fbede047736c9e4ace8964c48222f08f18e3",
+    "bytes": 17076
+  },
+  {
+    "slug": "reverse-pec-deck",
+    "frame": 1,
+    "resource": "wg63_reverse_pec_deck_1",
+    "sha256": "830e44dabdff70773c131075a71665b2b09eb5214e2fedd6429383c6425a64cf",
+    "bytes": 22768
+  },
+  {
+    "slug": "reverse-pec-deck",
+    "frame": 2,
+    "resource": "wg63_reverse_pec_deck_2",
+    "sha256": "da6b11c652cc07740c90202ff23dd995e84b1c2690be3045f184b2c29d346223",
+    "bytes": 32240
+  },
+  {
+    "slug": "reverse-pec-deck",
+    "frame": 3,
+    "resource": "wg63_reverse_pec_deck_3",
+    "sha256": "20ac445b569c65920ec58ec9e99c63d9bcbec6bdc2ddece7c78164874d9ba1ea",
+    "bytes": 31516
+  },
+  {
+    "slug": "face-pull",
+    "frame": 1,
+    "resource": "wg63_face_pull_1",
+    "sha256": "f4de531e7463e8076627ac7c6bddede0dbb8f9fc692eed589eddb7544fd28f12",
+    "bytes": 21524
+  },
+  {
+    "slug": "face-pull",
+    "frame": 2,
+    "resource": "wg63_face_pull_2",
+    "sha256": "6252c2c7fb9fa8510279e207e3371f53f63a284f060c043f6f960b585f6ad850",
+    "bytes": 28170
+  },
+  {
+    "slug": "face-pull",
+    "frame": 3,
+    "resource": "wg63_face_pull_3",
+    "sha256": "30d501efe1212655d78fcc01abe0709ddf006335054513c5a134c9ae5f0cb5da",
+    "bytes": 25188
+  },
+  {
+    "slug": "upright-row",
+    "frame": 1,
+    "resource": "wg63_upright_row_1",
+    "sha256": "53df7e4bb4af3670d790dc73c5767f9b23a10bd45ab461069806fbf37ba85522",
+    "bytes": 13606
+  },
+  {
+    "slug": "upright-row",
+    "frame": 2,
+    "resource": "wg63_upright_row_2",
+    "sha256": "77ea3b2e3a5c0964c592cdf1e61a9640b30e63b8998d834c38a582ba146d7144",
+    "bytes": 12940
+  },
+  {
+    "slug": "upright-row",
+    "frame": 3,
+    "resource": "wg63_upright_row_3",
+    "sha256": "f3886b2c378e13d4d43688c4826b5cd8a8b25d0d80359d423ce6b21b5b2ceed4",
+    "bytes": 14892
+  },
+  {
+    "slug": "deadlift",
+    "frame": 1,
+    "resource": "wg63_deadlift_1",
+    "sha256": "23c4ba86cc6e07e834ec2f750222672a5a09eb2a951b8df2157d14bc4392a845",
+    "bytes": 10222
+  },
+  {
+    "slug": "deadlift",
+    "frame": 2,
+    "resource": "wg63_deadlift_2",
+    "sha256": "5b44d0d2de78f0e5f4444e4afb01a903eb93763520f3933c5f2b59edeca8422d",
+    "bytes": 10758
+  },
+  {
+    "slug": "deadlift",
+    "frame": 3,
+    "resource": "wg63_deadlift_3",
+    "sha256": "53c3f4aea342ae71cc1d97bf6ddb4b78348a0a01f0dacfda934df30bed55f7a5",
+    "bytes": 11440
+  },
+  {
+    "slug": "romanian-deadlift",
+    "frame": 1,
+    "resource": "wg63_romanian_deadlift_1",
+    "sha256": "e303b191fe2ccc1a44db01d025dbe4d5ac5038123480da07fe166f42423e5b7d",
+    "bytes": 10162
+  },
+  {
+    "slug": "romanian-deadlift",
+    "frame": 2,
+    "resource": "wg63_romanian_deadlift_2",
+    "sha256": "693cee749a3e8e3f260cd5b4937b73e3c264bd6310a99ec2834b29ff5ee48b44",
+    "bytes": 10096
+  },
+  {
+    "slug": "romanian-deadlift",
+    "frame": 3,
+    "resource": "wg63_romanian_deadlift_3",
+    "sha256": "f9480f42ba27db182d0775c8138f9aa9f221ea9b87382a17e5c49a33e4ac23d7",
+    "bytes": 11472
+  },
+  {
+    "slug": "barbell-row",
+    "frame": 1,
+    "resource": "wg63_barbell_row_1",
+    "sha256": "5c8161033e6d846b106f1bcca48fe2d599249cee8f77e0834da3bb5453a5e502",
+    "bytes": 10038
+  },
+  {
+    "slug": "barbell-row",
+    "frame": 2,
+    "resource": "wg63_barbell_row_2",
+    "sha256": "b925eb0781606d6b02f5caa23fa2796d0e0cc87fd7a570f3264f00c9f9a41e44",
+    "bytes": 12050
+  },
+  {
+    "slug": "barbell-row",
+    "frame": 3,
+    "resource": "wg63_barbell_row_3",
+    "sha256": "db062add7c5075de7c3d91cf30090abafeaf4a3acffd925cff734c7c7a7d749f",
+    "bytes": 11658
+  },
+  {
+    "slug": "t-bar-row",
+    "frame": 1,
+    "resource": "wg63_t_bar_row_1",
+    "sha256": "92c12638a4c331a91f4da5589f4d98757da4426a994db1f40f640662029cb509",
+    "bytes": 18588
+  },
+  {
+    "slug": "t-bar-row",
+    "frame": 2,
+    "resource": "wg63_t_bar_row_2",
+    "sha256": "9ab23753e6bdcb5e183ea3d5bfdc7637158dfa145eb9de27bb3587710c180976",
+    "bytes": 20806
+  },
+  {
+    "slug": "t-bar-row",
+    "frame": 3,
+    "resource": "wg63_t_bar_row_3",
+    "sha256": "2817a4228dfe705a4e9e8967c40b6372b29c95186198651a83b399539fb71cc5",
+    "bytes": 20924
+  },
+  {
+    "slug": "dumbbell-bent-over-row",
+    "frame": 1,
+    "resource": "wg63_dumbbell_bent_over_row_1",
+    "sha256": "26f1aa2568eedb128306824ffd2b24b35767b2049b22639f0510b87de973bce0",
+    "bytes": 15956
+  },
+  {
+    "slug": "dumbbell-bent-over-row",
+    "frame": 2,
+    "resource": "wg63_dumbbell_bent_over_row_2",
+    "sha256": "0deee76d22590e4e438a5644c88012e91159522b29e340f8fd15a43199e59b47",
+    "bytes": 17954
+  },
+  {
+    "slug": "dumbbell-bent-over-row",
+    "frame": 3,
+    "resource": "wg63_dumbbell_bent_over_row_3",
+    "sha256": "20912895f6ed17670c8aa570a39f536da187de32f5019552a9c3ebce824540d6",
+    "bytes": 18586
+  },
+  {
+    "slug": "one-arm-dumbbell-row",
+    "frame": 1,
+    "resource": "wg63_one_arm_dumbbell_row_1",
+    "sha256": "af56334b9252b7482fdb928f2c9d38fe169d08ea651221178990db9378b9acd4",
+    "bytes": 18120
+  },
+  {
+    "slug": "one-arm-dumbbell-row",
+    "frame": 2,
+    "resource": "wg63_one_arm_dumbbell_row_2",
+    "sha256": "7a11e85baafaa82d753983427584f676f1f7263f90f6ca2eddb2b03d8620af76",
+    "bytes": 18310
+  },
+  {
+    "slug": "one-arm-dumbbell-row",
+    "frame": 3,
+    "resource": "wg63_one_arm_dumbbell_row_3",
+    "sha256": "1204fb4c5b7c170096371379f1e12a0aad520f1411550ab9b57beddb2b0f8638",
+    "bytes": 18632
+  },
+  {
+    "slug": "chest-supported-row",
+    "frame": 1,
+    "resource": "wg63_chest_supported_row_1",
+    "sha256": "094accd98558322acdb98127899a807058acf4b692a9294593d1977612fc5f34",
+    "bytes": 23964
+  },
+  {
+    "slug": "chest-supported-row",
+    "frame": 2,
+    "resource": "wg63_chest_supported_row_2",
+    "sha256": "1525cee44adad6d6e22873639c97039e982cab514dce6a262b8b40cadca23ab0",
+    "bytes": 38266
+  },
+  {
+    "slug": "chest-supported-row",
+    "frame": 3,
+    "resource": "wg63_chest_supported_row_3",
+    "sha256": "47955481f78c81746695701c4cf6f4419b478c9e0468e7c48519f88d58bc527d",
+    "bytes": 24796
+  },
+  {
+    "slug": "seated-row",
+    "frame": 1,
+    "resource": "wg63_seated_row_1",
+    "sha256": "c8a0393d8163afaed1d76f447e95f69fd9ad70cfcf15d31de2de5506364276e9",
+    "bytes": 10724
+  },
+  {
+    "slug": "seated-row",
+    "frame": 2,
+    "resource": "wg63_seated_row_2",
+    "sha256": "cea64d0eeddc4cc3954e374ebabe988f4093369f1bf8a377c328eaeee486ef74",
+    "bytes": 11126
+  },
+  {
+    "slug": "seated-row",
+    "frame": 3,
+    "resource": "wg63_seated_row_3",
+    "sha256": "ee956f06663339b1a19c8255a7e002f596df8a4bc6ea05566ca5892a8ad92fb4",
+    "bytes": 12894
+  },
+  {
+    "slug": "machine-row",
+    "frame": 1,
+    "resource": "wg63_machine_row_1",
+    "sha256": "1863379b17bbf850c9c0b538d2cff260e0869de46a46afa4e0005cb6fabe685b",
+    "bytes": 26456
+  },
+  {
+    "slug": "machine-row",
+    "frame": 2,
+    "resource": "wg63_machine_row_2",
+    "sha256": "68e808608b8f33c7f7045c823700e797d9af210ce64a0cc29f3328935be47140",
+    "bytes": 31244
+  },
+  {
+    "slug": "machine-row",
+    "frame": 3,
+    "resource": "wg63_machine_row_3",
+    "sha256": "a01bf1e9bf137af2fd7d8e7a342abf215f3500db8158b39eab8c76778170a339",
+    "bytes": 28258
+  },
+  {
+    "slug": "lat-pulldown",
+    "frame": 1,
+    "resource": "wg63_lat_pulldown_1",
+    "sha256": "fd2af6cfa1797a4f957a47fdbb3a841c19ade68342fd05ac1a7b325263a5bed0",
+    "bytes": 11290
+  },
+  {
+    "slug": "lat-pulldown",
+    "frame": 2,
+    "resource": "wg63_lat_pulldown_2",
+    "sha256": "0d6ce543b6c9246142353032ba45ce0a81cd3604085b41c825199f312d0d5899",
+    "bytes": 11082
+  },
+  {
+    "slug": "lat-pulldown",
+    "frame": 3,
+    "resource": "wg63_lat_pulldown_3",
+    "sha256": "a84f6b294e17e7bdbfec02bacb700f10e1729222253da6d45321faf0ed53f589",
+    "bytes": 13824
+  },
+  {
+    "slug": "close-grip-lat-pulldown",
+    "frame": 1,
+    "resource": "wg63_close_grip_lat_pulldown_1",
+    "sha256": "6f611a7431c8c89fe3be803754a7c400f3f6cd04f00774a4e60138b8f7cc392f",
+    "bytes": 11120
+  },
+  {
+    "slug": "close-grip-lat-pulldown",
+    "frame": 2,
+    "resource": "wg63_close_grip_lat_pulldown_2",
+    "sha256": "5718e74190bbcdd63e265e41c3cf91e0504fc4b7fb9b34e6707d536a40a17df9",
+    "bytes": 11738
+  },
+  {
+    "slug": "close-grip-lat-pulldown",
+    "frame": 3,
+    "resource": "wg63_close_grip_lat_pulldown_3",
+    "sha256": "aa434a27f64a24b4b78f43dd03e2ba13798868573285104ec51ad055abd7a76b",
+    "bytes": 14292
+  },
+  {
+    "slug": "straight-arm-pulldown",
+    "frame": 1,
+    "resource": "wg63_straight_arm_pulldown_1",
+    "sha256": "edf68e04c035020d4636caa5cd98f48accea9d706240f74c4f82d878b05a7863",
+    "bytes": 9400
+  },
+  {
+    "slug": "straight-arm-pulldown",
+    "frame": 2,
+    "resource": "wg63_straight_arm_pulldown_2",
+    "sha256": "ec79e6a434d88d0a5c3bf8c24460ab9af9a9a6b31d6cb6da77f555eae25fe01e",
+    "bytes": 10382
+  },
+  {
+    "slug": "straight-arm-pulldown",
+    "frame": 3,
+    "resource": "wg63_straight_arm_pulldown_3",
+    "sha256": "a29ea1d1395c96413382992689a4367658670b982fde788b1613f4ce67b7af77",
+    "bytes": 10722
+  },
+  {
+    "slug": "pull-up",
+    "frame": 1,
+    "resource": "wg63_pull_up_1",
+    "sha256": "79c843225049bc8f2867aec2e71815939d0fedd6f5c1132c27f738607a799816",
+    "bytes": 9562
+  },
+  {
+    "slug": "pull-up",
+    "frame": 2,
+    "resource": "wg63_pull_up_2",
+    "sha256": "2605d895072f2a77a65135c32a7c77c4e46a20be3075ab9a95116dfa22ad682b",
+    "bytes": 10214
+  },
+  {
+    "slug": "pull-up",
+    "frame": 3,
+    "resource": "wg63_pull_up_3",
+    "sha256": "cab29540bad55912fbf6df4a7cdf1db948418c07b3ed95e1306e6fca0c7ebdf3",
+    "bytes": 12196
+  },
+  {
+    "slug": "assisted-pull-up",
+    "frame": 1,
+    "resource": "wg63_assisted_pull_up_1",
+    "sha256": "0204eb77c2d5d125ed01ae2b343285d45219b84118ca180ce9711e23ebd7fcc9",
+    "bytes": 20346
+  },
+  {
+    "slug": "assisted-pull-up",
+    "frame": 2,
+    "resource": "wg63_assisted_pull_up_2",
+    "sha256": "1c22b82555ce03bbe3358d8502290d5ceb13732cb3644769074a2757034444a2",
+    "bytes": 28980
+  },
+  {
+    "slug": "assisted-pull-up",
+    "frame": 3,
+    "resource": "wg63_assisted_pull_up_3",
+    "sha256": "f6a656b992461bb297f3cbe7fdab326a5b41bbc37ae77dfae32757e7ca96f524",
+    "bytes": 25224
+  },
+  {
+    "slug": "weighted-pull-up",
+    "frame": 1,
+    "resource": "wg63_weighted_pull_up_1",
+    "sha256": "052c7fd1ec78294326130862c29b821cf2ae942ffb8d8e38efc9acf8b7c08689",
+    "bytes": 16270
+  },
+  {
+    "slug": "weighted-pull-up",
+    "frame": 2,
+    "resource": "wg63_weighted_pull_up_2",
+    "sha256": "c7f0a8ff04648fa22ccce3f9db3d1e4ab5b3de4850ff78adee25e4496c36d3a5",
+    "bytes": 20284
+  },
+  {
+    "slug": "weighted-pull-up",
+    "frame": 3,
+    "resource": "wg63_weighted_pull_up_3",
+    "sha256": "106b693edd1aa2d20fce5ce43857920708fd28bccfcb4bef2f1fad57caf55ded",
+    "bytes": 15512
+  },
+  {
+    "slug": "chin-up",
+    "frame": 1,
+    "resource": "wg63_chin_up_1",
+    "sha256": "dd32a57e6d529f3dcd5f2e9747c73e8c0244f027f345c80c00beb1196d64e405",
+    "bytes": 8704
+  },
+  {
+    "slug": "chin-up",
+    "frame": 2,
+    "resource": "wg63_chin_up_2",
+    "sha256": "641f3d71f78f3babceb9724d499ae06f2f85a3f718fa2fa92c8f708fc5dad2c6",
+    "bytes": 9092
+  },
+  {
+    "slug": "chin-up",
+    "frame": 3,
+    "resource": "wg63_chin_up_3",
+    "sha256": "b33f146d1847dd6c7bd88145054d3db3639c7e08aa0690a9ef61322c52b552c5",
+    "bytes": 11690
+  },
+  {
+    "slug": "shrug",
+    "frame": 1,
+    "resource": "wg63_shrug_1",
+    "sha256": "1090e530f019b472d0a3d1cd40e7a85ac439de5fc202a3e5d3b94a2db7f05f7e",
+    "bytes": 17036
+  },
+  {
+    "slug": "shrug",
+    "frame": 2,
+    "resource": "wg63_shrug_2",
+    "sha256": "8f36babdbc37e59d44bfca8b128a09b2ac11740fe1544440ab15205634a72a6e",
+    "bytes": 17074
+  },
+  {
+    "slug": "shrug",
+    "frame": 3,
+    "resource": "wg63_shrug_3",
+    "sha256": "a5a47c659ca201d06c3badbdaf10350c7d5b7e08e434b8330b444e2582e182f6",
+    "bytes": 25318
+  },
+  {
+    "slug": "squat",
+    "frame": 1,
+    "resource": "wg63_squat_1",
+    "sha256": "d56ca669acec08aa313dc1b41408493d67bde5c36ccd022efd412df317f74dd6",
+    "bytes": 11474
+  },
+  {
+    "slug": "squat",
+    "frame": 2,
+    "resource": "wg63_squat_2",
+    "sha256": "1060f34436e91aa497c3cb7093b122909221e78da6b5dfcf0a9c5b395789c3d8",
+    "bytes": 13220
+  },
+  {
+    "slug": "squat",
+    "frame": 3,
+    "resource": "wg63_squat_3",
+    "sha256": "52c57012d6dae41342524fcdd2ee15a3ce586431f4828cf2e798c64e3520cece",
+    "bytes": 11688
+  },
+  {
+    "slug": "front-squat",
+    "frame": 1,
+    "resource": "wg63_front_squat_1",
+    "sha256": "8e0820a36f01998e3a120ca5653af4bf6972a9da3b486b3e59f683945413d16c",
+    "bytes": 11734
+  },
+  {
+    "slug": "front-squat",
+    "frame": 2,
+    "resource": "wg63_front_squat_2",
+    "sha256": "258e4d7a2b96233b391ad0544807a08c096e480a72bfd8a440eca62c9d8bf7bd",
+    "bytes": 13058
+  },
+  {
+    "slug": "front-squat",
+    "frame": 3,
+    "resource": "wg63_front_squat_3",
+    "sha256": "22f1986687b009e9008fc84f8f659436be685e651bdd8286fb19d750be0a7d58",
+    "bytes": 11676
+  },
+  {
+    "slug": "hack-squat",
+    "frame": 1,
+    "resource": "wg63_hack_squat_1",
+    "sha256": "94e8428555057dcc4881f67bed9959dab5c435f486162df148bd3d8ad38942d4",
+    "bytes": 13682
+  },
+  {
+    "slug": "hack-squat",
+    "frame": 2,
+    "resource": "wg63_hack_squat_2",
+    "sha256": "38212c591726c1a07ed36653e86a006d36d58e47171c1de6e087038147b95132",
+    "bytes": 20480
+  },
+  {
+    "slug": "hack-squat",
+    "frame": 3,
+    "resource": "wg63_hack_squat_3",
+    "sha256": "3b2a21ee853f95eb35b137d656e2418587b9e552a11c63c5cbe8de9715efba86",
+    "bytes": 14982
+  },
+  {
+    "slug": "leg-press",
+    "frame": 1,
+    "resource": "wg63_leg_press_1",
+    "sha256": "f964c25d23d3991339b8705cb6be57e8a66c85ae1c515a453f7aa3cdbce04703",
+    "bytes": 12264
+  },
+  {
+    "slug": "leg-press",
+    "frame": 2,
+    "resource": "wg63_leg_press_2",
+    "sha256": "e50d1d33dc355750ed31f1363be232724a0a3e310d7f74dbbfa43219f2ef7aeb",
+    "bytes": 13482
+  },
+  {
+    "slug": "leg-press",
+    "frame": 3,
+    "resource": "wg63_leg_press_3",
+    "sha256": "531cee3aa6c4c168794e3546b3b07f6e90ddbb55d5e9557060e8e42258e4ece8",
+    "bytes": 12376
+  },
+  {
+    "slug": "bulgarian-split-squat",
+    "frame": 1,
+    "resource": "wg63_bulgarian_split_squat_1",
+    "sha256": "3d3b7ba5f10d0d97ee03f7129159a28ee1212679343b693051d09ac2e2183408",
+    "bytes": 15668
+  },
+  {
+    "slug": "bulgarian-split-squat",
+    "frame": 2,
+    "resource": "wg63_bulgarian_split_squat_2",
+    "sha256": "10a876eedb90dd7cd87c51b8606ed546227e22dba05a92e5bd08de5c20407000",
+    "bytes": 16548
+  },
+  {
+    "slug": "bulgarian-split-squat",
+    "frame": 3,
+    "resource": "wg63_bulgarian_split_squat_3",
+    "sha256": "36aea6f608e9bc601a24959253864635a8926c1323a582f4d284af2cdfdef3ea",
+    "bytes": 18436
+  },
+  {
+    "slug": "walking-lunge",
+    "frame": 1,
+    "resource": "wg63_walking_lunge_1",
+    "sha256": "72dee52177ec457fa8239306ee87a38da55c3246f15f7786d6c27ea719fb661e",
+    "bytes": 12322
+  },
+  {
+    "slug": "walking-lunge",
+    "frame": 2,
+    "resource": "wg63_walking_lunge_2",
+    "sha256": "b6672c48a5b0b2898447259966315a35bbb3091b92dbfa25902ba09d7cda5e6f",
+    "bytes": 12176
+  },
+  {
+    "slug": "walking-lunge",
+    "frame": 3,
+    "resource": "wg63_walking_lunge_3",
+    "sha256": "d9b15c72c3291d91d493cf9f13a94a01ab689731140babf0e2040d039ba199c1",
+    "bytes": 13204
+  },
+  {
+    "slug": "step-up",
+    "frame": 1,
+    "resource": "wg63_step_up_1",
+    "sha256": "840c41f0bb9c5448b6fd93a4ae5d0f6e9996647218d4267b33e31e922bd205b9",
+    "bytes": 8670
+  },
+  {
+    "slug": "step-up",
+    "frame": 2,
+    "resource": "wg63_step_up_2",
+    "sha256": "9e01c2d81555f588ea50ee825c6c47cd71786f3a642a777f1d21e9bae656487b",
+    "bytes": 9406
+  },
+  {
+    "slug": "step-up",
+    "frame": 3,
+    "resource": "wg63_step_up_3",
+    "sha256": "4a8b23ed48f661041ca706b437657510735c8ecf251867b560e0df63fbc3f4b0",
+    "bytes": 9802
+  },
+  {
+    "slug": "leg-extension",
+    "frame": 1,
+    "resource": "wg63_leg_extension_1",
+    "sha256": "021e6bb750d6212deedf9bd6677e8df63118675324ab4e32d3f2907795c946bb",
+    "bytes": 12220
+  },
+  {
+    "slug": "leg-extension",
+    "frame": 2,
+    "resource": "wg63_leg_extension_2",
+    "sha256": "96bf22744a1641400bb562e3f8785b86153ebbf54e24df96b346a6940b70786d",
+    "bytes": 14276
+  },
+  {
+    "slug": "leg-extension",
+    "frame": 3,
+    "resource": "wg63_leg_extension_3",
+    "sha256": "85392ac24c39fdbe1f061b2db8e78e5fe26d83b61853b4391b60a89ed8f5d993",
+    "bytes": 12964
+  },
+  {
+    "slug": "leg-curl",
+    "frame": 1,
+    "resource": "wg63_leg_curl_1",
+    "sha256": "752f4b4e5d95f513e2f81dc162f05be81b8fc67e2f2075d490ffff0b8438f1c1",
+    "bytes": 11698
+  },
+  {
+    "slug": "leg-curl",
+    "frame": 2,
+    "resource": "wg63_leg_curl_2",
+    "sha256": "e0bc3bf7e30451f7e0a33fa6aa59a4ce6a089ce8d626491b2a7902af0f6c47ad",
+    "bytes": 12860
+  },
+  {
+    "slug": "leg-curl",
+    "frame": 3,
+    "resource": "wg63_leg_curl_3",
+    "sha256": "2276f3f12c32ff7817bc9ecd06820f438f0975f94ea666f7660ca586ba8a4dfa",
+    "bytes": 13650
+  },
+  {
+    "slug": "seated-leg-curl",
+    "frame": 1,
+    "resource": "wg63_seated_leg_curl_1",
+    "sha256": "5e1e7310258e544248797bfc2fcef8a846bac13d5e66e061d3b4f15bfca41eb6",
+    "bytes": 12170
+  },
+  {
+    "slug": "seated-leg-curl",
+    "frame": 2,
+    "resource": "wg63_seated_leg_curl_2",
+    "sha256": "568400c9fa72e2f8133611743a5320ce539fc67c0dbddee6120cdb272cffcfa0",
+    "bytes": 15528
+  },
+  {
+    "slug": "seated-leg-curl",
+    "frame": 3,
+    "resource": "wg63_seated_leg_curl_3",
+    "sha256": "f7d1830ae55142eea9ac3171132fa7dd7e4785ca1633ae561a78760177404ee4",
+    "bytes": 14050
+  },
+  {
+    "slug": "hip-thrust",
+    "frame": 1,
+    "resource": "wg63_hip_thrust_1",
+    "sha256": "44b688ab1c4569cd9c20a7851ed79a09fe5ba824ad842daac8cfc74aacfc716b",
+    "bytes": 17026
+  },
+  {
+    "slug": "hip-thrust",
+    "frame": 2,
+    "resource": "wg63_hip_thrust_2",
+    "sha256": "474ec48a1be83a512c3b85be29ec6fcb340e59c096a5902dffdf2ed89302c634",
+    "bytes": 23682
+  },
+  {
+    "slug": "hip-thrust",
+    "frame": 3,
+    "resource": "wg63_hip_thrust_3",
+    "sha256": "8e880a7dbe7a80e7abd5cd1486db2030a554d837a947cf257d1f78919ddaed9b",
+    "bytes": 16830
+  },
+  {
+    "slug": "glute-bridge",
+    "frame": 1,
+    "resource": "wg63_glute_bridge_1",
+    "sha256": "9a6b3819e2a5ad0828beb69cc33fe1325fe31eb813db41ccaf1a232213beb745",
+    "bytes": 8352
+  },
+  {
+    "slug": "glute-bridge",
+    "frame": 2,
+    "resource": "wg63_glute_bridge_2",
+    "sha256": "f36a38623ebeea1a6ff8363b5274f11a5262076928ae9304b227b5acd9fd87b6",
+    "bytes": 9136
+  },
+  {
+    "slug": "glute-bridge",
+    "frame": 3,
+    "resource": "wg63_glute_bridge_3",
+    "sha256": "5caeccf04f8fee641c6f4dad591b950d3b74cd01aea9b8931468de245a98772a",
+    "bytes": 9548
+  },
+  {
+    "slug": "good-morning",
+    "frame": 1,
+    "resource": "wg63_good_morning_1",
+    "sha256": "b53bae53b1736d3bfda46060991805ba775bfd8bdb686512f2e49964120a8749",
+    "bytes": 9002
+  },
+  {
+    "slug": "good-morning",
+    "frame": 2,
+    "resource": "wg63_good_morning_2",
+    "sha256": "a30a254d5244d7a513d8d0376e299545e39afe8ef06ca77bcf89d7cf4a38f04f",
+    "bytes": 9718
+  },
+  {
+    "slug": "good-morning",
+    "frame": 3,
+    "resource": "wg63_good_morning_3",
+    "sha256": "1e14a19697958af16f2a478cdf3300a5547fb682b4b14a22a60a7fc69c8acef4",
+    "bytes": 12344
+  },
+  {
+    "slug": "standing-calf-raise",
+    "frame": 1,
+    "resource": "wg63_standing_calf_raise_1",
+    "sha256": "9b3947dace6a959f40925f24554b8101c6eb4ddd4eafda5d4ef7f58a4c958e7d",
+    "bytes": 12648
+  },
+  {
+    "slug": "standing-calf-raise",
+    "frame": 2,
+    "resource": "wg63_standing_calf_raise_2",
+    "sha256": "bae0d8c641e1af6b819ef2cfb9bd13687914fdfdb7d113b44bef15007dcf9a64",
+    "bytes": 14658
+  },
+  {
+    "slug": "standing-calf-raise",
+    "frame": 3,
+    "resource": "wg63_standing_calf_raise_3",
+    "sha256": "ac8bb084e6209e7e8794355bb26716ae94ab11a2dad34b076ed2cf33979b394d",
+    "bytes": 14142
+  },
+  {
+    "slug": "seated-calf-raise",
+    "frame": 1,
+    "resource": "wg63_seated_calf_raise_1",
+    "sha256": "e339a613778adb47e0d820f1aec29b6c14a051cb71547b3538c2e844ea8208a1",
+    "bytes": 11946
+  },
+  {
+    "slug": "seated-calf-raise",
+    "frame": 2,
+    "resource": "wg63_seated_calf_raise_2",
+    "sha256": "17f322942927e71666eb7319a73966145762da825fb9b95cebbdc24e88311b9a",
+    "bytes": 12926
+  },
+  {
+    "slug": "seated-calf-raise",
+    "frame": 3,
+    "resource": "wg63_seated_calf_raise_3",
+    "sha256": "86cd0f99691cb2cf9083b55eb7204874e57a852472c899cacd4aceb7d4fc6446",
+    "bytes": 13194
+  },
+  {
+    "slug": "bicep-curl",
+    "frame": 1,
+    "resource": "wg63_bicep_curl_1",
+    "sha256": "3952c0bc320099a8ff5e36c557ca2fae9787f7149c2e1bd2608ec012a1b5d03d",
+    "bytes": 10650
+  },
+  {
+    "slug": "bicep-curl",
+    "frame": 2,
+    "resource": "wg63_bicep_curl_2",
+    "sha256": "befb64f8bf09587296c1c765c2a14bf3bd764f4acd3c898b7d2a7d956851b352",
+    "bytes": 12130
+  },
+  {
+    "slug": "bicep-curl",
+    "frame": 3,
+    "resource": "wg63_bicep_curl_3",
+    "sha256": "eb55a19d69a876d3909c23eb4666944fb617bbeb85c90fccfb11f27f4e973461",
+    "bytes": 13070
+  },
+  {
+    "slug": "hammer-curl",
+    "frame": 1,
+    "resource": "wg63_hammer_curl_1",
+    "sha256": "11014b04d23b35561096aa79fa4b19767d00723b37f5183f41afabc5fa30ce07",
+    "bytes": 9966
+  },
+  {
+    "slug": "hammer-curl",
+    "frame": 2,
+    "resource": "wg63_hammer_curl_2",
+    "sha256": "4a3ae685ee50541c50725411648c1e91c1f5d6177f0c31f9d8ff691e04adcac5",
+    "bytes": 12352
+  },
+  {
+    "slug": "hammer-curl",
+    "frame": 3,
+    "resource": "wg63_hammer_curl_3",
+    "sha256": "12b3d541e7d4b9328df9302ee43c66cd87cd41d70f9650559d2167204d484097",
+    "bytes": 13130
+  },
+  {
+    "slug": "preacher-curl",
+    "frame": 1,
+    "resource": "wg63_preacher_curl_1",
+    "sha256": "a83150b74e5a648c3ddbaa54ac663c5e9ed277dd814bea4b84986efbff7faf81",
+    "bytes": 14242
+  },
+  {
+    "slug": "preacher-curl",
+    "frame": 2,
+    "resource": "wg63_preacher_curl_2",
+    "sha256": "4e0870948aed7cc873c26855e32dad84fefa326502daaf6737f30caf27983379",
+    "bytes": 15426
+  },
+  {
+    "slug": "preacher-curl",
+    "frame": 3,
+    "resource": "wg63_preacher_curl_3",
+    "sha256": "750f95beaa12009f427910211d1bf875826421f39706ada7cc228f9ead5a076b",
+    "bytes": 16452
+  },
+  {
+    "slug": "cable-curl",
+    "frame": 1,
+    "resource": "wg63_cable_curl_1",
+    "sha256": "7caee2aac639299ba65ed4b2a340a5493b248b3bfb21e6d4a6a216bc7871b8c8",
+    "bytes": 11666
+  },
+  {
+    "slug": "cable-curl",
+    "frame": 2,
+    "resource": "wg63_cable_curl_2",
+    "sha256": "cde90702688931047b4e019f120575369c0a4bf0a2dea842c2c94a7c8a1d4fa4",
+    "bytes": 10200
+  },
+  {
+    "slug": "cable-curl",
+    "frame": 3,
+    "resource": "wg63_cable_curl_3",
+    "sha256": "fa8284f651144fd8145c952770a527ca3706ac14ec8e57bde97ed0327828bc81",
+    "bytes": 12712
+  },
+  {
+    "slug": "reverse-curl",
+    "frame": 1,
+    "resource": "wg63_reverse_curl_1",
+    "sha256": "a94bdeac503e7360da4ade00b65c06547fb0f1c6da1828856c074251e4416062",
+    "bytes": 15230
+  },
+  {
+    "slug": "reverse-curl",
+    "frame": 2,
+    "resource": "wg63_reverse_curl_2",
+    "sha256": "a39b97c572bb94954e10783b5cd4d6f3c01f99cde3a65c0a182473c155e29853",
+    "bytes": 19880
+  },
+  {
+    "slug": "reverse-curl",
+    "frame": 3,
+    "resource": "wg63_reverse_curl_3",
+    "sha256": "82c32dae7ed8d52dfaddc982d639c3bd33702c731445ad477f0924b2bc890ab9",
+    "bytes": 14260
+  },
+  {
+    "slug": "wrist-curl",
+    "frame": 1,
+    "resource": "wg63_wrist_curl_1",
+    "sha256": "436a488c580bf4513785db0de9e69f8e50fc194abeac66d216cb50e3ae6c2875",
+    "bytes": 15302
+  },
+  {
+    "slug": "wrist-curl",
+    "frame": 2,
+    "resource": "wg63_wrist_curl_2",
+    "sha256": "185ae5535de65f79200fe6e5389b9d373921053e2375abd8afa3e62b246a8e94",
+    "bytes": 16734
+  },
+  {
+    "slug": "wrist-curl",
+    "frame": 3,
+    "resource": "wg63_wrist_curl_3",
+    "sha256": "98d3de75b30890854eb9c63e16fc496e168fb20ca1d1ec8c977165d69e6997ef",
+    "bytes": 25902
+  },
+  {
+    "slug": "tricep-pushdown",
+    "frame": 1,
+    "resource": "wg63_tricep_pushdown_1",
+    "sha256": "4b2b812f6610635624b210e45d165d0a73e6c7abfb1f2f2160e0556b12222749",
+    "bytes": 10456
+  },
+  {
+    "slug": "tricep-pushdown",
+    "frame": 2,
+    "resource": "wg63_tricep_pushdown_2",
+    "sha256": "87c0f369c527cb0c35864742e008c3d7e052b982855ef50d47610d403d880099",
+    "bytes": 9832
+  },
+  {
+    "slug": "tricep-pushdown",
+    "frame": 3,
+    "resource": "wg63_tricep_pushdown_3",
+    "sha256": "6092acbcbe6656cb37103b9b5b175497f7f55273503dddcc0c1c3e03621cd2f9",
+    "bytes": 11116
+  },
+  {
+    "slug": "overhead-tricep-extension",
+    "frame": 1,
+    "resource": "wg63_overhead_tricep_extension_1",
+    "sha256": "a7294f8e031320cdf4f17ac70824a07ab862832a5386f11e86402fdffdf8e570",
+    "bytes": 16916
+  },
+  {
+    "slug": "overhead-tricep-extension",
+    "frame": 2,
+    "resource": "wg63_overhead_tricep_extension_2",
+    "sha256": "06d3a6c7e91cc02d1ba3776cfcca6a8a2f416f27843122f1df5e3ba8c43d8e05",
+    "bytes": 23796
+  },
+  {
+    "slug": "overhead-tricep-extension",
+    "frame": 3,
+    "resource": "wg63_overhead_tricep_extension_3",
+    "sha256": "d3d7a4115315964fefb741fa3ab3438a1379c55c2a64201a7e99113af299247b",
+    "bytes": 23800
+  },
+  {
+    "slug": "skull-crusher",
+    "frame": 1,
+    "resource": "wg63_skull_crusher_1",
+    "sha256": "a6deebbc4c52a1014d8ccc0030a7a84a136db140d57f7934b6e30c4517f848dd",
+    "bytes": 14456
+  },
+  {
+    "slug": "skull-crusher",
+    "frame": 2,
+    "resource": "wg63_skull_crusher_2",
+    "sha256": "32ffec9c89e78524d3337e5c36214b0d5a0d5a4e8e4f4e6bcabd5e027c29cfeb",
+    "bytes": 12960
+  },
+  {
+    "slug": "skull-crusher",
+    "frame": 3,
+    "resource": "wg63_skull_crusher_3",
+    "sha256": "ec21a19a24c9d52bfd1fee9c26a418f4e1a6b70f2c655133758c8cf3268220e0",
+    "bytes": 15596
+  },
+  {
+    "slug": "close-grip-bench-press",
+    "frame": 1,
+    "resource": "wg63_close_grip_bench_press_1",
+    "sha256": "58d68a856b18bca83962f15d762a3dcc1b1bd276c774d383ac73c13b794e9ae6",
+    "bytes": 14516
+  },
+  {
+    "slug": "close-grip-bench-press",
+    "frame": 2,
+    "resource": "wg63_close_grip_bench_press_2",
+    "sha256": "cff51e85be7e8a83aea6408a115a25628e85151e6550f482edac7b79349a9f4a",
+    "bytes": 13524
+  },
+  {
+    "slug": "close-grip-bench-press",
+    "frame": 3,
+    "resource": "wg63_close_grip_bench_press_3",
+    "sha256": "dd2b053b9d6f3fb937c5e0c81629995dd1df94912f16cef106ed4e0e1c2cf0e6",
+    "bytes": 14174
+  },
+  {
+    "slug": "dip",
+    "frame": 1,
+    "resource": "wg63_dip_1",
+    "sha256": "175ee07fddf7029b7745287106773b03c6cd742be3a708f05596f7fef63d532e",
+    "bytes": 11208
+  },
+  {
+    "slug": "dip",
+    "frame": 2,
+    "resource": "wg63_dip_2",
+    "sha256": "90e83a37b645e5755833b2ce529ac638c3b8c79d0cc1be68d0cb696698eda531",
+    "bytes": 10474
+  },
+  {
+    "slug": "dip",
+    "frame": 3,
+    "resource": "wg63_dip_3",
+    "sha256": "dac5a5e17b25fd980dfae829b2128b7ef32bfcd509e7dd643b9acc5157a5b25f",
+    "bytes": 11120
+  },
+  {
+    "slug": "assisted-dip",
+    "frame": 1,
+    "resource": "wg63_assisted_dip_1",
+    "sha256": "c8161e3cce16bde2318ea926a66071f57dc39a542df7118818b99ec6075a2092",
+    "bytes": 13514
+  },
+  {
+    "slug": "assisted-dip",
+    "frame": 2,
+    "resource": "wg63_assisted_dip_2",
+    "sha256": "92ba2b26ff1dd6b4b0765333462a97291c4a36e205e9895f59bc43fa3b101208",
+    "bytes": 14810
+  },
+  {
+    "slug": "assisted-dip",
+    "frame": 3,
+    "resource": "wg63_assisted_dip_3",
+    "sha256": "fb96bda90bd03b5c575b16252932c6f228b2c2ba81c7771a9a73baa769d59a91",
+    "bytes": 14812
+  },
+  {
+    "slug": "plank",
+    "frame": 1,
+    "resource": "wg63_plank_1",
+    "sha256": "0cdccb288c28be19a93c6d6fb84e02cb8fa7c0be3b1fea3ac5229844b840ff37",
+    "bytes": 10186
+  },
+  {
+    "slug": "plank",
+    "frame": 2,
+    "resource": "wg63_plank_2",
+    "sha256": "3c3bd06fa68c2c4820e2eb5737c73e4f8f92d62b09dcaed7556f74b9b4ad18f5",
+    "bytes": 10796
+  },
+  {
+    "slug": "plank",
+    "frame": 3,
+    "resource": "wg63_plank_3",
+    "sha256": "d3e1320dbf6ca8c4ae6554aea04f3d428526ed74bc23e8da5dd1a933e837ddf8",
+    "bytes": 11606
+  },
+  {
+    "slug": "side-plank",
+    "frame": 1,
+    "resource": "wg63_side_plank_1",
+    "sha256": "a009f1b47f4414124c93dd2d5b38cf0667fbc4c5f8a074e07c442e08e2a2dda4",
+    "bytes": 8510
+  },
+  {
+    "slug": "side-plank",
+    "frame": 2,
+    "resource": "wg63_side_plank_2",
+    "sha256": "97e3ac4970914831ae381e03b46e46581598dd90862e901e9110a49e90d90b31",
+    "bytes": 9752
+  },
+  {
+    "slug": "side-plank",
+    "frame": 3,
+    "resource": "wg63_side_plank_3",
+    "sha256": "01ec64b496bd6e7e651ae776784f9f832b848f890174e48e68caea1f9e601baa",
+    "bytes": 9592
+  },
+  {
+    "slug": "hanging-leg-raise",
+    "frame": 1,
+    "resource": "wg63_hanging_leg_raise_1",
+    "sha256": "da5c681b05ef4fd494902ed48b9f46e855e7a133c3b1f4447aef8bc7791397c7",
+    "bytes": 16906
+  },
+  {
+    "slug": "hanging-leg-raise",
+    "frame": 2,
+    "resource": "wg63_hanging_leg_raise_2",
+    "sha256": "40109e591c6873507d5b44c2010dfe286026432acf97b532e1d8d8db4436b504",
+    "bytes": 24942
+  },
+  {
+    "slug": "hanging-leg-raise",
+    "frame": 3,
+    "resource": "wg63_hanging_leg_raise_3",
+    "sha256": "e82b6ee9cb553a96abaab5e10fdc67b549ca98b565ed12bb5731846c45b8c3bd",
+    "bytes": 16342
+  },
+  {
+    "slug": "cable-crunch",
+    "frame": 1,
+    "resource": "wg63_cable_crunch_1",
+    "sha256": "5885578f5091771bfc2553e5ff85783fd3b64f5de2f6a08f5e1a66e74be70443",
+    "bytes": 9146
+  },
+  {
+    "slug": "cable-crunch",
+    "frame": 2,
+    "resource": "wg63_cable_crunch_2",
+    "sha256": "f8adb67dacfde4f67c56fe40a7f7802d033e6a0a03fcf37b691b6a860cbdbc1a",
+    "bytes": 23636
+  },
+  {
+    "slug": "cable-crunch",
+    "frame": 3,
+    "resource": "wg63_cable_crunch_3",
+    "sha256": "53726b3ad8538a2be5d2c4bc2e225f65510f98adfdcf177c8f490dba34caadb8",
+    "bytes": 12220
+  },
+  {
+    "slug": "ab-wheel",
+    "frame": 1,
+    "resource": "wg63_ab_wheel_1",
+    "sha256": "25a47d72eb8fd00257ba3b1b3cc77df56923f082342019aa385199dd65f1e303",
+    "bytes": 9230
+  },
+  {
+    "slug": "ab-wheel",
+    "frame": 2,
+    "resource": "wg63_ab_wheel_2",
+    "sha256": "1559c4665951233607f8b65128115924bf865a9d8569c61e1759e5e41c5783a5",
+    "bytes": 10012
+  },
+  {
+    "slug": "ab-wheel",
+    "frame": 3,
+    "resource": "wg63_ab_wheel_3",
+    "sha256": "647a9da75bd50643d5a3deebdc31a3fdc52d82994ae89995bf72551a27120cee",
+    "bytes": 9700
+  },
+  {
+    "slug": "running",
+    "frame": 1,
+    "resource": "wg63_running_1",
+    "sha256": "19c21abbdda23f83ad93fb8296cc5e13cf04291c543169600dbec0474b4faead",
+    "bytes": 22138
+  },
+  {
+    "slug": "running",
+    "frame": 2,
+    "resource": "wg63_running_2",
+    "sha256": "055642fd79c00dc49120885a3a718721405eb116cd88b97038840f256ec3d2b7",
+    "bytes": 21506
+  },
+  {
+    "slug": "running",
+    "frame": 3,
+    "resource": "wg63_running_3",
+    "sha256": "77f0d7d43bb32dc038536a19cab02097ac892664d35b15753a5e9726d1bd4bfd",
+    "bytes": 35706
+  },
+  {
+    "slug": "walking",
+    "frame": 1,
+    "resource": "wg63_walking_1",
+    "sha256": "e133a44c1ecc567bc9f4fcfce2b52a60ea275498a195aa7c829a888d1fdfbc17",
+    "bytes": 20782
+  },
+  {
+    "slug": "walking",
+    "frame": 2,
+    "resource": "wg63_walking_2",
+    "sha256": "48ba884fbfa779806a46ba152686e2d0f616eb186b089a0f6f5cb2cd8ff5fcb1",
+    "bytes": 27674
+  },
+  {
+    "slug": "walking",
+    "frame": 3,
+    "resource": "wg63_walking_3",
+    "sha256": "efd9aff5f858c41d7fce8ace43638c72549f3b31bb73d31ae135469ec80ca876",
+    "bytes": 23382
+  },
+  {
+    "slug": "cycling",
+    "frame": 1,
+    "resource": "wg63_cycling_1",
+    "sha256": "10bab046bf6a809e490a60f17ab9705b0ade954af1336c2333cada1093c42e2b",
+    "bytes": 20894
+  },
+  {
+    "slug": "cycling",
+    "frame": 2,
+    "resource": "wg63_cycling_2",
+    "sha256": "09d88c430092b393ac99ec0c3c9eee4e8c6d75933e28979f03da510fed538567",
+    "bytes": 29100
+  },
+  {
+    "slug": "cycling",
+    "frame": 3,
+    "resource": "wg63_cycling_3",
+    "sha256": "3239fc69a7587b1449834caf54a1c4da7872ebac08f82b3a196a6b84327bd4c2",
+    "bytes": 35564
+  },
+  {
+    "slug": "rowing",
+    "frame": 1,
+    "resource": "wg63_rowing_1",
+    "sha256": "e69be6913790ccbf258fed3110e3b7e02991120cb144f38126f9ae00814d7b29",
+    "bytes": 20812
+  },
+  {
+    "slug": "rowing",
+    "frame": 2,
+    "resource": "wg63_rowing_2",
+    "sha256": "6ce8d5589db436f7b2cd83a11c38b36e0491d2214feb54b5e3e8783953ef45d7",
+    "bytes": 27984
+  },
+  {
+    "slug": "rowing",
+    "frame": 3,
+    "resource": "wg63_rowing_3",
+    "sha256": "99ab9f15b20d0db15cffa6ada2c118ffcb770c43932fbf66b743a46391df72af",
+    "bytes": 32418
+  },
+  {
+    "slug": "stair-climber",
+    "frame": 1,
+    "resource": "wg63_stair_climber_1",
+    "sha256": "317a0d1c6171f828a353fc6866bf08838981318317cb24dd7c76be15cda90196",
+    "bytes": 21290
+  },
+  {
+    "slug": "stair-climber",
+    "frame": 2,
+    "resource": "wg63_stair_climber_2",
+    "sha256": "708bbebaeaacf7650ce8f2e57e53ab5c68efedb227f1b4a2b75593569ee4635b",
+    "bytes": 32826
+  },
+  {
+    "slug": "stair-climber",
+    "frame": 3,
+    "resource": "wg63_stair_climber_3",
+    "sha256": "8beef43c93ebbf13a0fb287bd84c4346bf89d715c6e3f70eadd160bf8eeb925d",
+    "bytes": 25844
+  },
+  {
+    "slug": "dumbbell-fly",
+    "frame": 1,
+    "resource": "wg63_dumbbell_fly_1",
+    "sha256": "4b1c5d2f8fe2d75c0d0a9d1f3826e5f0481f7a7972062593f97a188c3f39e4ec",
+    "bytes": 13962
+  },
+  {
+    "slug": "dumbbell-fly",
+    "frame": 2,
+    "resource": "wg63_dumbbell_fly_2",
+    "sha256": "9e5d439809f2ec78414ebd2f88a105781211c01fc17e562a0d038ec3c4db2b2a",
+    "bytes": 16076
+  },
+  {
+    "slug": "dumbbell-fly",
+    "frame": 3,
+    "resource": "wg63_dumbbell_fly_3",
+    "sha256": "565970928ed68883f3979b960aa4c160874d2e2a62b7ce55b4ae719cd7ed25af",
+    "bytes": 14950
+  },
+  {
+    "slug": "incline-cable-fly",
+    "frame": 1,
+    "resource": "wg63_incline_cable_fly_1",
+    "sha256": "cadf532ba8c737edce48ec41677099edfe9d4da139dc10acdb1801841d646eea",
+    "bytes": 15604
+  },
+  {
+    "slug": "incline-cable-fly",
+    "frame": 2,
+    "resource": "wg63_incline_cable_fly_2",
+    "sha256": "a3febbf77311f83cb5555c53aceac63ea5e951b465dafeb325de4ddf89d01a3a",
+    "bytes": 16266
+  },
+  {
+    "slug": "incline-cable-fly",
+    "frame": 3,
+    "resource": "wg63_incline_cable_fly_3",
+    "sha256": "4c32247e385b03c15c31f0cdb58cb336c9116caa9bf6311760f70bd8140a534e",
+    "bytes": 16522
+  },
+  {
+    "slug": "decline-dumbbell-press",
+    "frame": 1,
+    "resource": "wg63_decline_dumbbell_press_1",
+    "sha256": "259b534ea8f14b306ec6a7e12c412926b22e28d44e3900d6a7481dd3887ca2cc",
+    "bytes": 14468
+  },
+  {
+    "slug": "decline-dumbbell-press",
+    "frame": 2,
+    "resource": "wg63_decline_dumbbell_press_2",
+    "sha256": "e7f5b4768a0ff8a6ea8a6ec94b09e0f174651112ec7279862c1a733236a3cc30",
+    "bytes": 17282
+  },
+  {
+    "slug": "decline-dumbbell-press",
+    "frame": 3,
+    "resource": "wg63_decline_dumbbell_press_3",
+    "sha256": "ddc9441aa5fb89f3b1b2d3b197b0e9daf38f79a058ab4edaddbf2225ea2b726e",
+    "bytes": 14026
+  },
+  {
+    "slug": "smith-machine-bench-press",
+    "frame": 1,
+    "resource": "wg63_smith_machine_bench_press_1",
+    "sha256": "9d3b297b7073b5a14c8421c2c5ddc770f3a6e3b8c7fdeb26e45554de3dd4b01e",
+    "bytes": 18978
+  },
+  {
+    "slug": "smith-machine-bench-press",
+    "frame": 2,
+    "resource": "wg63_smith_machine_bench_press_2",
+    "sha256": "a7bc1e453fea5444bcfde3f312bf877600b88d2f6e690e6942c2038e54d7be45",
+    "bytes": 14554
+  },
+  {
+    "slug": "smith-machine-bench-press",
+    "frame": 3,
+    "resource": "wg63_smith_machine_bench_press_3",
+    "sha256": "71487b6192d43b2794e480a5a6d2e9eae65de841c1fbc11aca50c368e6bf24b3",
+    "bytes": 19404
+  },
+  {
+    "slug": "landmine-press",
+    "frame": 1,
+    "resource": "wg63_landmine_press_1",
+    "sha256": "f66ffd59318f6e0b9772004d67bbf75f106885e74788891ad40380b6f0d09956",
+    "bytes": 13964
+  },
+  {
+    "slug": "landmine-press",
+    "frame": 2,
+    "resource": "wg63_landmine_press_2",
+    "sha256": "ed5474038522e563d1b86b19917d3a514ce02689409551591e705507c123b92c",
+    "bytes": 21834
+  },
+  {
+    "slug": "landmine-press",
+    "frame": 3,
+    "resource": "wg63_landmine_press_3",
+    "sha256": "caee4f881052eb1b5078996adb57ffa0362d8d61674a110c6a93f3cb391ac790",
+    "bytes": 16208
+  },
+  {
+    "slug": "chest-dip",
+    "frame": 1,
+    "resource": "wg63_chest_dip_1",
+    "sha256": "f26c33682c30e01d73ad0e447d4ea4ab468dcd9d01a106a279627e7ec2da6a0e",
+    "bytes": 11272
+  },
+  {
+    "slug": "chest-dip",
+    "frame": 2,
+    "resource": "wg63_chest_dip_2",
+    "sha256": "ba5d13fd1c4bf64bc38701f43a7545dc4cc53cc009f38a7660548cb16b1e2a2d",
+    "bytes": 12584
+  },
+  {
+    "slug": "chest-dip",
+    "frame": 3,
+    "resource": "wg63_chest_dip_3",
+    "sha256": "8f6ed600a86ba8f406d976a132333db8e66a3a49c5c503354befdc3cb67d147d",
+    "bytes": 11180
+  },
+  {
+    "slug": "weighted-dip",
+    "frame": 1,
+    "resource": "wg63_weighted_dip_1",
+    "sha256": "e3d945f29e3ce503823bab942e48e3e7c89b50a95546b41229c7b5e4b1bd534b",
+    "bytes": 17714
+  },
+  {
+    "slug": "weighted-dip",
+    "frame": 2,
+    "resource": "wg63_weighted_dip_2",
+    "sha256": "cfdcd041e813046b83cd162714d9e13184944b735246fc01126884256f13bc65",
+    "bytes": 18266
+  },
+  {
+    "slug": "weighted-dip",
+    "frame": 3,
+    "resource": "wg63_weighted_dip_3",
+    "sha256": "c4fc3311623cfe1c4aef225fdb407d57026b14a4699f0421ed6f13e147bea34f",
+    "bytes": 20104
+  },
+  {
+    "slug": "machine-shoulder-press",
+    "frame": 1,
+    "resource": "wg63_machine_shoulder_press_1",
+    "sha256": "1522eda0e9bb5b64e352457eea96dba2349ec524045a63c08c34762178870b53",
+    "bytes": 27652
+  },
+  {
+    "slug": "machine-shoulder-press",
+    "frame": 2,
+    "resource": "wg63_machine_shoulder_press_2",
+    "sha256": "7bc65d998f50eff69cc53b213cbcb89cace44781362f681a88cf11340af7f8c0",
+    "bytes": 39146
+  },
+  {
+    "slug": "machine-shoulder-press",
+    "frame": 3,
+    "resource": "wg63_machine_shoulder_press_3",
+    "sha256": "5e392cbb0d8e344af81f56944d9fc9ce658d33a13889209e525c1655a54400fa",
+    "bytes": 34642
+  },
+  {
+    "slug": "standing-dumbbell-press",
+    "frame": 1,
+    "resource": "wg63_standing_dumbbell_press_1",
+    "sha256": "996bf54ac2ce2399d97d7849c8964a87a0544619f469fa0d449472fb24f6d6fc",
+    "bytes": 13036
+  },
+  {
+    "slug": "standing-dumbbell-press",
+    "frame": 2,
+    "resource": "wg63_standing_dumbbell_press_2",
+    "sha256": "8f0799acc38bf7cf806e01eb9d5f061b5e29cbd75988f432ece509645c93d40f",
+    "bytes": 18166
+  },
+  {
+    "slug": "standing-dumbbell-press",
+    "frame": 3,
+    "resource": "wg63_standing_dumbbell_press_3",
+    "sha256": "8f33478abad67a229d37fa7d669d022dbe2fe935be2018b79e7149fb02ae9822",
+    "bytes": 13774
+  },
+  {
+    "slug": "push-press",
+    "frame": 1,
+    "resource": "wg63_push_press_1",
+    "sha256": "592a4cd137e6b21657c24d647bbf278e8498004a7a74ede4498bcab2cb40f610",
+    "bytes": 15534
+  },
+  {
+    "slug": "push-press",
+    "frame": 2,
+    "resource": "wg63_push_press_2",
+    "sha256": "596300932586a16a0e83f6d75bb21111c3773e7f3e66bdedc87ee3f8f820da61",
+    "bytes": 24242
+  },
+  {
+    "slug": "push-press",
+    "frame": 3,
+    "resource": "wg63_push_press_3",
+    "sha256": "201f1f0965516da056d58a2d6bff2c7e2b222c85e7c2a3e94658c4a8accc29b2",
+    "bytes": 20088
+  },
+  {
+    "slug": "machine-lateral-raise",
+    "frame": 1,
+    "resource": "wg63_machine_lateral_raise_1",
+    "sha256": "bf952c572c909873f86da0ca2bffc384386caccc55eb700c197b706c5a7933d0",
+    "bytes": 25802
+  },
+  {
+    "slug": "machine-lateral-raise",
+    "frame": 2,
+    "resource": "wg63_machine_lateral_raise_2",
+    "sha256": "f7424d4428b58ef1bc080696a1b94dd714d29ff06b15eaf74a8d2f9adc5d4392",
+    "bytes": 38684
+  },
+  {
+    "slug": "machine-lateral-raise",
+    "frame": 3,
+    "resource": "wg63_machine_lateral_raise_3",
+    "sha256": "e91389401ce1683d0e94f7712361de059828de2cee0b8438b7fdab912fec1c55",
+    "bytes": 30660
+  },
+  {
+    "slug": "cable-front-raise",
+    "frame": 1,
+    "resource": "wg63_cable_front_raise_1",
+    "sha256": "24e59268220a00d948b7b1d3fb9a49fb1c4e565a026a708b73aa0689caf89fca",
+    "bytes": 10748
+  },
+  {
+    "slug": "cable-front-raise",
+    "frame": 2,
+    "resource": "wg63_cable_front_raise_2",
+    "sha256": "1fb4d1415feaef9fe03b5adf80f54d09af2760cfb954b5a475e66a927efe7a24",
+    "bytes": 12282
+  },
+  {
+    "slug": "cable-front-raise",
+    "frame": 3,
+    "resource": "wg63_cable_front_raise_3",
+    "sha256": "0e3f594bf899fe1e777805f069133b569b1c2eb79e7c510bac6fdf41c5b4ec89",
+    "bytes": 12256
+  },
+  {
+    "slug": "plate-front-raise",
+    "frame": 1,
+    "resource": "wg63_plate_front_raise_1",
+    "sha256": "3c987ae10de36781ecba6f68c6a829f9d40b2842f462608ef8b8c48ccb6ea471",
+    "bytes": 12418
+  },
+  {
+    "slug": "plate-front-raise",
+    "frame": 2,
+    "resource": "wg63_plate_front_raise_2",
+    "sha256": "9fe8dcec236895ae5993200be0baf2155b9822b3aa55002b1513c4138e2bce30",
+    "bytes": 12150
+  },
+  {
+    "slug": "plate-front-raise",
+    "frame": 3,
+    "resource": "wg63_plate_front_raise_3",
+    "sha256": "799f6983c62494b38e794ca75a78f496f4b85ad5c1846aa64e225dc564b715b3",
+    "bytes": 10908
+  },
+  {
+    "slug": "bent-over-rear-delt-raise",
+    "frame": 1,
+    "resource": "wg63_bent_over_rear_delt_raise_1",
+    "sha256": "3e8fa8a7f0ed118deedc9a1c3589b7383962dfd71f977f1e99fc3c51014d02f8",
+    "bytes": 15470
+  },
+  {
+    "slug": "bent-over-rear-delt-raise",
+    "frame": 2,
+    "resource": "wg63_bent_over_rear_delt_raise_2",
+    "sha256": "19799e12a0fab111d24c4eb8fd2bd8db24f085970dc7e20ca02201f397b98dcb",
+    "bytes": 20408
+  },
+  {
+    "slug": "bent-over-rear-delt-raise",
+    "frame": 3,
+    "resource": "wg63_bent_over_rear_delt_raise_3",
+    "sha256": "1d5e6a429865bdd8af46e58040c61a9cc9edcf5d7dc68dc3fbb4c76d178bb057",
+    "bytes": 16838
+  },
+  {
+    "slug": "cable-rear-delt-fly",
+    "frame": 1,
+    "resource": "wg63_cable_rear_delt_fly_1",
+    "sha256": "8e87655c17a905e6e69a7571b49ea4f41ac9447833c49abe804a89cb9e70a2c8",
+    "bytes": 20460
+  },
+  {
+    "slug": "cable-rear-delt-fly",
+    "frame": 2,
+    "resource": "wg63_cable_rear_delt_fly_2",
+    "sha256": "7f658abf9b58ced4964aef573e27a16f314501210863e5fb38b6ff2a3c0c197f",
+    "bytes": 31438
+  },
+  {
+    "slug": "cable-rear-delt-fly",
+    "frame": 3,
+    "resource": "wg63_cable_rear_delt_fly_3",
+    "sha256": "c88c0a6cdbb880a069f510102c88825c9d2c84cbadc7484dd7fde00a6c3da19b",
+    "bytes": 29792
+  },
+  {
+    "slug": "pendlay-row",
+    "frame": 1,
+    "resource": "wg63_pendlay_row_1",
+    "sha256": "f91e0484de97d89e15bb0c21d7134ab300659d00b9c5174000b25f26b5165770",
+    "bytes": 17610
+  },
+  {
+    "slug": "pendlay-row",
+    "frame": 2,
+    "resource": "wg63_pendlay_row_2",
+    "sha256": "576f9e83e08b132742f823b743d25c8b9583e12eb52df0b39c8d26a43345b876",
+    "bytes": 18154
+  },
+  {
+    "slug": "pendlay-row",
+    "frame": 3,
+    "resource": "wg63_pendlay_row_3",
+    "sha256": "c7a7a23bda2d83356e6ad52ccdc516acfce2044f30fd1e675102ac0aae68bfe1",
+    "bytes": 21634
+  },
+  {
+    "slug": "inverted-row",
+    "frame": 1,
+    "resource": "wg63_inverted_row_1",
+    "sha256": "35b5dfa3e55f1aa69afc7c84c7f08ff5c32c1779a9f194d71f192cec4525095b",
+    "bytes": 12706
+  },
+  {
+    "slug": "inverted-row",
+    "frame": 2,
+    "resource": "wg63_inverted_row_2",
+    "sha256": "48cfe9fa55d33e5073ee06c75e76a369b250e72e02ba6a2396dbb38e909e95f3",
+    "bytes": 12988
+  },
+  {
+    "slug": "inverted-row",
+    "frame": 3,
+    "resource": "wg63_inverted_row_3",
+    "sha256": "bfcd7f9b68bbdd4142f191f56f552c44a31051888e5ed48f090b331daa10c140",
+    "bytes": 13394
+  },
+  {
+    "slug": "meadows-row",
+    "frame": 1,
+    "resource": "wg63_meadows_row_1",
+    "sha256": "47aef8b57ff9b3e67791ce222e69637aa1caa7a7152444cb8915c58768ab46d2",
+    "bytes": 16514
+  },
+  {
+    "slug": "meadows-row",
+    "frame": 2,
+    "resource": "wg63_meadows_row_2",
+    "sha256": "ecead697727d6191dc12a7663e12ebddc4ddc91e76ed6634bb04eec8757829a8",
+    "bytes": 18016
+  },
+  {
+    "slug": "meadows-row",
+    "frame": 3,
+    "resource": "wg63_meadows_row_3",
+    "sha256": "b6e464d3875056ea5da5e783fa11f8d97f18977a9f0e32231e9b0c28c2cc8817",
+    "bytes": 24012
+  },
+  {
+    "slug": "single-arm-cable-row",
+    "frame": 1,
+    "resource": "wg63_single_arm_cable_row_1",
+    "sha256": "9d682fd156735687f022bada9bb072e6ea042ae303c6d5c7b1cef9d0ace23e74",
+    "bytes": 23154
+  },
+  {
+    "slug": "single-arm-cable-row",
+    "frame": 2,
+    "resource": "wg63_single_arm_cable_row_2",
+    "sha256": "c3f98382f6d25d0566da1849bae5c014b53e0ed3914cc7a067ad0a288f4bf501",
+    "bytes": 25972
+  },
+  {
+    "slug": "single-arm-cable-row",
+    "frame": 3,
+    "resource": "wg63_single_arm_cable_row_3",
+    "sha256": "f2c0d395d6673cc4bc98faaf92bb7f973955a4cd53bda9d6e3991057c6f31774",
+    "bytes": 35282
+  },
+  {
+    "slug": "wide-grip-lat-pulldown",
+    "frame": 1,
+    "resource": "wg63_wide_grip_lat_pulldown_1",
+    "sha256": "7d66e9ef15f83560a23c52c92a46ef000158e6cb890b9d5cde87c46f7441c9e1",
+    "bytes": 22264
+  },
+  {
+    "slug": "wide-grip-lat-pulldown",
+    "frame": 2,
+    "resource": "wg63_wide_grip_lat_pulldown_2",
+    "sha256": "a4af4a6a1afd2e810bfbdc66d15dace1fa422ceb8ba092a14a410137d66f557c",
+    "bytes": 31334
+  },
+  {
+    "slug": "wide-grip-lat-pulldown",
+    "frame": 3,
+    "resource": "wg63_wide_grip_lat_pulldown_3",
+    "sha256": "db0aefbf6ec9c3c2d38c7b81e98d5706f64c6d4c37483154691885a4f8305bc7",
+    "bytes": 26332
+  },
+  {
+    "slug": "neutral-grip-pull-up",
+    "frame": 1,
+    "resource": "wg63_neutral_grip_pull_up_1",
+    "sha256": "dd32a57e6d529f3dcd5f2e9747c73e8c0244f027f345c80c00beb1196d64e405",
+    "bytes": 8704
+  },
+  {
+    "slug": "neutral-grip-pull-up",
+    "frame": 2,
+    "resource": "wg63_neutral_grip_pull_up_2",
+    "sha256": "dcff1ae00438999a761f74829f2a79091e1092b8e2f0875508b6a32febf325cb",
+    "bytes": 9170
+  },
+  {
+    "slug": "neutral-grip-pull-up",
+    "frame": 3,
+    "resource": "wg63_neutral_grip_pull_up_3",
+    "sha256": "b33f146d1847dd6c7bd88145054d3db3639c7e08aa0690a9ef61322c52b552c5",
+    "bytes": 11690
+  },
+  {
+    "slug": "assisted-chin-up",
+    "frame": 1,
+    "resource": "wg63_assisted_chin_up_1",
+    "sha256": "648fa2b8ddeb4af6880eb86c03010f6fab6df836638bf65a97ffb7d73012b67c",
+    "bytes": 19534
+  },
+  {
+    "slug": "assisted-chin-up",
+    "frame": 2,
+    "resource": "wg63_assisted_chin_up_2",
+    "sha256": "70ac425d02f2e453fd783712122e78849015268700f615198c29d2c251929149",
+    "bytes": 29730
+  },
+  {
+    "slug": "assisted-chin-up",
+    "frame": 3,
+    "resource": "wg63_assisted_chin_up_3",
+    "sha256": "c6fb0da81f8d3bb69c06f3ebdb0ac53c7881b697121d160dff077368117ca1e2",
+    "bytes": 22260
+  },
+  {
+    "slug": "weighted-chin-up",
+    "frame": 1,
+    "resource": "wg63_weighted_chin_up_1",
+    "sha256": "839bf59aa6c8dc88652f6cf02f34185917fd3cb2ec9d254f3f812e9de52b1454",
+    "bytes": 13910
+  },
+  {
+    "slug": "weighted-chin-up",
+    "frame": 2,
+    "resource": "wg63_weighted_chin_up_2",
+    "sha256": "b3fda1892462eab51153f30dc475674d6de850d24967fe5acbd74553bccc6465",
+    "bytes": 21302
+  },
+  {
+    "slug": "weighted-chin-up",
+    "frame": 3,
+    "resource": "wg63_weighted_chin_up_3",
+    "sha256": "82039edae01cdf16475d15ea3c297bca01fb36ecce6fe65958ec3d7c48070b0b",
+    "bytes": 18044
+  },
+  {
+    "slug": "rack-pull",
+    "frame": 1,
+    "resource": "wg63_rack_pull_1",
+    "sha256": "82034b7a8d1a302d8d8549e97e9623c8c80e3cd16a456f8e62c89fc64041eed7",
+    "bytes": 18000
+  },
+  {
+    "slug": "rack-pull",
+    "frame": 2,
+    "resource": "wg63_rack_pull_2",
+    "sha256": "f6e51619e18c3e2812a7507dc76c6bdd02489c33d3b8357eaeb85491bf031e57",
+    "bytes": 19236
+  },
+  {
+    "slug": "rack-pull",
+    "frame": 3,
+    "resource": "wg63_rack_pull_3",
+    "sha256": "461eb4e7996887eb81ce379955f12f142d2e27e257d6b2f8286be6eb91f0cb35",
+    "bytes": 30366
+  },
+  {
+    "slug": "back-extension",
+    "frame": 1,
+    "resource": "wg63_back_extension_1",
+    "sha256": "a722ef8f7ab55790c093eda6825709a5f33de784d0787660c1ccdc24252db8ff",
+    "bytes": 8708
+  },
+  {
+    "slug": "back-extension",
+    "frame": 2,
+    "resource": "wg63_back_extension_2",
+    "sha256": "7fb795b7c59a2d5177c3de824468e7432361e1fc2c639b37613c43a1d91d8072",
+    "bytes": 10232
+  },
+  {
+    "slug": "back-extension",
+    "frame": 3,
+    "resource": "wg63_back_extension_3",
+    "sha256": "ce585f041c5aed99648d201d36c560107ebb5e85c61eaedb3c9909f3c18cadbc",
+    "bytes": 8038
+  },
+  {
+    "slug": "dumbbell-shrug",
+    "frame": 1,
+    "resource": "wg63_dumbbell_shrug_1",
+    "sha256": "90d83ddfbc9e0bffe55c195f5f235059a3bec80aee9c055955578d26c4a16cf8",
+    "bytes": 11932
+  },
+  {
+    "slug": "dumbbell-shrug",
+    "frame": 2,
+    "resource": "wg63_dumbbell_shrug_2",
+    "sha256": "edc72ff4232776fbe9b42bf33bce3a86cba63d15e6688040777bf54e15255048",
+    "bytes": 12036
+  },
+  {
+    "slug": "dumbbell-shrug",
+    "frame": 3,
+    "resource": "wg63_dumbbell_shrug_3",
+    "sha256": "20fe0456dd843846ccdfd424dc0f2c281c4ac1b5cdf01f5cd2b6715f8939106a",
+    "bytes": 13324
+  },
+  {
+    "slug": "goblet-squat",
+    "frame": 1,
+    "resource": "wg63_goblet_squat_1",
+    "sha256": "3effc1f2eae4953e2737e1fb1ccbf6d0ccba662b7474bd6b410c83364fdd26a9",
+    "bytes": 13966
+  },
+  {
+    "slug": "goblet-squat",
+    "frame": 2,
+    "resource": "wg63_goblet_squat_2",
+    "sha256": "12eeb13181b2045dd550360e7ec73e04d1d8725688a40aac68b5954282fa8b08",
+    "bytes": 13732
+  },
+  {
+    "slug": "goblet-squat",
+    "frame": 3,
+    "resource": "wg63_goblet_squat_3",
+    "sha256": "f9eb08f5734bb5377f1e49efd26fcc2ed47857b9ad2e8ad30dfd087599a8fb67",
+    "bytes": 13552
+  },
+  {
+    "slug": "smith-machine-squat",
+    "frame": 1,
+    "resource": "wg63_smith_machine_squat_1",
+    "sha256": "757a7e38f683e5d4f0116fbe291cef5aa9577a17c6cafa3fcafbb320661bc712",
+    "bytes": 14910
+  },
+  {
+    "slug": "smith-machine-squat",
+    "frame": 2,
+    "resource": "wg63_smith_machine_squat_2",
+    "sha256": "0514a1a8332cc9f7093bb3441e34740d447958614d33ff6e93aefd2e197d51d5",
+    "bytes": 13868
+  },
+  {
+    "slug": "smith-machine-squat",
+    "frame": 3,
+    "resource": "wg63_smith_machine_squat_3",
+    "sha256": "35f81e5fc57724bd133e8815a375d7fb431d079ffd011454fe06620e7c065c69",
+    "bytes": 15802
+  },
+  {
+    "slug": "belt-squat",
+    "frame": 1,
+    "resource": "wg63_belt_squat_1",
+    "sha256": "eaa3f0292fe5ccd7aa386874242543076f25e8b39ac3d85d6c27d06fdff0e2ae",
+    "bytes": 21974
+  },
+  {
+    "slug": "belt-squat",
+    "frame": 2,
+    "resource": "wg63_belt_squat_2",
+    "sha256": "39ccc1f1759867fb51e84e0f7b9405881b357455f06744b8d3efe967658fda17",
+    "bytes": 26722
+  },
+  {
+    "slug": "belt-squat",
+    "frame": 3,
+    "resource": "wg63_belt_squat_3",
+    "sha256": "655166a1824ecec5f6d4d0346d239d36ae4f3a1a6c12e13e6231fa6e386ed8c2",
+    "bytes": 26858
+  },
+  {
+    "slug": "sumo-deadlift",
+    "frame": 1,
+    "resource": "wg63_sumo_deadlift_1",
+    "sha256": "926522e8d32048cc3dc4806f530ac3def85c7ce7ea1c18487a9725f39066ca29",
+    "bytes": 17318
+  },
+  {
+    "slug": "sumo-deadlift",
+    "frame": 2,
+    "resource": "wg63_sumo_deadlift_2",
+    "sha256": "98877248fdb9ce6cd703272c3c7880662d9e46fab1d08ef66c18551a99223957",
+    "bytes": 33638
+  },
+  {
+    "slug": "sumo-deadlift",
+    "frame": 3,
+    "resource": "wg63_sumo_deadlift_3",
+    "sha256": "9612f41e14245b8de93b7593000eed1b2413a86a3f100757de184b114c39eb17",
+    "bytes": 24468
+  },
+  {
+    "slug": "trap-bar-deadlift",
+    "frame": 1,
+    "resource": "wg63_trap_bar_deadlift_1",
+    "sha256": "22cbf9ac371240295149b029fd49a63ae93f88b9ca6a1d0693341163ea4d170d",
+    "bytes": 21236
+  },
+  {
+    "slug": "trap-bar-deadlift",
+    "frame": 2,
+    "resource": "wg63_trap_bar_deadlift_2",
+    "sha256": "8da1bae006c10f1c32faef9c2741299613db783e8e60b1eb98e5c3c0a7045404",
+    "bytes": 39442
+  },
+  {
+    "slug": "trap-bar-deadlift",
+    "frame": 3,
+    "resource": "wg63_trap_bar_deadlift_3",
+    "sha256": "05e285f873ffaf20c9fcd787a1f99af98a53e5e9c1b2f1886d02b758623f197b",
+    "bytes": 34914
+  },
+  {
+    "slug": "lying-leg-curl",
+    "frame": 1,
+    "resource": "wg63_lying_leg_curl_1",
+    "sha256": "752f4b4e5d95f513e2f81dc162f05be81b8fc67e2f2075d490ffff0b8438f1c1",
+    "bytes": 11698
+  },
+  {
+    "slug": "lying-leg-curl",
+    "frame": 2,
+    "resource": "wg63_lying_leg_curl_2",
+    "sha256": "28dc7edc410f5907e039d78f1c49de5c67609dacc47396eca3c13cd119f2cc22",
+    "bytes": 14630
+  },
+  {
+    "slug": "lying-leg-curl",
+    "frame": 3,
+    "resource": "wg63_lying_leg_curl_3",
+    "sha256": "2276f3f12c32ff7817bc9ecd06820f438f0975f94ea666f7660ca586ba8a4dfa",
+    "bytes": 13650
+  },
+  {
+    "slug": "nordic-hamstring-curl",
+    "frame": 1,
+    "resource": "wg63_nordic_hamstring_curl_1",
+    "sha256": "29a48a1564416ea8057848ebf685520b7f698a3ff98c8189e4955f8e145d4112",
+    "bytes": 14514
+  },
+  {
+    "slug": "nordic-hamstring-curl",
+    "frame": 2,
+    "resource": "wg63_nordic_hamstring_curl_2",
+    "sha256": "86ba8b2c1bbcc45787b32f81ffdfb7113f1017a5cf62557f43b71855a6bc2ca6",
+    "bytes": 19016
+  },
+  {
+    "slug": "nordic-hamstring-curl",
+    "frame": 3,
+    "resource": "wg63_nordic_hamstring_curl_3",
+    "sha256": "ce82c6c93533eb42c971e6fdf4f3bd7a9af92d61336a22865b270ed46507ff18",
+    "bytes": 16296
+  },
+  {
+    "slug": "single-leg-romanian-deadlift",
+    "frame": 1,
+    "resource": "wg63_single_leg_romanian_deadlift_1",
+    "sha256": "7a8cf7e9c72cd56ee3ae71d727eb353ba23d25ab2da43a6c5c5581fbe3dcfcc7",
+    "bytes": 13314
+  },
+  {
+    "slug": "single-leg-romanian-deadlift",
+    "frame": 2,
+    "resource": "wg63_single_leg_romanian_deadlift_2",
+    "sha256": "242be87c655881ae2eede6963dba7308507c09002fc84ab659fbd9a2d8155609",
+    "bytes": 21036
+  },
+  {
+    "slug": "single-leg-romanian-deadlift",
+    "frame": 3,
+    "resource": "wg63_single_leg_romanian_deadlift_3",
+    "sha256": "2c28ce863ca5e06f8aa5359b9e12bb621cff5126a950b91a651b44a1cc602b0f",
+    "bytes": 16662
+  },
+  {
+    "slug": "reverse-lunge",
+    "frame": 1,
+    "resource": "wg63_reverse_lunge_1",
+    "sha256": "07f6dba82bd648866a2f7a8ffae17fa6cbff0267c3aadbbe04765eebfd6ddb2e",
+    "bytes": 10990
+  },
+  {
+    "slug": "reverse-lunge",
+    "frame": 2,
+    "resource": "wg63_reverse_lunge_2",
+    "sha256": "4db54e59130af06e203aeee646d9542e7fb337daf3b85c9d08ea86134710935b",
+    "bytes": 11726
+  },
+  {
+    "slug": "reverse-lunge",
+    "frame": 3,
+    "resource": "wg63_reverse_lunge_3",
+    "sha256": "0084ce766393e1ba8c86376c5923156ab0cc9d260664b93898538f51248d2ccc",
+    "bytes": 13330
+  },
+  {
+    "slug": "split-squat",
+    "frame": 1,
+    "resource": "wg63_split_squat_1",
+    "sha256": "cddef773f3cc6c1548f5f770440ecfecc1a7519d09319119f51b44b283b200e2",
+    "bytes": 14248
+  },
+  {
+    "slug": "split-squat",
+    "frame": 2,
+    "resource": "wg63_split_squat_2",
+    "sha256": "fd4accac8436487f294cf98fd22cb17adf710e18a54e8708dbf353b8a1302f14",
+    "bytes": 15992
+  },
+  {
+    "slug": "split-squat",
+    "frame": 3,
+    "resource": "wg63_split_squat_3",
+    "sha256": "e9ca02ab24358ecb92f8fa5a959c1fe9f31d0bddd6746256a29d0239e221106d",
+    "bytes": 15724
+  },
+  {
+    "slug": "cable-kickback",
+    "frame": 1,
+    "resource": "wg63_cable_kickback_1",
+    "sha256": "a27e19f1ac8bea153a4d994a46503af38e2fd0460800a455178c2fb56aaacea5",
+    "bytes": 8936
+  },
+  {
+    "slug": "cable-kickback",
+    "frame": 2,
+    "resource": "wg63_cable_kickback_2",
+    "sha256": "675a4678ebdacee40f84d4e2e26cb437600aedf0f84b47f6070fe1dd7fcdd0bc",
+    "bytes": 9928
+  },
+  {
+    "slug": "cable-kickback",
+    "frame": 3,
+    "resource": "wg63_cable_kickback_3",
+    "sha256": "1c35834645ee890c3037cd37bc36a6c84415c4382ba876e28e4c308a6c2ea8d9",
+    "bytes": 10422
+  },
+  {
+    "slug": "hip-abduction-machine",
+    "frame": 1,
+    "resource": "wg63_hip_abduction_machine_1",
+    "sha256": "fbfb4f478204997103f3d5c27f17243b4b43aec2516121fd4f18cf5739ec0f64",
+    "bytes": 24804
+  },
+  {
+    "slug": "hip-abduction-machine",
+    "frame": 2,
+    "resource": "wg63_hip_abduction_machine_2",
+    "sha256": "011a81a57240c0f352cbf3ccfef813a158d623300c12a5d3127318fb346069ae",
+    "bytes": 38780
+  },
+  {
+    "slug": "hip-abduction-machine",
+    "frame": 3,
+    "resource": "wg63_hip_abduction_machine_3",
+    "sha256": "53645b382fcc72ef08f4bf3336c29e2a7045c3ef16bef788128de35a7c0fccda",
+    "bytes": 35906
+  },
+  {
+    "slug": "single-leg-glute-bridge",
+    "frame": 1,
+    "resource": "wg63_single_leg_glute_bridge_1",
+    "sha256": "56f70a022671b4be7be0e30917755663a1689952b821e9a5c08050fb1f12e070",
+    "bytes": 11972
+  },
+  {
+    "slug": "single-leg-glute-bridge",
+    "frame": 2,
+    "resource": "wg63_single_leg_glute_bridge_2",
+    "sha256": "3cb738220646025841b1d452c74e8973806abd6752230f8cb6402f1a908d51c8",
+    "bytes": 11362
+  },
+  {
+    "slug": "single-leg-glute-bridge",
+    "frame": 3,
+    "resource": "wg63_single_leg_glute_bridge_3",
+    "sha256": "12a67c56d5eb931e775deb1b2b9dc77928fb151cac7819024bad8085e4f9452c",
+    "bytes": 13958
+  },
+  {
+    "slug": "barbell-glute-bridge",
+    "frame": 1,
+    "resource": "wg63_barbell_glute_bridge_1",
+    "sha256": "2c81041e26e0f1290bd5b9df2143618411d2795878aeee2a2e40d56a90d4fb9f",
+    "bytes": 17772
+  },
+  {
+    "slug": "barbell-glute-bridge",
+    "frame": 2,
+    "resource": "wg63_barbell_glute_bridge_2",
+    "sha256": "b3f91c80f19ce7cab490044ace33f2a35af07a7d5b1e13606140d96a326b0a7c",
+    "bytes": 19964
+  },
+  {
+    "slug": "barbell-glute-bridge",
+    "frame": 3,
+    "resource": "wg63_barbell_glute_bridge_3",
+    "sha256": "3d8b02aa5ca36177ad415a7008dabe04051a4a9e7b6adc00b2d4743349d912b7",
+    "bytes": 22098
+  },
+  {
+    "slug": "dumbbell-glute-bridge",
+    "frame": 1,
+    "resource": "wg63_dumbbell_glute_bridge_1",
+    "sha256": "13edbed8f19750392907525c20520c793a6b4368137a9cf3a89de2453386b9e6",
+    "bytes": 12230
+  },
+  {
+    "slug": "dumbbell-glute-bridge",
+    "frame": 2,
+    "resource": "wg63_dumbbell_glute_bridge_2",
+    "sha256": "d5760c4ebed0c6de30bc10b22ed126c0c262561c36a2aa3a2fb83e41199d3610",
+    "bytes": 17516
+  },
+  {
+    "slug": "dumbbell-glute-bridge",
+    "frame": 3,
+    "resource": "wg63_dumbbell_glute_bridge_3",
+    "sha256": "79cd5906112cbcf90915c2d1857a76b991f8c15702fda0335a84fd01c62b6c81",
+    "bytes": 16888
+  },
+  {
+    "slug": "dumbbell-hip-thrust",
+    "frame": 1,
+    "resource": "wg63_dumbbell_hip_thrust_1",
+    "sha256": "78fd68340a66f38acc4c377b9b5c928bff71f6a1671a1707b27f7568bd69e912",
+    "bytes": 18392
+  },
+  {
+    "slug": "dumbbell-hip-thrust",
+    "frame": 2,
+    "resource": "wg63_dumbbell_hip_thrust_2",
+    "sha256": "3fb5c753f0c093bc00b729506e04681444ebf7819daa595630bea1296c22cd33",
+    "bytes": 28502
+  },
+  {
+    "slug": "dumbbell-hip-thrust",
+    "frame": 3,
+    "resource": "wg63_dumbbell_hip_thrust_3",
+    "sha256": "8ec4433b88c4f6ee1ba17167bd05e55635d58fba4917a66c73ad08c14184f861",
+    "bytes": 17408
+  },
+  {
+    "slug": "smith-machine-hip-thrust",
+    "frame": 1,
+    "resource": "wg63_smith_machine_hip_thrust_1",
+    "sha256": "0d377123763e39f82fa7a845ecf97dc517baaef572f5269a6651b4626350e701",
+    "bytes": 25768
+  },
+  {
+    "slug": "smith-machine-hip-thrust",
+    "frame": 2,
+    "resource": "wg63_smith_machine_hip_thrust_2",
+    "sha256": "9f06b91483566f04cd2f0e18c797f62d69e12d47c7867d48af6e06c5f61fa10f",
+    "bytes": 34852
+  },
+  {
+    "slug": "smith-machine-hip-thrust",
+    "frame": 3,
+    "resource": "wg63_smith_machine_hip_thrust_3",
+    "sha256": "224d34eaa66c2b6477741f27f6a0feb8f3f9616752675e195d9732690cca558f",
+    "bytes": 30276
+  },
+  {
+    "slug": "smith-machine-romanian-deadlift",
+    "frame": 1,
+    "resource": "wg63_smith_machine_romanian_deadlift_1",
+    "sha256": "faf5a19735ee3a510ad5c78a413ebf35306f3d5094cf1b8a559d641b8115c8d4",
+    "bytes": 25216
+  },
+  {
+    "slug": "smith-machine-romanian-deadlift",
+    "frame": 2,
+    "resource": "wg63_smith_machine_romanian_deadlift_2",
+    "sha256": "11c863b8f653dcbad02883b45746a1fb394fcb5cdb5f9e93c1b406c8555fe698",
+    "bytes": 28222
+  },
+  {
+    "slug": "smith-machine-romanian-deadlift",
+    "frame": 3,
+    "resource": "wg63_smith_machine_romanian_deadlift_3",
+    "sha256": "69c29909969b64588a8a148b963c4aa9264491c6fb0c1568c542d8575f1c8537",
+    "bytes": 30112
+  },
+  {
+    "slug": "dumbbell-romanian-deadlift",
+    "frame": 1,
+    "resource": "wg63_dumbbell_romanian_deadlift_1",
+    "sha256": "60ccaadebd5287c025be7a5b4014978d51229b13e3c10b6f58e4777303e583b4",
+    "bytes": 16024
+  },
+  {
+    "slug": "dumbbell-romanian-deadlift",
+    "frame": 2,
+    "resource": "wg63_dumbbell_romanian_deadlift_2",
+    "sha256": "ad13b3c3452b413c47bd0e088754c9fb480650bd325fa106aeedcb99eef6d374",
+    "bytes": 12764
+  },
+  {
+    "slug": "dumbbell-romanian-deadlift",
+    "frame": 3,
+    "resource": "wg63_dumbbell_romanian_deadlift_3",
+    "sha256": "759fe199afdca933861f3b99ce7c4c6cda56f44ffd8aff9390a1370d87f8bc35",
+    "bytes": 13300
+  },
+  {
+    "slug": "kettlebell-romanian-deadlift",
+    "frame": 1,
+    "resource": "wg63_kettlebell_romanian_deadlift_1",
+    "sha256": "b42b69856890edd825de5352ebe921939189beb33d05035a9891553c11cb0be1",
+    "bytes": 14898
+  },
+  {
+    "slug": "kettlebell-romanian-deadlift",
+    "frame": 2,
+    "resource": "wg63_kettlebell_romanian_deadlift_2",
+    "sha256": "43c9e1bb331de5a1de9ab7996638e32bd9deaf839baabdf7f69b6e9ad1388450",
+    "bytes": 11708
+  },
+  {
+    "slug": "kettlebell-romanian-deadlift",
+    "frame": 3,
+    "resource": "wg63_kettlebell_romanian_deadlift_3",
+    "sha256": "31de3b8cfc7915b7caef6381633e0cf7caf503c68c5ef6fc8fcf721ac663c7ea",
+    "bytes": 12064
+  },
+  {
+    "slug": "cable-pull-through",
+    "frame": 1,
+    "resource": "wg63_cable_pull_through_1",
+    "sha256": "608cff6bd572e434d617e97d8740b3f034f4ecad0fc1ac7609f36f9f6d619e29",
+    "bytes": 19170
+  },
+  {
+    "slug": "cable-pull-through",
+    "frame": 2,
+    "resource": "wg63_cable_pull_through_2",
+    "sha256": "4e1cbdc844f11c480cd9a07dce3d1d528dae0b929c734a29cf24e733ad602644",
+    "bytes": 21934
+  },
+  {
+    "slug": "cable-pull-through",
+    "frame": 3,
+    "resource": "wg63_cable_pull_through_3",
+    "sha256": "13e5de8654bdf592b008608d8d0e4c2875c7e52ff0374f58e8ddf5195a5595da",
+    "bytes": 30224
+  },
+  {
+    "slug": "machine-glute-kickback",
+    "frame": 1,
+    "resource": "wg63_machine_glute_kickback_1",
+    "sha256": "680a7310b0a1ae724b18c7daa4b6e0173329a1adc16eb7e8492e3f6092fc58d8",
+    "bytes": 22334
+  },
+  {
+    "slug": "machine-glute-kickback",
+    "frame": 2,
+    "resource": "wg63_machine_glute_kickback_2",
+    "sha256": "7038bd46857e03bba935a842331e8ac8244bb1b5329f04beafd9646e67612c91",
+    "bytes": 28870
+  },
+  {
+    "slug": "machine-glute-kickback",
+    "frame": 3,
+    "resource": "wg63_machine_glute_kickback_3",
+    "sha256": "16e73fb9f78b321cdc065e83800bff445f4422f5fce5c1ee34f2b776b3d6f2ac",
+    "bytes": 28514
+  },
+  {
+    "slug": "cable-standing-hip-abduction",
+    "frame": 1,
+    "resource": "wg63_cable_standing_hip_abduction_1",
+    "sha256": "46e6848be43829641b61c0497c3265e84739a843696405c967464819b10e6e17",
+    "bytes": 23694
+  },
+  {
+    "slug": "cable-standing-hip-abduction",
+    "frame": 2,
+    "resource": "wg63_cable_standing_hip_abduction_2",
+    "sha256": "f7d04be10e517c4a3e66e4975691b3296c5c4717064babf288c519dd69e057a5",
+    "bytes": 28678
+  },
+  {
+    "slug": "cable-standing-hip-abduction",
+    "frame": 3,
+    "resource": "wg63_cable_standing_hip_abduction_3",
+    "sha256": "c27b0308ac52c408e4bf9f0b9456b6072be27db18dece2178cb3efc0ad0ff03d",
+    "bytes": 29030
+  },
+  {
+    "slug": "cable-standing-hip-adduction",
+    "frame": 1,
+    "resource": "wg63_cable_standing_hip_adduction_1",
+    "sha256": "acdb7483a68d2e9ee9b48ce23b69737ef0ef7e9e6b2c1843d9bf66f4b1318a92",
+    "bytes": 19604
+  },
+  {
+    "slug": "cable-standing-hip-adduction",
+    "frame": 2,
+    "resource": "wg63_cable_standing_hip_adduction_2",
+    "sha256": "0c046fbfbaf8451c5de6b26518d1c8de97d1932aed88f86c9747a20976fd6e2c",
+    "bytes": 24478
+  },
+  {
+    "slug": "cable-standing-hip-adduction",
+    "frame": 3,
+    "resource": "wg63_cable_standing_hip_adduction_3",
+    "sha256": "62ca84ce4d03a7f28ec055b6068d7ff263958be306cb3c5f7a9c423fe210e4e2",
+    "bytes": 19574
+  },
+  {
+    "slug": "hip-adduction-machine",
+    "frame": 1,
+    "resource": "wg63_hip_adduction_machine_1",
+    "sha256": "f3e9ede2aaa2093eb3b5be968c7b72e728ae0c8613016d1c50b8c20aa0cc18db",
+    "bytes": 20292
+  },
+  {
+    "slug": "hip-adduction-machine",
+    "frame": 2,
+    "resource": "wg63_hip_adduction_machine_2",
+    "sha256": "c3cadd51620f40f66b66e82786860ec6888a3239f25a88ab3717539d6ac8001b",
+    "bytes": 21148
+  },
+  {
+    "slug": "hip-adduction-machine",
+    "frame": 3,
+    "resource": "wg63_hip_adduction_machine_3",
+    "sha256": "3101c05aa39f923a14788145e5ea1cb3266627baeec2c959770e65c4ea3c85cf",
+    "bytes": 34278
+  },
+  {
+    "slug": "smith-machine-bulgarian-split-squat",
+    "frame": 1,
+    "resource": "wg63_smith_machine_bulgarian_split_squat_1",
+    "sha256": "5c082542225feb60ebf6ec694f35c28cc0b3419fb5ba3a798f92e00fdceace00",
+    "bytes": 27472
+  },
+  {
+    "slug": "smith-machine-bulgarian-split-squat",
+    "frame": 2,
+    "resource": "wg63_smith_machine_bulgarian_split_squat_2",
+    "sha256": "bc7ca03e25e07041a69f619cc8242fe3d10f53c82411d417d554cbeb72e6044b",
+    "bytes": 47010
+  },
+  {
+    "slug": "smith-machine-bulgarian-split-squat",
+    "frame": 3,
+    "resource": "wg63_smith_machine_bulgarian_split_squat_3",
+    "sha256": "c485f6d82e1d38277628cc8ad999cc2bc08fd7882f9b36df3ea0540dbd24888b",
+    "bytes": 43360
+  },
+  {
+    "slug": "smith-machine-reverse-lunge",
+    "frame": 1,
+    "resource": "wg63_smith_machine_reverse_lunge_1",
+    "sha256": "305a83ab8485a4602d473759fb21492f683e32b29ee9a60bbdb48e252d657d09",
+    "bytes": 29052
+  },
+  {
+    "slug": "smith-machine-reverse-lunge",
+    "frame": 2,
+    "resource": "wg63_smith_machine_reverse_lunge_2",
+    "sha256": "c4611ba9bd89adc8a2675e40f692694ccd7a08a8c98094686d801f2814f92177",
+    "bytes": 38798
+  },
+  {
+    "slug": "smith-machine-reverse-lunge",
+    "frame": 3,
+    "resource": "wg63_smith_machine_reverse_lunge_3",
+    "sha256": "2445a7434df0acb7f36ec14bb0621a91377c987335b44b6a496d117c359b2d3e",
+    "bytes": 31266
+  },
+  {
+    "slug": "smith-machine-split-squat",
+    "frame": 1,
+    "resource": "wg63_smith_machine_split_squat_1",
+    "sha256": "c6af607629fbdd7ee0daaa3c92be7074b5f51a0729089b45e132d453396dfb07",
+    "bytes": 24232
+  },
+  {
+    "slug": "smith-machine-split-squat",
+    "frame": 2,
+    "resource": "wg63_smith_machine_split_squat_2",
+    "sha256": "53184cfe309e179603f924a5860d622c1b977f3f8fa98c45b6382ade30d9fc9b",
+    "bytes": 27244
+  },
+  {
+    "slug": "smith-machine-split-squat",
+    "frame": 3,
+    "resource": "wg63_smith_machine_split_squat_3",
+    "sha256": "8bd0d89955152398ddef43a61682220dc58afc708cb4b39964764855d67d9f51",
+    "bytes": 33568
+  },
+  {
+    "slug": "heel-elevated-goblet-squat",
+    "frame": 1,
+    "resource": "wg63_heel_elevated_goblet_squat_1",
+    "sha256": "a10ec67b7d5ecf57f1c2596afb73933c764ee46db5fecb53338ea5190076a3ed",
+    "bytes": 15426
+  },
+  {
+    "slug": "heel-elevated-goblet-squat",
+    "frame": 2,
+    "resource": "wg63_heel_elevated_goblet_squat_2",
+    "sha256": "c874df54e29c74e78009c99ab9287dcc38872a7e8efaa1b410ebfa39c9566efb",
+    "bytes": 15344
+  },
+  {
+    "slug": "heel-elevated-goblet-squat",
+    "frame": 3,
+    "resource": "wg63_heel_elevated_goblet_squat_3",
+    "sha256": "6a58d29896ecc76c40abae20267fd53443f75d2c6faa7071e388400c4aee3fc1",
+    "bytes": 14168
+  },
+  {
+    "slug": "dumbbell-sumo-squat",
+    "frame": 1,
+    "resource": "wg63_dumbbell_sumo_squat_1",
+    "sha256": "3b852129a330caecb7aa96b12dd6d8e3b4c15dfcf4140e5f8f112c21a5da3f33",
+    "bytes": 15558
+  },
+  {
+    "slug": "dumbbell-sumo-squat",
+    "frame": 2,
+    "resource": "wg63_dumbbell_sumo_squat_2",
+    "sha256": "303610a6544c5def55896abfd2f1e026c3fa81f2e60b56785d6a821064b14b28",
+    "bytes": 22074
+  },
+  {
+    "slug": "dumbbell-sumo-squat",
+    "frame": 3,
+    "resource": "wg63_dumbbell_sumo_squat_3",
+    "sha256": "6fec6d350d850f9f5dd057ecaed5c8221e5cc0622e5dfaf2d0dadcb8b877cf1d",
+    "bytes": 14700
+  },
+  {
+    "slug": "dumbbell-sumo-deadlift",
+    "frame": 1,
+    "resource": "wg63_dumbbell_sumo_deadlift_1",
+    "sha256": "d900d1604b2fff94819e480c9379c0f7c32251df4e63d719d072523f7e00c592",
+    "bytes": 15582
+  },
+  {
+    "slug": "dumbbell-sumo-deadlift",
+    "frame": 2,
+    "resource": "wg63_dumbbell_sumo_deadlift_2",
+    "sha256": "465ebbfa1209d441efe0656b4eb080a1e36ce655e4fc48be0f1dd93591b211de",
+    "bytes": 18590
+  },
+  {
+    "slug": "dumbbell-sumo-deadlift",
+    "frame": 3,
+    "resource": "wg63_dumbbell_sumo_deadlift_3",
+    "sha256": "4f3ee01b5143a97269d3e49c1c0da3a3a22615c03a7f9c0f56ab797be900c267",
+    "bytes": 18546
+  },
+  {
+    "slug": "front-foot-elevated-split-squat",
+    "frame": 1,
+    "resource": "wg63_front_foot_elevated_split_squat_1",
+    "sha256": "ea2833c031355262ff6bc40e8a447d5b1b9a7909e0f6ab84031ed65c42c90ddc",
+    "bytes": 19302
+  },
+  {
+    "slug": "front-foot-elevated-split-squat",
+    "frame": 2,
+    "resource": "wg63_front_foot_elevated_split_squat_2",
+    "sha256": "723aca1b4ee6885715385cce07ccb6f8fab95b4a665a7983ba3fb0610ee94d61",
+    "bytes": 17682
+  },
+  {
+    "slug": "front-foot-elevated-split-squat",
+    "frame": 3,
+    "resource": "wg63_front_foot_elevated_split_squat_3",
+    "sha256": "7a7a7f607f3eab3707c857f0615abe52f4954a0568ae950fec49abf55a25e5c1",
+    "bytes": 21492
+  },
+  {
+    "slug": "deficit-reverse-lunge",
+    "frame": 1,
+    "resource": "wg63_deficit_reverse_lunge_1",
+    "sha256": "69710b45827654bd3350b5e93bbf54e5def3994b6ea30e7aa69d34a5ba58e08b",
+    "bytes": 15584
+  },
+  {
+    "slug": "deficit-reverse-lunge",
+    "frame": 2,
+    "resource": "wg63_deficit_reverse_lunge_2",
+    "sha256": "abad51e2341a0e9bbbc6bf7d7df9f1f2c4896d16bb617377364a5fe3500685b9",
+    "bytes": 11510
+  },
+  {
+    "slug": "deficit-reverse-lunge",
+    "frame": 3,
+    "resource": "wg63_deficit_reverse_lunge_3",
+    "sha256": "2234a1fa66a461ceb316a3fbfcb35f21ac5e286569760ded9243a8838847009a",
+    "bytes": 14928
+  },
+  {
+    "slug": "dumbbell-lateral-lunge",
+    "frame": 1,
+    "resource": "wg63_dumbbell_lateral_lunge_1",
+    "sha256": "7141a09cf0249c000194ac66d177cdd886da3560a6d39ef9cb710cac1fb36a09",
+    "bytes": 14326
+  },
+  {
+    "slug": "dumbbell-lateral-lunge",
+    "frame": 2,
+    "resource": "wg63_dumbbell_lateral_lunge_2",
+    "sha256": "4e1270347637427a83c45da4b2a1a4db3f99e01513d66e43a40841db9cbd618c",
+    "bytes": 19032
+  },
+  {
+    "slug": "dumbbell-lateral-lunge",
+    "frame": 3,
+    "resource": "wg63_dumbbell_lateral_lunge_3",
+    "sha256": "e8c365b133c12ca828efa05e57c98cf73de197d6288a895b44f216d2087872eb",
+    "bytes": 17574
+  },
+  {
+    "slug": "dumbbell-curtsy-lunge",
+    "frame": 1,
+    "resource": "wg63_dumbbell_curtsy_lunge_1",
+    "sha256": "1c55451a9d30d78a84e55356e58d622ae4b903a651e864116695094f4ff11fb0",
+    "bytes": 13970
+  },
+  {
+    "slug": "dumbbell-curtsy-lunge",
+    "frame": 2,
+    "resource": "wg63_dumbbell_curtsy_lunge_2",
+    "sha256": "4c005007f8bcd186603263bc90c3450cf07f0370d16cf2958737807d393468cf",
+    "bytes": 19482
+  },
+  {
+    "slug": "dumbbell-curtsy-lunge",
+    "frame": 3,
+    "resource": "wg63_dumbbell_curtsy_lunge_3",
+    "sha256": "a02247f7aa40ffdc95b3c12bdb07f0376219207dd8d70175339612f3b862f9f0",
+    "bytes": 14794
+  },
+  {
+    "slug": "landmine-squat",
+    "frame": 1,
+    "resource": "wg63_landmine_squat_1",
+    "sha256": "1886bb480f24d10a9833b8a26e78c8d2da03249cb0a7854ef2c851569adeec05",
+    "bytes": 15716
+  },
+  {
+    "slug": "landmine-squat",
+    "frame": 2,
+    "resource": "wg63_landmine_squat_2",
+    "sha256": "ef9f2e4cdf7c1aed8fab2b658b7f1897ed702a9b968e9e90a37c22257c40e974",
+    "bytes": 15862
+  },
+  {
+    "slug": "landmine-squat",
+    "frame": 3,
+    "resource": "wg63_landmine_squat_3",
+    "sha256": "7cb10cdb63a6d8f4ed15244f52ac5a5613dc2083eef7a2910efa36405237d846",
+    "bytes": 21372
+  },
+  {
+    "slug": "landmine-romanian-deadlift",
+    "frame": 1,
+    "resource": "wg63_landmine_romanian_deadlift_1",
+    "sha256": "d8a5365b087087d1979c2de728a30c087dcf53e0a61605af545778caf177d958",
+    "bytes": 15836
+  },
+  {
+    "slug": "landmine-romanian-deadlift",
+    "frame": 2,
+    "resource": "wg63_landmine_romanian_deadlift_2",
+    "sha256": "426ba1b7bde516ac0af97e5c9cb0e0210f0caf63faba86fcd8df6109e57cf41b",
+    "bytes": 14656
+  },
+  {
+    "slug": "landmine-romanian-deadlift",
+    "frame": 3,
+    "resource": "wg63_landmine_romanian_deadlift_3",
+    "sha256": "087d79d1de723522c87ffb0463b64c2c67505030bfac8d384db82fb84388a0c7",
+    "bytes": 21762
+  },
+  {
+    "slug": "kettlebell-swing",
+    "frame": 1,
+    "resource": "wg63_kettlebell_swing_1",
+    "sha256": "a5d886eb5919b765bb7200d19848bac8eca08f91753fcab33296e6cfe248ddef",
+    "bytes": 11868
+  },
+  {
+    "slug": "kettlebell-swing",
+    "frame": 2,
+    "resource": "wg63_kettlebell_swing_2",
+    "sha256": "165c3e3b0355a7ba7f97017c9fe88d8b1a1b5a9db9bf80e7ee7970c623b479e4",
+    "bytes": 13546
+  },
+  {
+    "slug": "kettlebell-swing",
+    "frame": 3,
+    "resource": "wg63_kettlebell_swing_3",
+    "sha256": "709321ee6d6eddc80d8a52b1334d1d06a4bd26c0543bd89d0b465221f7b356af",
+    "bytes": 11454
+  },
+  {
+    "slug": "glute-focused-back-extension",
+    "frame": 1,
+    "resource": "wg63_glute_focused_back_extension_1",
+    "sha256": "aba1349a4f52c198ff0f3a81316a7c480b9fc48c20be7334a4d124c808428bb7",
+    "bytes": 17098
+  },
+  {
+    "slug": "glute-focused-back-extension",
+    "frame": 2,
+    "resource": "wg63_glute_focused_back_extension_2",
+    "sha256": "cfce568c1ac1a9541eaa764c58fbf549a33c1e14bd7e3ad302575ee60a6fd28c",
+    "bytes": 22266
+  },
+  {
+    "slug": "glute-focused-back-extension",
+    "frame": 3,
+    "resource": "wg63_glute_focused_back_extension_3",
+    "sha256": "fc1227cad78865f925fd08afffda026030e2893c46b6310b8eb054753662d543",
+    "bytes": 22484
+  },
+  {
+    "slug": "reverse-hyperextension",
+    "frame": 1,
+    "resource": "wg63_reverse_hyperextension_1",
+    "sha256": "3f9aef6118cef4d1f17f3c5e1c3896558513a9648ffce6dd17ef896a57c18acf",
+    "bytes": 22922
+  },
+  {
+    "slug": "reverse-hyperextension",
+    "frame": 2,
+    "resource": "wg63_reverse_hyperextension_2",
+    "sha256": "80d27b959f7d1ea2d15d00947705a78fa5287c2fa26095396fd2d522a4269b7c",
+    "bytes": 32722
+  },
+  {
+    "slug": "reverse-hyperextension",
+    "frame": 3,
+    "resource": "wg63_reverse_hyperextension_3",
+    "sha256": "ee4c50bf1af9a582cd78d953f89399478d3ff875ae8acc26f4693f1490bfd654",
+    "bytes": 21280
+  },
+  {
+    "slug": "donkey-calf-raise",
+    "frame": 1,
+    "resource": "wg63_donkey_calf_raise_1",
+    "sha256": "a1e251f6cf242526509a0be0e9271864880cd2cc38fb0237789b95e675047f39",
+    "bytes": 12998
+  },
+  {
+    "slug": "donkey-calf-raise",
+    "frame": 2,
+    "resource": "wg63_donkey_calf_raise_2",
+    "sha256": "1519650c729249ef127a478f14b5a8aa95dcbe2bfa5353757dce98f36fccd3d4",
+    "bytes": 15000
+  },
+  {
+    "slug": "donkey-calf-raise",
+    "frame": 3,
+    "resource": "wg63_donkey_calf_raise_3",
+    "sha256": "ada5e75a43351488661e073f8be4c89ea0c008cf714eee09d2b4fa2ed880109d",
+    "bytes": 13632
+  },
+  {
+    "slug": "leg-press-calf-raise",
+    "frame": 1,
+    "resource": "wg63_leg_press_calf_raise_1",
+    "sha256": "182afc51a2bac5a112d7c2a176ee77720747a9b6f19a7b5d26ccef2a2ee69690",
+    "bytes": 12514
+  },
+  {
+    "slug": "leg-press-calf-raise",
+    "frame": 2,
+    "resource": "wg63_leg_press_calf_raise_2",
+    "sha256": "b1228d4f5c0128332e25e5ccc75b6b79875d9cf788d4f4149ca0fad46479ae17",
+    "bytes": 14742
+  },
+  {
+    "slug": "leg-press-calf-raise",
+    "frame": 3,
+    "resource": "wg63_leg_press_calf_raise_3",
+    "sha256": "f873e4b1417ffdf0a4c86b31fc71ed169480814836994583d20f62eccc6b4e87",
+    "bytes": 13778
+  },
+  {
+    "slug": "wall-sit",
+    "frame": 1,
+    "resource": "wg63_wall_sit_1",
+    "sha256": "3302979fdca5b2f08a5e9f5a20f4b059cc9885d7638937ac28e6676417f318b2",
+    "bytes": 14218
+  },
+  {
+    "slug": "wall-sit",
+    "frame": 2,
+    "resource": "wg63_wall_sit_2",
+    "sha256": "a32af0a95b45a97234e2eea3fe2f6b8f514239b36ea7abbec1bc60bbdbb474d6",
+    "bytes": 13660
+  },
+  {
+    "slug": "wall-sit",
+    "frame": 3,
+    "resource": "wg63_wall_sit_3",
+    "sha256": "0721c59ec50b711c4a70e8c25390e75d86706e73aea1416bf4cae049ed36dc9e",
+    "bytes": 15030
+  },
+  {
+    "slug": "jump-squat",
+    "frame": 1,
+    "resource": "wg63_jump_squat_1",
+    "sha256": "8799b29af510cf74125e8fe9a96d2018a4d886367f1d6d3f16440f07b43cb8c3",
+    "bytes": 10682
+  },
+  {
+    "slug": "jump-squat",
+    "frame": 2,
+    "resource": "wg63_jump_squat_2",
+    "sha256": "914316505eff27c3b867deedeb2738ce7fcaaba05b86f1896a44c7933669dda6",
+    "bytes": 13606
+  },
+  {
+    "slug": "jump-squat",
+    "frame": 3,
+    "resource": "wg63_jump_squat_3",
+    "sha256": "bedf5c59ddf234c7318c8ee1e16dd1e890555e0a9eea03896a5622b281667caf",
+    "bytes": 12752
+  },
+  {
+    "slug": "incline-dumbbell-curl",
+    "frame": 1,
+    "resource": "wg63_incline_dumbbell_curl_1",
+    "sha256": "b864d482cc74950af3e30f4f7134a73e77cfd16aad5fb15d0a666008492754df",
+    "bytes": 11124
+  },
+  {
+    "slug": "incline-dumbbell-curl",
+    "frame": 2,
+    "resource": "wg63_incline_dumbbell_curl_2",
+    "sha256": "d1fce5669f77abeccb661210548714ed283137377fa09162e788c0f2a57883f9",
+    "bytes": 13214
+  },
+  {
+    "slug": "incline-dumbbell-curl",
+    "frame": 3,
+    "resource": "wg63_incline_dumbbell_curl_3",
+    "sha256": "7c117acb1dfc6071e66c72ff1bec8fd6a2b6a248be2bd30d559236e0ffa6ed1b",
+    "bytes": 14676
+  },
+  {
+    "slug": "concentration-curl",
+    "frame": 1,
+    "resource": "wg63_concentration_curl_1",
+    "sha256": "08de4768adf5384b46df160d21eb1292ed9c120bb15e85f0f015e86c10e8efa7",
+    "bytes": 11514
+  },
+  {
+    "slug": "concentration-curl",
+    "frame": 2,
+    "resource": "wg63_concentration_curl_2",
+    "sha256": "8cd0df7cecf1fe4c8ccf44eb28b038d7baa593da058c9448bd7547332e8e523f",
+    "bytes": 12520
+  },
+  {
+    "slug": "concentration-curl",
+    "frame": 3,
+    "resource": "wg63_concentration_curl_3",
+    "sha256": "7fca35ef90713c852b87969f50f13a863682644f96e1e50449f625c0ac46387a",
+    "bytes": 13684
+  },
+  {
+    "slug": "ez-bar-curl",
+    "frame": 1,
+    "resource": "wg63_ez_bar_curl_1",
+    "sha256": "b8764c6f3421a07607a7a42552451527d5d22e179fbd3eec3ba4fb32a511211c",
+    "bytes": 13646
+  },
+  {
+    "slug": "ez-bar-curl",
+    "frame": 2,
+    "resource": "wg63_ez_bar_curl_2",
+    "sha256": "7f11827da70cfcde023960fb2031bab4e5750472764b9797ede5b328307d6d44",
+    "bytes": 11926
+  },
+  {
+    "slug": "ez-bar-curl",
+    "frame": 3,
+    "resource": "wg63_ez_bar_curl_3",
+    "sha256": "e1351c8c1a0307d448e36e671572a62ac6cec1c51e04a55699f0dc7b082528ca",
+    "bytes": 15800
+  },
+  {
+    "slug": "spider-curl",
+    "frame": 1,
+    "resource": "wg63_spider_curl_1",
+    "sha256": "4708370443b7ed6c00ded7c68293f8827ac9ce1d1727fa53dab2321c6a3092aa",
+    "bytes": 15324
+  },
+  {
+    "slug": "spider-curl",
+    "frame": 2,
+    "resource": "wg63_spider_curl_2",
+    "sha256": "9114393b78a3f141808bb6d06e98ddcbdb4527d7ce116fdb35083f013eca86e3",
+    "bytes": 14296
+  },
+  {
+    "slug": "spider-curl",
+    "frame": 3,
+    "resource": "wg63_spider_curl_3",
+    "sha256": "c94cf85e3b39e34da699e6c590886425213cf86d01fe7f023d13dba7725b24a9",
+    "bytes": 16974
+  },
+  {
+    "slug": "rope-hammer-curl",
+    "frame": 1,
+    "resource": "wg63_rope_hammer_curl_1",
+    "sha256": "b9aeeb91517ecfac1b621823df0e3860ce03fed9341551a61c006bec1bce52a5",
+    "bytes": 11118
+  },
+  {
+    "slug": "rope-hammer-curl",
+    "frame": 2,
+    "resource": "wg63_rope_hammer_curl_2",
+    "sha256": "775b6858fad6735caf193b01881270c36efe68a936935a41c57d6c69223b2231",
+    "bytes": 10888
+  },
+  {
+    "slug": "rope-hammer-curl",
+    "frame": 3,
+    "resource": "wg63_rope_hammer_curl_3",
+    "sha256": "61779f54a09c24af1e669c244f4c16a6f84f0ce0f774c648fb00857fea7f62c3",
+    "bytes": 12636
+  },
+  {
+    "slug": "drag-curl",
+    "frame": 1,
+    "resource": "wg63_drag_curl_1",
+    "sha256": "f816c20300ac276f1acb2d1fe9da8f9c909ce5ca9d3cce6c8476956e7e1d8e85",
+    "bytes": 12832
+  },
+  {
+    "slug": "drag-curl",
+    "frame": 2,
+    "resource": "wg63_drag_curl_2",
+    "sha256": "bd71298ff705b660a5a0d74fae0fee177f4838bea89fc425aedf0f44829d8dbe",
+    "bytes": 14404
+  },
+  {
+    "slug": "drag-curl",
+    "frame": 3,
+    "resource": "wg63_drag_curl_3",
+    "sha256": "95aa5437ab5efda7fc2c159196d9e769b80fff3623d407c952dd404a5bd93b62",
+    "bytes": 14656
+  },
+  {
+    "slug": "rope-tricep-pushdown",
+    "frame": 1,
+    "resource": "wg63_rope_tricep_pushdown_1",
+    "sha256": "cf3864e3fe2a5ad7862b32c8e155c7c16c37a64f8be6eabe731ccaa25f04325c",
+    "bytes": 10670
+  },
+  {
+    "slug": "rope-tricep-pushdown",
+    "frame": 2,
+    "resource": "wg63_rope_tricep_pushdown_2",
+    "sha256": "f26f13d43a671c99c3498b0c89eb4e04335de65fa74d9402ffc0c098d10ae235",
+    "bytes": 9224
+  },
+  {
+    "slug": "rope-tricep-pushdown",
+    "frame": 3,
+    "resource": "wg63_rope_tricep_pushdown_3",
+    "sha256": "c0d5969c7f5d59c2a343b0eedecc67b26f1ebdaec33109f369be7b88bd3b996f",
+    "bytes": 10946
+  },
+  {
+    "slug": "dumbbell-skull-crusher",
+    "frame": 1,
+    "resource": "wg63_dumbbell_skull_crusher_1",
+    "sha256": "75f67458f61a7948c97d2f86b6b8725b97f1b3db3ba48eeadb0ab87806379e9f",
+    "bytes": 11708
+  },
+  {
+    "slug": "dumbbell-skull-crusher",
+    "frame": 2,
+    "resource": "wg63_dumbbell_skull_crusher_2",
+    "sha256": "ee770251088c280af66b05aa298ac494fb5794b900213d5f620e9e86f24ba9c9",
+    "bytes": 12312
+  },
+  {
+    "slug": "dumbbell-skull-crusher",
+    "frame": 3,
+    "resource": "wg63_dumbbell_skull_crusher_3",
+    "sha256": "38e3c35796e1394af3d6c98e0dca45998dbd10ef85eb83ea412fe2f009f31bcd",
+    "bytes": 12112
+  },
+  {
+    "slug": "single-dumbbell-skullcrusher",
+    "frame": 1,
+    "resource": "wg63_single_dumbbell_skullcrusher_1",
+    "sha256": "4d5e2bf6523d65de0a5b9a24050424e86658dcdddb67857ee7aea48392b667f1",
+    "bytes": 15846
+  },
+  {
+    "slug": "single-dumbbell-skullcrusher",
+    "frame": 2,
+    "resource": "wg63_single_dumbbell_skullcrusher_2",
+    "sha256": "3e06db6813e1462b4f6defbe7596a2cc99d1eef4545d85e95e0fe9ae1a2fd478",
+    "bytes": 21242
+  },
+  {
+    "slug": "single-dumbbell-skullcrusher",
+    "frame": 3,
+    "resource": "wg63_single_dumbbell_skullcrusher_3",
+    "sha256": "22320d598b49cf78388532bb6af9902bcf86cbc28661f6f2a086b3800945b032",
+    "bytes": 19228
+  },
+  {
+    "slug": "dumbbell-overhead-tricep-extension",
+    "frame": 1,
+    "resource": "wg63_dumbbell_overhead_tricep_extension_1",
+    "sha256": "16773ed8089474397e86e92c88c1d10ecb1a1b9993ce84fdd847b3b19c093a5d",
+    "bytes": 8376
+  },
+  {
+    "slug": "dumbbell-overhead-tricep-extension",
+    "frame": 2,
+    "resource": "wg63_dumbbell_overhead_tricep_extension_2",
+    "sha256": "60ed17140cfb439b3daaf79a90e6c76f1e1eb63f8816a467bcd3bd1e77ef3a51",
+    "bytes": 8730
+  },
+  {
+    "slug": "dumbbell-overhead-tricep-extension",
+    "frame": 3,
+    "resource": "wg63_dumbbell_overhead_tricep_extension_3",
+    "sha256": "5d916e6bd8bfb732f1cc51fe6c603e81754e8e3cfae60e89f81e5d117eeae999",
+    "bytes": 8376
+  },
+  {
+    "slug": "single-arm-dumbbell-tricep-extension",
+    "frame": 1,
+    "resource": "wg63_single_arm_dumbbell_tricep_extension_1",
+    "sha256": "448e86a116bf8cc5f293f3a432d2461b6dd3ca1c3ccb2b63b03f45f866eab2dc",
+    "bytes": 11112
+  },
+  {
+    "slug": "single-arm-dumbbell-tricep-extension",
+    "frame": 2,
+    "resource": "wg63_single_arm_dumbbell_tricep_extension_2",
+    "sha256": "38cb62df4e2220e857af0d4eb9a22dfcaede99897536895f1256a99f5fc919a1",
+    "bytes": 10398
+  },
+  {
+    "slug": "single-arm-dumbbell-tricep-extension",
+    "frame": 3,
+    "resource": "wg63_single_arm_dumbbell_tricep_extension_3",
+    "sha256": "c5ab8cc1c3a42c2952648b317c4292925a23fc85c2ebcfdc3c9a5ebb9911df56",
+    "bytes": 15794
+  },
+  {
+    "slug": "bench-dip",
+    "frame": 1,
+    "resource": "wg63_bench_dip_1",
+    "sha256": "e0bff05c2febf1c0aa142a783aac302f7a4a462c1cbbdcec8020195547554b85",
+    "bytes": 10810
+  },
+  {
+    "slug": "bench-dip",
+    "frame": 2,
+    "resource": "wg63_bench_dip_2",
+    "sha256": "3b82257c81e658d7d8c4210fbd3ffeb574a157df75c6146c9fc46b8bab7d0394",
+    "bytes": 11938
+  },
+  {
+    "slug": "bench-dip",
+    "frame": 3,
+    "resource": "wg63_bench_dip_3",
+    "sha256": "4788395c8cb03c3b54dbec315429b630ebacc8032b7b4e4c3136d9bea3e0c919",
+    "bytes": 10870
+  },
+  {
+    "slug": "tricep-kickback",
+    "frame": 1,
+    "resource": "wg63_tricep_kickback_1",
+    "sha256": "4f83d809debe773222657020020aaae1e9479ae07f6473062d2df9285bda8831",
+    "bytes": 15160
+  },
+  {
+    "slug": "tricep-kickback",
+    "frame": 2,
+    "resource": "wg63_tricep_kickback_2",
+    "sha256": "cbb11911903dbe1e685211bebe03480246d49949f65dbdaf515ab47c9ecab485",
+    "bytes": 15726
+  },
+  {
+    "slug": "tricep-kickback",
+    "frame": 3,
+    "resource": "wg63_tricep_kickback_3",
+    "sha256": "3e2d7847b2ebe2375e09dc5dbf13a0c7407e57ee94f4cc373b70b149518257db",
+    "bytes": 15328
+  },
+  {
+    "slug": "wrist-extension",
+    "frame": 1,
+    "resource": "wg63_wrist_extension_1",
+    "sha256": "cff3b76e897c47e3ed83737133cdeebae0578c4ca7df9119cb83565191823d3e",
+    "bytes": 14554
+  },
+  {
+    "slug": "wrist-extension",
+    "frame": 2,
+    "resource": "wg63_wrist_extension_2",
+    "sha256": "de89088718ef2cdcab57894446a9514150896bfb3220b649115ab2443c315bee",
+    "bytes": 14282
+  },
+  {
+    "slug": "wrist-extension",
+    "frame": 3,
+    "resource": "wg63_wrist_extension_3",
+    "sha256": "588a640dfd7c5bf01ec19359f3ca8a7271167fbeb5930d30540fa48d1682a883",
+    "bytes": 14642
+  },
+  {
+    "slug": "farmer-carry",
+    "frame": 1,
+    "resource": "wg63_farmer_carry_1",
+    "sha256": "1b452f4fbbbf70f225d65bdef937fd152aba791888b8dd4f586dbda5ba3e2e85",
+    "bytes": 14482
+  },
+  {
+    "slug": "farmer-carry",
+    "frame": 2,
+    "resource": "wg63_farmer_carry_2",
+    "sha256": "bf764b41bcd57634a774a7f176cc1b4254394a1f0cc4687ea1a682bbb6eab704",
+    "bytes": 16906
+  },
+  {
+    "slug": "farmer-carry",
+    "frame": 3,
+    "resource": "wg63_farmer_carry_3",
+    "sha256": "fcf05df28e4baaddfb5bd67ccad834ec7eba9e72d5ee51794f7e80ae0d54fae5",
+    "bytes": 15972
+  },
+  {
+    "slug": "crunch",
+    "frame": 1,
+    "resource": "wg63_crunch_1",
+    "sha256": "bd087c5f4ce7714df0c20cb7ce5a6f69190fe1e923ca4bf0a77fd1be3c6b3280",
+    "bytes": 9746
+  },
+  {
+    "slug": "crunch",
+    "frame": 2,
+    "resource": "wg63_crunch_2",
+    "sha256": "8e523c974731eeec199c0257259229f91c8a707ad8236b89571c62be0d522c6f",
+    "bytes": 10676
+  },
+  {
+    "slug": "crunch",
+    "frame": 3,
+    "resource": "wg63_crunch_3",
+    "sha256": "6a3830f093a261977c78578551ee2bec214e1e0834d7696093bd574414eeb840",
+    "bytes": 10570
+  },
+  {
+    "slug": "reverse-crunch",
+    "frame": 1,
+    "resource": "wg63_reverse_crunch_1",
+    "sha256": "695c9a955747e2ca3d72bb04adba192ad510fb169e9f28d60ebf4084d2f6c3e4",
+    "bytes": 9048
+  },
+  {
+    "slug": "reverse-crunch",
+    "frame": 2,
+    "resource": "wg63_reverse_crunch_2",
+    "sha256": "cebecefe8bee23b178d9036f4a2b051ee8349661a1d93eab65172dfd68dc9f48",
+    "bytes": 9984
+  },
+  {
+    "slug": "reverse-crunch",
+    "frame": 3,
+    "resource": "wg63_reverse_crunch_3",
+    "sha256": "78f3278f23e0d3d502565f2d0560c350fff69b88ad05c2f21f8a22fa2a067ba8",
+    "bytes": 9562
+  },
+  {
+    "slug": "russian-twist",
+    "frame": 1,
+    "resource": "wg63_russian_twist_1",
+    "sha256": "0515a1a91ffe3f65aa702ee12241fd7ed67110274b00254dd0f0ae924784fdd2",
+    "bytes": 15006
+  },
+  {
+    "slug": "russian-twist",
+    "frame": 2,
+    "resource": "wg63_russian_twist_2",
+    "sha256": "880012a08fed3d54597c8bb3efaf532e48b1fa4017a8314933da63dec1a13409",
+    "bytes": 16116
+  },
+  {
+    "slug": "russian-twist",
+    "frame": 3,
+    "resource": "wg63_russian_twist_3",
+    "sha256": "91460f7007c0403e1d523e68bc84a0f44980fc40314b633f1c20cf9418f189e1",
+    "bytes": 15418
+  },
+  {
+    "slug": "bicycle-crunch",
+    "frame": 1,
+    "resource": "wg63_bicycle_crunch_1",
+    "sha256": "4dc1b7c0e2b9db66b5edba8207e9c7c0d296ced6095f13f9ed551a4472a7abe0",
+    "bytes": 8590
+  },
+  {
+    "slug": "bicycle-crunch",
+    "frame": 2,
+    "resource": "wg63_bicycle_crunch_2",
+    "sha256": "920f5081499fd6e841fd8c9198efae67cae63048bfe1a7e86268ddfb7af9972d",
+    "bytes": 9542
+  },
+  {
+    "slug": "bicycle-crunch",
+    "frame": 3,
+    "resource": "wg63_bicycle_crunch_3",
+    "sha256": "80f5e88e961efa0b090146703a26cd1ce4cc29cd3d6fbed10a1ca61d1bc416ca",
+    "bytes": 10232
+  },
+  {
+    "slug": "mountain-climber",
+    "frame": 1,
+    "resource": "wg63_mountain_climber_1",
+    "sha256": "f4c506c99e6b159953c1eb3535cd6f9b64bd93f5be8774ce91bf79bba9d0f281",
+    "bytes": 12562
+  },
+  {
+    "slug": "mountain-climber",
+    "frame": 2,
+    "resource": "wg63_mountain_climber_2",
+    "sha256": "e89cc83e42c40e37dfa3bde70b7dae8a8ad966d898a7eb2497bd1042aefa3a3b",
+    "bytes": 18452
+  },
+  {
+    "slug": "mountain-climber",
+    "frame": 3,
+    "resource": "wg63_mountain_climber_3",
+    "sha256": "28fb6c09f648bfb194bc67b4aad427d37b282a7cb28cf83a0c03f479ac930469",
+    "bytes": 12290
+  },
+  {
+    "slug": "dead-bug",
+    "frame": 1,
+    "resource": "wg63_dead_bug_1",
+    "sha256": "6b80ba42264f1df2b20d3a614418a23733605cb62304b5b1181cab2fc9c71792",
+    "bytes": 9912
+  },
+  {
+    "slug": "dead-bug",
+    "frame": 2,
+    "resource": "wg63_dead_bug_2",
+    "sha256": "98335b2954dcb01cb891c726514acdfcb9c80a5233abcf8046663a6c70bbf8e4",
+    "bytes": 9290
+  },
+  {
+    "slug": "dead-bug",
+    "frame": 3,
+    "resource": "wg63_dead_bug_3",
+    "sha256": "e01a3831e8c0d16a797f60fe640c4bbecb133b82e4a58d81dd3ec4cda8e54b3d",
+    "bytes": 12170
+  },
+  {
+    "slug": "bird-dog",
+    "frame": 1,
+    "resource": "wg63_bird_dog_1",
+    "sha256": "e94ae2068092f12aa379baae41dce7da640543951c5759275f77dbd8a924aea4",
+    "bytes": 10312
+  },
+  {
+    "slug": "bird-dog",
+    "frame": 2,
+    "resource": "wg63_bird_dog_2",
+    "sha256": "719129ed2d5916ccaf5760f4a16a8f511ff7f97d4d752b55e713d86719f2d7f6",
+    "bytes": 10104
+  },
+  {
+    "slug": "bird-dog",
+    "frame": 3,
+    "resource": "wg63_bird_dog_3",
+    "sha256": "04f77ac9e1e27b618344a943afe617f4b12cfc7f26b1df17d32b292df46d0883",
+    "bytes": 13376
+  },
+  {
+    "slug": "pallof-press",
+    "frame": 1,
+    "resource": "wg63_pallof_press_1",
+    "sha256": "4c4641bbc28dc23b216f8e7cd3bc8a322732c0edc25321a34e3c680410e08ef5",
+    "bytes": 19278
+  },
+  {
+    "slug": "pallof-press",
+    "frame": 2,
+    "resource": "wg63_pallof_press_2",
+    "sha256": "2cb5e1d1ef155d17c8fdbc7b9bf812c663cd3fc035d0c7c85f6b243635943fa8",
+    "bytes": 5168
+  },
+  {
+    "slug": "pallof-press",
+    "frame": 3,
+    "resource": "wg63_pallof_press_3",
+    "sha256": "40b8a377bfd45c2ea9c79cbfcfd55df3e9354fe7265151a35acfe87db42fc42e",
+    "bytes": 26488
+  },
+  {
+    "slug": "cable-woodchop",
+    "frame": 1,
+    "resource": "wg63_cable_woodchop_1",
+    "sha256": "5a50883259742374a0b100dc7999cb162565f78b683370f6e8c77be660ccbd11",
+    "bytes": 19814
+  },
+  {
+    "slug": "cable-woodchop",
+    "frame": 2,
+    "resource": "wg63_cable_woodchop_2",
+    "sha256": "918df405f788fb6c0eafd0d647999f0189883a0b0afbb09cb91a456cde9fc9cf",
+    "bytes": 21358
+  },
+  {
+    "slug": "cable-woodchop",
+    "frame": 3,
+    "resource": "wg63_cable_woodchop_3",
+    "sha256": "8d38794c505c6e73d0c94931356d8430ad510c16cd8a65d3872f402a925f9cef",
+    "bytes": 23732
+  },
+  {
+    "slug": "half-kneeling-pallof-press",
+    "frame": 1,
+    "resource": "wg63_half_kneeling_pallof_press_1",
+    "sha256": "91b52899c4c0e631eb6c0e5ef6667ebe20aeecd102fb87370e4011797ff0f928",
+    "bytes": 20152
+  },
+  {
+    "slug": "half-kneeling-pallof-press",
+    "frame": 2,
+    "resource": "wg63_half_kneeling_pallof_press_2",
+    "sha256": "23c60c8a8321639d5c1302e43ebfd9d889f43bf487f490c3f24091110acc4bf9",
+    "bytes": 36994
+  },
+  {
+    "slug": "half-kneeling-pallof-press",
+    "frame": 3,
+    "resource": "wg63_half_kneeling_pallof_press_3",
+    "sha256": "3eda20929eabed97d39c9e605a9fb122bbd806fd9a697edeee41d723c6cf635a",
+    "bytes": 31272
+  },
+  {
+    "slug": "cable-pallof-hold",
+    "frame": 1,
+    "resource": "wg63_cable_pallof_hold_1",
+    "sha256": "19f7945a8b988a11fa21f1765285e51d147651aaf71b0abeaad8a9303c2ddd20",
+    "bytes": 17056
+  },
+  {
+    "slug": "cable-pallof-hold",
+    "frame": 2,
+    "resource": "wg63_cable_pallof_hold_2",
+    "sha256": "dcada90874d5b247ad4fb54ce06e1d60d6b1ea262be73ece2c277f5fc2caf108",
+    "bytes": 24316
+  },
+  {
+    "slug": "cable-pallof-hold",
+    "frame": 3,
+    "resource": "wg63_cable_pallof_hold_3",
+    "sha256": "c3ab8c642bb4d892cefc57b4919a3acff06da54e647802fe224319744511f83c",
+    "bytes": 22938
+  },
+  {
+    "slug": "hanging-knee-raise",
+    "frame": 1,
+    "resource": "wg63_hanging_knee_raise_1",
+    "sha256": "08737770ff50519e4f56c712b6d73dbc2ed0dda022798357f49c288d1606c845",
+    "bytes": 12966
+  },
+  {
+    "slug": "hanging-knee-raise",
+    "frame": 2,
+    "resource": "wg63_hanging_knee_raise_2",
+    "sha256": "cca4c141bc3c7a1c709ce6651d6797a161feacfe2e7b5baad8c048499ebc0d95",
+    "bytes": 14436
+  },
+  {
+    "slug": "hanging-knee-raise",
+    "frame": 3,
+    "resource": "wg63_hanging_knee_raise_3",
+    "sha256": "af2cecf9c768353551fda877d92955bfc634631a18f3b8067087d6885494de0d",
+    "bytes": 20662
+  },
+  {
+    "slug": "captains-chair-knee-raise",
+    "frame": 1,
+    "resource": "wg63_captains_chair_knee_raise_1",
+    "sha256": "a2bf1c3b35e38bce956049ea65c6c22d122ef4aeae63f9d475f6b20c389e918a",
+    "bytes": 16642
+  },
+  {
+    "slug": "captains-chair-knee-raise",
+    "frame": 2,
+    "resource": "wg63_captains_chair_knee_raise_2",
+    "sha256": "1a81e9b0d98623289f04729786246a7466367fe7ef4e1f5c25da27c0fc67ae5f",
+    "bytes": 25900
+  },
+  {
+    "slug": "captains-chair-knee-raise",
+    "frame": 3,
+    "resource": "wg63_captains_chair_knee_raise_3",
+    "sha256": "392a4e4d8a1144d81524cfa8aa60d1e045159d9d7a903a663c53b7231f99bb89",
+    "bytes": 20906
+  },
+  {
+    "slug": "decline-sit-up",
+    "frame": 1,
+    "resource": "wg63_decline_sit_up_1",
+    "sha256": "5e2e9e20246458dd5779af691e28e03ad037ed47d2e572e9daaf22d107c0f094",
+    "bytes": 17452
+  },
+  {
+    "slug": "decline-sit-up",
+    "frame": 2,
+    "resource": "wg63_decline_sit_up_2",
+    "sha256": "90bc15e47f4a841539887e3072938517fc42ba87384ddfaa2cc749884dd6c0b3",
+    "bytes": 16664
+  },
+  {
+    "slug": "decline-sit-up",
+    "frame": 3,
+    "resource": "wg63_decline_sit_up_3",
+    "sha256": "1eac9eb67fa8de0f140113070b9ea2f0efaa16e5195a7f58c1099accf88d10f6",
+    "bytes": 26154
+  },
+  {
+    "slug": "weighted-crunch",
+    "frame": 1,
+    "resource": "wg63_weighted_crunch_1",
+    "sha256": "a2efa372c340728f2af446cda70fa2878a16204530ceab602ce58ae078bd0e09",
+    "bytes": 14100
+  },
+  {
+    "slug": "weighted-crunch",
+    "frame": 2,
+    "resource": "wg63_weighted_crunch_2",
+    "sha256": "99592be44af527858da43f3c06779cdf28a83439dcfcae5143d5f374c66f8d71",
+    "bytes": 14578
+  },
+  {
+    "slug": "weighted-crunch",
+    "frame": 3,
+    "resource": "wg63_weighted_crunch_3",
+    "sha256": "3cea9960ef7346ae9ac4bf74e73f4d26064f83d7c2cbc75b1c885ddfae76dee1",
+    "bytes": 19672
+  },
+  {
+    "slug": "weighted-russian-twist",
+    "frame": 1,
+    "resource": "wg63_weighted_russian_twist_1",
+    "sha256": "4ff2e86c14694b4cadd5e1c611393f6891c3244248f2a5d6847921d89fc0eafe",
+    "bytes": 14124
+  },
+  {
+    "slug": "weighted-russian-twist",
+    "frame": 2,
+    "resource": "wg63_weighted_russian_twist_2",
+    "sha256": "b81d115b9239f185aeb0f431ac04e51d650b1232333131296c075d6f2fc3b2cb",
+    "bytes": 13794
+  },
+  {
+    "slug": "weighted-russian-twist",
+    "frame": 3,
+    "resource": "wg63_weighted_russian_twist_3",
+    "sha256": "3c483949adba157bc6563483db4fc39ba2c95b5e6eae7dfbb55de26c0afbe69f",
+    "bytes": 14502
+  },
+  {
+    "slug": "dumbbell-side-bend",
+    "frame": 1,
+    "resource": "wg63_dumbbell_side_bend_1",
+    "sha256": "3cb9ce91ebfafa34705e19baeaf04f917e23fa1058536851874be61a12487407",
+    "bytes": 13462
+  },
+  {
+    "slug": "dumbbell-side-bend",
+    "frame": 2,
+    "resource": "wg63_dumbbell_side_bend_2",
+    "sha256": "1a7b27f90d12563c5a1bf5d0bc40cd1eb2df9780256e34547d482dd9b7074eb6",
+    "bytes": 12972
+  },
+  {
+    "slug": "dumbbell-side-bend",
+    "frame": 3,
+    "resource": "wg63_dumbbell_side_bend_3",
+    "sha256": "e507c3b182d333786790ed06273f434f08eeea5694e246cb9c0d96f0b681f967",
+    "bytes": 18264
+  },
+  {
+    "slug": "elliptical",
+    "frame": 1,
+    "resource": "wg63_elliptical_1",
+    "sha256": "bbb0d858deeb6aab80492d6f5cd3bd4b1b504fa1da43d7f532e698d4b774702e",
+    "bytes": 21420
+  },
+  {
+    "slug": "elliptical",
+    "frame": 2,
+    "resource": "wg63_elliptical_2",
+    "sha256": "49856108c1cbb6a556fc795c1dbef678ad203eabc9e3a00901689c0fb29d684c",
+    "bytes": 20882
+  },
+  {
+    "slug": "elliptical",
+    "frame": 3,
+    "resource": "wg63_elliptical_3",
+    "sha256": "c33c05b6875568cda7a5b9ae02aef6e1eba9ae6e01af77af298a06c58fe1c6cf",
+    "bytes": 29334
+  },
+  {
+    "slug": "swimming",
+    "frame": 1,
+    "resource": "wg63_swimming_1",
+    "sha256": "c78fbdb991b21c00a4d8cb8a20fd158cef3bd76d5322c84a6e602d3212a9998c",
+    "bytes": 20596
+  },
+  {
+    "slug": "swimming",
+    "frame": 2,
+    "resource": "wg63_swimming_2",
+    "sha256": "eb003cd592a53d5c05648bdae6fb2c212153bb774fd26ddbd887c5e6fdf02d65",
+    "bytes": 38214
+  },
+  {
+    "slug": "swimming",
+    "frame": 3,
+    "resource": "wg63_swimming_3",
+    "sha256": "4a4043e549417c9ae87f4394ce247b9c58f786f342a78aaa2f44c1b055538f3c",
+    "bytes": 31502
+  },
+  {
+    "slug": "jump-rope",
+    "frame": 1,
+    "resource": "wg63_jump_rope_1",
+    "sha256": "482dc893c96b8714357e87d6f02b7f869298c6922e79337d7ebaa50231d53c3a",
+    "bytes": 14740
+  },
+  {
+    "slug": "jump-rope",
+    "frame": 2,
+    "resource": "wg63_jump_rope_2",
+    "sha256": "993041b3a2dd774362ca632186385a4a7e2eaed801537e3480b5bdb9b7efcb2c",
+    "bytes": 18558
+  },
+  {
+    "slug": "jump-rope",
+    "frame": 3,
+    "resource": "wg63_jump_rope_3",
+    "sha256": "d1ec7caee3556490f052708a49d0a5110b9be856ba9cf7416b53d54b210018d9",
+    "bytes": 21872
+  },
+  {
+    "slug": "assault-bike",
+    "frame": 1,
+    "resource": "wg63_assault_bike_1",
+    "sha256": "2bc0eae1a74e76bfd53d36963de49e7e46437d4bb08739b10daf0eb2aafa9fed",
+    "bytes": 28330
+  },
+  {
+    "slug": "assault-bike",
+    "frame": 2,
+    "resource": "wg63_assault_bike_2",
+    "sha256": "fe5f6992854efa5684e578f7ec4f6e15fb0c1835bdbb6f5447a22fc4e0459f26",
+    "bytes": 34668
+  },
+  {
+    "slug": "assault-bike",
+    "frame": 3,
+    "resource": "wg63_assault_bike_3",
+    "sha256": "24b2e02cc8a60d864f493203ccc66d18daa796162691e2f575f5505f5385a9b7",
+    "bytes": 38018
+  },
+  {
+    "slug": "skierg",
+    "frame": 1,
+    "resource": "wg63_skierg_1",
+    "sha256": "bd5b3327e3ad819ae775e419c7785bcc7356d9509c8ab01ebc86db31a9339ee5",
+    "bytes": 20892
+  },
+  {
+    "slug": "skierg",
+    "frame": 2,
+    "resource": "wg63_skierg_2",
+    "sha256": "2599752ae444c2419aa22e1762c34b077073624b3d23e0c51f2a2fb02f4198eb",
+    "bytes": 22074
+  },
+  {
+    "slug": "skierg",
+    "frame": 3,
+    "resource": "wg63_skierg_3",
+    "sha256": "fa07d895e30ce6d4032c0247379c8d8c21f4758f945744597b124893ecf3b4ea",
+    "bytes": 21960
+  },
+  {
+    "slug": "hiking",
+    "frame": 1,
+    "resource": "wg63_hiking_1",
+    "sha256": "1cd2961f0de47f46d2bf95dc2b2a49651c56f3486440d89bee1cedeefd21437f",
+    "bytes": 21554
+  },
+  {
+    "slug": "hiking",
+    "frame": 2,
+    "resource": "wg63_hiking_2",
+    "sha256": "0d7d49e2dc56683b15088acd6a6f7777754ea44d69d696109ae8c8b79a16cb31",
+    "bytes": 22964
+  },
+  {
+    "slug": "hiking",
+    "frame": 3,
+    "resource": "wg63_hiking_3",
+    "sha256": "6e08e7403337b2c6fa17525ed3625dd9528b4fb2d5e203dce832b60b0f064469",
+    "bytes": 22606
+  },
+  {
+    "slug": "treadmill-incline-walk",
+    "frame": 1,
+    "resource": "wg63_treadmill_incline_walk_1",
+    "sha256": "0cfee4baa264382f141e054cb3f26b63f6cf8cd895297910581a2cd0b38838e6",
+    "bytes": 21032
+  },
+  {
+    "slug": "treadmill-incline-walk",
+    "frame": 2,
+    "resource": "wg63_treadmill_incline_walk_2",
+    "sha256": "2998152a529c66ac544cbc97101b958d81c150b76bd9062edbf9bf2d3859c337",
+    "bytes": 20622
+  },
+  {
+    "slug": "treadmill-incline-walk",
+    "frame": 3,
+    "resource": "wg63_treadmill_incline_walk_3",
+    "sha256": "0a70ebf64db4ab5d18a9c066f5b5e966dbf8195647b16f06a42a49dd50940013",
+    "bytes": 20682
+  },
+  {
+    "slug": "battle-ropes",
+    "frame": 1,
+    "resource": "wg63_battle_ropes_1",
+    "sha256": "12e3e132a69806b2210b1293426dbb01fc1dd5fffff7c37e620c87a2c6839498",
+    "bytes": 19828
+  },
+  {
+    "slug": "battle-ropes",
+    "frame": 2,
+    "resource": "wg63_battle_ropes_2",
+    "sha256": "3c83068223c648be3a5fb2c77097a70bd0568978a438a5c233eb4486d5848afc",
+    "bytes": 24206
+  },
+  {
+    "slug": "battle-ropes",
+    "frame": 3,
+    "resource": "wg63_battle_ropes_3",
+    "sha256": "59eaa45aef670d66165b9511de4803a403db0cca9b0d089b5dbe1bc330020fde",
+    "bytes": 26826
+  },
+  {
+    "slug": "incline-push-up",
+    "frame": 1,
+    "resource": "wg63_incline_push_up_1",
+    "sha256": "1d5b918858bb5bf18be0f36b9e2e45e65f6fc3629b928f100f09919a73a10410",
+    "bytes": 11936
+  },
+  {
+    "slug": "incline-push-up",
+    "frame": 2,
+    "resource": "wg63_incline_push_up_2",
+    "sha256": "20919330e0d4dfdb39b70bc86993489f8407bf6541712a09430eac275caa5095",
+    "bytes": 11724
+  },
+  {
+    "slug": "incline-push-up",
+    "frame": 3,
+    "resource": "wg63_incline_push_up_3",
+    "sha256": "c685b7e18a17a79c4bea736b36664904f4e866dd3f30cc0dbf5f9a0e76fe0e5c",
+    "bytes": 11014
+  },
+  {
+    "slug": "knee-push-up",
+    "frame": 1,
+    "resource": "wg63_knee_push_up_1",
+    "sha256": "a8b7f22836c00206f8cf79da9d9d76d91ee499fa039a069fbed006323c0b1e3a",
+    "bytes": 13444
+  },
+  {
+    "slug": "knee-push-up",
+    "frame": 2,
+    "resource": "wg63_knee_push_up_2",
+    "sha256": "4223c9135c6740fd049260b59a1433f2faf0f2a5a81cbd9fbc6d5d6a7f41016b",
+    "bytes": 16226
+  },
+  {
+    "slug": "knee-push-up",
+    "frame": 3,
+    "resource": "wg63_knee_push_up_3",
+    "sha256": "c2ca037b731a70cb6a32f3b9f3b2d3e6f27da87e45f39a6db5ef2a03bf1fa3b5",
+    "bytes": 18556
+  },
+  {
+    "slug": "wide-push-up",
+    "frame": 1,
+    "resource": "wg63_wide_push_up_1",
+    "sha256": "96cee7fe39310e67bae285d872e969695786365be90362fb3257fe65c39260f0",
+    "bytes": 11484
+  },
+  {
+    "slug": "wide-push-up",
+    "frame": 2,
+    "resource": "wg63_wide_push_up_2",
+    "sha256": "2c96b786a53d6129aa12afa462548d60e07f152388312e51e3a6f35bd9857a1c",
+    "bytes": 10818
+  },
+  {
+    "slug": "wide-push-up",
+    "frame": 3,
+    "resource": "wg63_wide_push_up_3",
+    "sha256": "42f14fd1d42477682ec8c543580d624ec98d458bdc414e181a7bc3ff2d6ee4a2",
+    "bytes": 8970
+  },
+  {
+    "slug": "diamond-push-up",
+    "frame": 1,
+    "resource": "wg63_diamond_push_up_1",
+    "sha256": "a785328c421faf66c297be9bccc393f871871bec84225d5a77fa97f54bd3f65e",
+    "bytes": 11568
+  },
+  {
+    "slug": "diamond-push-up",
+    "frame": 2,
+    "resource": "wg63_diamond_push_up_2",
+    "sha256": "df46105cb3ae4e35bdccba63a880311fa73eae8f7a6470280991fc0a5cc0a3d9",
+    "bytes": 14714
+  },
+  {
+    "slug": "diamond-push-up",
+    "frame": 3,
+    "resource": "wg63_diamond_push_up_3",
+    "sha256": "985e8a10ed3eba2c7d4f5f97f4cd192426fec9b48a08f157c3c5364c03bb4cfa",
+    "bytes": 14856
+  },
+  {
+    "slug": "decline-push-up",
+    "frame": 1,
+    "resource": "wg63_decline_push_up_1",
+    "sha256": "190bd46bfe3bb1ffcf2788857421b343763fc84dc5db8fd5cf0b982d9a19623a",
+    "bytes": 14582
+  },
+  {
+    "slug": "decline-push-up",
+    "frame": 2,
+    "resource": "wg63_decline_push_up_2",
+    "sha256": "39956946d4bc193761f4ab284672c9c10cdc479bbcb8f4a92bfd040ccf811409",
+    "bytes": 15760
+  },
+  {
+    "slug": "decline-push-up",
+    "frame": 3,
+    "resource": "wg63_decline_push_up_3",
+    "sha256": "bcced5a9e5c8f4f16404b9ebf422df68280c5ac677aa834714fa41eec54a4d29",
+    "bytes": 17532
+  },
+  {
+    "slug": "pike-push-up",
+    "frame": 1,
+    "resource": "wg63_pike_push_up_1",
+    "sha256": "e646d4d0def35486f61e92d2a81c2a325cc7fc2bd8a663f7e7d671dea1041276",
+    "bytes": 13582
+  },
+  {
+    "slug": "pike-push-up",
+    "frame": 2,
+    "resource": "wg63_pike_push_up_2",
+    "sha256": "87398a645d03c671ced0703d8657cb63a590dad58ae3e43ecafd8fd6a0735db1",
+    "bytes": 13538
+  },
+  {
+    "slug": "pike-push-up",
+    "frame": 3,
+    "resource": "wg63_pike_push_up_3",
+    "sha256": "813ce143ef471ea644f8a239940c2e0f51b45830f715367851cda61f74fdb0ce",
+    "bytes": 16840
+  },
+  {
+    "slug": "feet-elevated-pike-push-up",
+    "frame": 1,
+    "resource": "wg63_feet_elevated_pike_push_up_1",
+    "sha256": "eac3c71afeaf0290d1b9834196b50a7ea43d7ae2a6426790fd65eb5263579429",
+    "bytes": 17112
+  },
+  {
+    "slug": "feet-elevated-pike-push-up",
+    "frame": 2,
+    "resource": "wg63_feet_elevated_pike_push_up_2",
+    "sha256": "955d98b4e3a06e9f4fe3754f0eafdcc7b3b97273a2088305d3bb7b66056ab48f",
+    "bytes": 19926
+  },
+  {
+    "slug": "feet-elevated-pike-push-up",
+    "frame": 3,
+    "resource": "wg63_feet_elevated_pike_push_up_3",
+    "sha256": "fc251d2eec352641831a14ac66655023b2d75aeb7944568a5c045600291e9522",
+    "bytes": 19590
+  },
+  {
+    "slug": "archer-push-up",
+    "frame": 1,
+    "resource": "wg63_archer_push_up_1",
+    "sha256": "b6d783a36806fdaa4f8d20a82857e307c5a0f5fd9ba8e7a25e8e4a42620260ca",
+    "bytes": 8060
+  },
+  {
+    "slug": "archer-push-up",
+    "frame": 2,
+    "resource": "wg63_archer_push_up_2",
+    "sha256": "e9f1336721d17fafd9d10da515b9fa3391e2652d3bf998f611c6d4f5b3985838",
+    "bytes": 10358
+  },
+  {
+    "slug": "archer-push-up",
+    "frame": 3,
+    "resource": "wg63_archer_push_up_3",
+    "sha256": "068e87ab3d19df4903309a4fdf61567b139f5e406640932ef8f8426de9974a2c",
+    "bytes": 12110
+  },
+  {
+    "slug": "typewriter-push-up",
+    "frame": 1,
+    "resource": "wg63_typewriter_push_up_1",
+    "sha256": "92499d32c96d0540182eace82a289529b607b3a5f30ed95ca7bd0a400a70d85c",
+    "bytes": 11868
+  },
+  {
+    "slug": "typewriter-push-up",
+    "frame": 2,
+    "resource": "wg63_typewriter_push_up_2",
+    "sha256": "68301d4e7bef2ed5e4fb3ae791f496891b81bd94b58a1bb96a9111fc49b6d31b",
+    "bytes": 12230
+  },
+  {
+    "slug": "typewriter-push-up",
+    "frame": 3,
+    "resource": "wg63_typewriter_push_up_3",
+    "sha256": "cf5fa00c760bfbd8df1f70ed592567bba7decb7f838f721f09353e9f47e3a979",
+    "bytes": 11486
+  },
+  {
+    "slug": "explosive-push-up",
+    "frame": 1,
+    "resource": "wg63_explosive_push_up_1",
+    "sha256": "12968553a8812ffb8bb757d52c30c13bdf12b8adfccce5c70dcb706959029b0d",
+    "bytes": 11720
+  },
+  {
+    "slug": "explosive-push-up",
+    "frame": 2,
+    "resource": "wg63_explosive_push_up_2",
+    "sha256": "4585bad030e976e6519107f9736e944e56fddd0536569f4f0e3665dc459cee13",
+    "bytes": 12762
+  },
+  {
+    "slug": "explosive-push-up",
+    "frame": 3,
+    "resource": "wg63_explosive_push_up_3",
+    "sha256": "4477a46319b3f913ab64dc8c174b21892bf96b535cf9118d8e580f54d08b2faf",
+    "bytes": 13296
+  },
+  {
+    "slug": "hindu-push-up",
+    "frame": 1,
+    "resource": "wg63_hindu_push_up_1",
+    "sha256": "e32e288b40cbb2c483172810cef169a6d0ced7c0040f79a387de798368f8bcc0",
+    "bytes": 12998
+  },
+  {
+    "slug": "hindu-push-up",
+    "frame": 2,
+    "resource": "wg63_hindu_push_up_2",
+    "sha256": "bf0c21f47b530aa71eb4ea4a290cf02b07e1fd373369154a8a5de4873f24c0de",
+    "bytes": 9492
+  },
+  {
+    "slug": "hindu-push-up",
+    "frame": 3,
+    "resource": "wg63_hindu_push_up_3",
+    "sha256": "45cd1e3c2573fd37c7dd71cace8aa1f6b4b99e35c479db38e753bfb09a72f0e4",
+    "bytes": 12950
+  },
+  {
+    "slug": "scapular-push-up",
+    "frame": 1,
+    "resource": "wg63_scapular_push_up_1",
+    "sha256": "c18fe71d3da19c1cfd119743d34a94cc44d4e4853c34c3da4a998f502d0f31dd",
+    "bytes": 13828
+  },
+  {
+    "slug": "scapular-push-up",
+    "frame": 2,
+    "resource": "wg63_scapular_push_up_2",
+    "sha256": "eee3c30b397f7ae6e0fc1c0af52f7c63d546030c00bb7965a9ce5acbe9c819c9",
+    "bytes": 20748
+  },
+  {
+    "slug": "scapular-push-up",
+    "frame": 3,
+    "resource": "wg63_scapular_push_up_3",
+    "sha256": "3dcb0ee6196b9c6286398c16f0efeb2df81720cf003af75c77f2c51b1e2d3815",
+    "bytes": 20714
+  },
+  {
+    "slug": "push-up-shoulder-tap",
+    "frame": 1,
+    "resource": "wg63_push_up_shoulder_tap_1",
+    "sha256": "803c8d9e1bbda758ef8c90cc1e2ad1cffd62588e1af2bf20ef0f4f234e97d0aa",
+    "bytes": 14404
+  },
+  {
+    "slug": "push-up-shoulder-tap",
+    "frame": 2,
+    "resource": "wg63_push_up_shoulder_tap_2",
+    "sha256": "906485e59d537a167adaf5e6a0909b71d0391557f2edae0b827f892965086385",
+    "bytes": 25534
+  },
+  {
+    "slug": "push-up-shoulder-tap",
+    "frame": 3,
+    "resource": "wg63_push_up_shoulder_tap_3",
+    "sha256": "efcbbb51fc6b39874eb544ef94ddf00fbe2a37ba7d961f6dfc48c7f4587b6f17",
+    "bytes": 18696
+  },
+  {
+    "slug": "wall-push-up",
+    "frame": 1,
+    "resource": "wg63_wall_push_up_1",
+    "sha256": "aeb6088d4b6e5d14a8b70d260a35d4f0cb8155f0a4e278d97e367df0614e81b0",
+    "bytes": 12846
+  },
+  {
+    "slug": "wall-push-up",
+    "frame": 2,
+    "resource": "wg63_wall_push_up_2",
+    "sha256": "57f984efcb7115da6303b26757a861abeb8d0860bd580288e426415c93e47ef5",
+    "bytes": 12354
+  },
+  {
+    "slug": "wall-push-up",
+    "frame": 3,
+    "resource": "wg63_wall_push_up_3",
+    "sha256": "09270fc8791b8fafe4519a7a6b16e1c32cd6d477fcb9d4d3274dc3bc5d97da94",
+    "bytes": 12670
+  },
+  {
+    "slug": "wall-walk",
+    "frame": 1,
+    "resource": "wg63_wall_walk_1",
+    "sha256": "18ec945fd15c43297098f71e9911fd84b740e1e626987b382314a86c37483a0e",
+    "bytes": 14242
+  },
+  {
+    "slug": "wall-walk",
+    "frame": 2,
+    "resource": "wg63_wall_walk_2",
+    "sha256": "9bbfef445e80e447814d2b4c803fc0671415585da06200984e2af4810f787b5b",
+    "bytes": 13796
+  },
+  {
+    "slug": "wall-walk",
+    "frame": 3,
+    "resource": "wg63_wall_walk_3",
+    "sha256": "fc8350b5b94baa66face41edc90427cf93c0f108a41a8c0960e452ad322a75d3",
+    "bytes": 12758
+  },
+  {
+    "slug": "wall-handstand-push-up",
+    "frame": 1,
+    "resource": "wg63_wall_handstand_push_up_1",
+    "sha256": "32616c6b0afa034b3001c4abc31160159a91c26212d5c88139b7477db01892a6",
+    "bytes": 13846
+  },
+  {
+    "slug": "wall-handstand-push-up",
+    "frame": 2,
+    "resource": "wg63_wall_handstand_push_up_2",
+    "sha256": "511c63f69def0fb42d7705ce1cc3002633822b1f7a14bf8dbdf3a01243a03025",
+    "bytes": 13698
+  },
+  {
+    "slug": "wall-handstand-push-up",
+    "frame": 3,
+    "resource": "wg63_wall_handstand_push_up_3",
+    "sha256": "44bc2db84adb4d9684fa60306e71076c509edbdec522fa518f2d33b75cac9d62",
+    "bytes": 14968
+  },
+  {
+    "slug": "handstand-push-up",
+    "frame": 1,
+    "resource": "wg63_handstand_push_up_1",
+    "sha256": "20249867fbb673711da462919079a332935f1c594d636945e42a0b069cc150b6",
+    "bytes": 12116
+  },
+  {
+    "slug": "handstand-push-up",
+    "frame": 2,
+    "resource": "wg63_handstand_push_up_2",
+    "sha256": "9cfba39ae62e923e225ed20b46135aac0256c3c51d13301a2cf1f0c6bf1540ca",
+    "bytes": 16724
+  },
+  {
+    "slug": "handstand-push-up",
+    "frame": 3,
+    "resource": "wg63_handstand_push_up_3",
+    "sha256": "7836283f593371bb7292ae90ddb84e5e236c94913ecbacde7493294600454d27",
+    "bytes": 13958
+  },
+  {
+    "slug": "chair-dip",
+    "frame": 1,
+    "resource": "wg63_chair_dip_1",
+    "sha256": "53a8c8e704b418a017d45a8114bdacb18ee4fa21d872174b2f4feac1adc7db43",
+    "bytes": 15314
+  },
+  {
+    "slug": "chair-dip",
+    "frame": 2,
+    "resource": "wg63_chair_dip_2",
+    "sha256": "fd920e04a14f108ac3b74a9fb070e3d30e8309315a11710122854e8f3996f6c3",
+    "bytes": 15916
+  },
+  {
+    "slug": "chair-dip",
+    "frame": 3,
+    "resource": "wg63_chair_dip_3",
+    "sha256": "894b3dd11586d514b5b4aa7a0f8d704958140493caee639b85049a3b3154e328",
+    "bytes": 16880
+  },
+  {
+    "slug": "doorway-row",
+    "frame": 1,
+    "resource": "wg63_doorway_row_1",
+    "sha256": "310d355f20fb4a022c0c8c287131204c860fc530e9e81d86f9be629e270ac486",
+    "bytes": 13178
+  },
+  {
+    "slug": "doorway-row",
+    "frame": 2,
+    "resource": "wg63_doorway_row_2",
+    "sha256": "2b30c38aa50e75c58066ae09c9af10a576907572e442d08a0c425530e26026aa",
+    "bytes": 17644
+  },
+  {
+    "slug": "doorway-row",
+    "frame": 3,
+    "resource": "wg63_doorway_row_3",
+    "sha256": "4e26040123580b4a2665c2e1421625e547c4731cd9d3938e538c9a861210be8e",
+    "bytes": 15762
+  },
+  {
+    "slug": "towel-row",
+    "frame": 1,
+    "resource": "wg63_towel_row_1",
+    "sha256": "dd055b41517bc4f2c8a7cf87a66539b9a4c6b96993d3a3e0e724d52d2739d3ff",
+    "bytes": 15926
+  },
+  {
+    "slug": "towel-row",
+    "frame": 2,
+    "resource": "wg63_towel_row_2",
+    "sha256": "b60391a09f86d2d11d2124a1f3c7118a23dd619abbe613ee9218c93af595d1f7",
+    "bytes": 13978
+  },
+  {
+    "slug": "towel-row",
+    "frame": 3,
+    "resource": "wg63_towel_row_3",
+    "sha256": "e7bfddc09fc6e6c1b25e9e65343224ed55d711b7f25a92bc90ab93a0adb82040",
+    "bytes": 15438
+  },
+  {
+    "slug": "prone-y-raise",
+    "frame": 1,
+    "resource": "wg63_prone_y_raise_1",
+    "sha256": "cdffc039bbafc2d16b2869f4562978f9c0e030710f4fece09bc9d405f03ce092",
+    "bytes": 12816
+  },
+  {
+    "slug": "prone-y-raise",
+    "frame": 2,
+    "resource": "wg63_prone_y_raise_2",
+    "sha256": "eab88997c450f25e4d2491ec0e887d0b977b07e7d9878aadf1f3502d315669ed",
+    "bytes": 11358
+  },
+  {
+    "slug": "prone-y-raise",
+    "frame": 3,
+    "resource": "wg63_prone_y_raise_3",
+    "sha256": "2247d70a08cdfbcdbec3321ccefbb1b1b99c760e6cfec1ff49ae9f160fe66699",
+    "bytes": 17956
+  },
+  {
+    "slug": "prone-t-raise",
+    "frame": 1,
+    "resource": "wg63_prone_t_raise_1",
+    "sha256": "8bb9358b893842ca763a4d838c78e18abe1c9c401e79dcde7b561a444ef80d2a",
+    "bytes": 15062
+  },
+  {
+    "slug": "prone-t-raise",
+    "frame": 2,
+    "resource": "wg63_prone_t_raise_2",
+    "sha256": "f165efab9b87ef66cd75f57ecb5380c38af2f2e56b4164184dfaea86460190d2",
+    "bytes": 21468
+  },
+  {
+    "slug": "prone-t-raise",
+    "frame": 3,
+    "resource": "wg63_prone_t_raise_3",
+    "sha256": "ffcc80b45568b0ea6f44653a9d2727d064f4dc2d45f90b09103f32b5c2ab58f7",
+    "bytes": 20494
+  },
+  {
+    "slug": "superman",
+    "frame": 1,
+    "resource": "wg63_superman_1",
+    "sha256": "7387a9b4aefc7f1a393707af9284450668a0c070971ff9419a5ba0dab5f13af8",
+    "bytes": 9038
+  },
+  {
+    "slug": "superman",
+    "frame": 2,
+    "resource": "wg63_superman_2",
+    "sha256": "f87031e228f747d3a384382f63359529a01a8d3004fc7cdd5a0a1774ac1c5e61",
+    "bytes": 12378
+  },
+  {
+    "slug": "superman",
+    "frame": 3,
+    "resource": "wg63_superman_3",
+    "sha256": "9c14d8037fecffb4a279d0a7c9f0a86e7402156fdc279af3a1bf4f6f0f69fa16",
+    "bytes": 7722
+  },
+  {
+    "slug": "superman-hold",
+    "frame": 1,
+    "resource": "wg63_superman_hold_1",
+    "sha256": "dd07cd0b3ba76690e26c8dc8eb3648c1e9b55ee8bc563b8150a9e655c6f61675",
+    "bytes": 8182
+  },
+  {
+    "slug": "superman-hold",
+    "frame": 2,
+    "resource": "wg63_superman_hold_2",
+    "sha256": "2d09128ea2382fbad09e064c8bb7786c3294e9484b819184c0eb6a0360714f1e",
+    "bytes": 8242
+  },
+  {
+    "slug": "superman-hold",
+    "frame": 3,
+    "resource": "wg63_superman_hold_3",
+    "sha256": "cf91a2ce9a0c463a4e61aa8038123a8fea8c90303501775bf806d57731401b06",
+    "bytes": 5770
+  },
+  {
+    "slug": "reverse-snow-angel",
+    "frame": 1,
+    "resource": "wg63_reverse_snow_angel_1",
+    "sha256": "bff2c4c8cff89a9829c53c58f29a90f136016d3dddfdb4cbdde70254c0835d30",
+    "bytes": 13126
+  },
+  {
+    "slug": "reverse-snow-angel",
+    "frame": 2,
+    "resource": "wg63_reverse_snow_angel_2",
+    "sha256": "3316d9d36d59b18225a6d8c84655b9330bd3e4212a766478a04068bda96a139a",
+    "bytes": 16360
+  },
+  {
+    "slug": "reverse-snow-angel",
+    "frame": 3,
+    "resource": "wg63_reverse_snow_angel_3",
+    "sha256": "2247d70a08cdfbcdbec3321ccefbb1b1b99c760e6cfec1ff49ae9f160fe66699",
+    "bytes": 17956
+  },
+  {
+    "slug": "dead-hang",
+    "frame": 1,
+    "resource": "wg63_dead_hang_1",
+    "sha256": "51979ebcf97d812a111aef9d8d1da2dcbe0f4b184f4c2bc64b2cc1b1eb1bfc41",
+    "bytes": 13264
+  },
+  {
+    "slug": "dead-hang",
+    "frame": 2,
+    "resource": "wg63_dead_hang_2",
+    "sha256": "31f19c4e077919b66a243ba7dc7c2f8c691b99666dbbd99a15e9ceb4d77916fb",
+    "bytes": 18382
+  },
+  {
+    "slug": "dead-hang",
+    "frame": 3,
+    "resource": "wg63_dead_hang_3",
+    "sha256": "251f3f539a9b6d8f4344d441252f4bedaefd98f8b8f3c4df0d3229e17908c73f",
+    "bytes": 15362
+  },
+  {
+    "slug": "active-hang",
+    "frame": 1,
+    "resource": "wg63_active_hang_1",
+    "sha256": "e7b4c6c73d3fb775bb1ebe252bad1b5bdf25502b4b01f5e8f5ba83a177e5af2e",
+    "bytes": 13416
+  },
+  {
+    "slug": "active-hang",
+    "frame": 2,
+    "resource": "wg63_active_hang_2",
+    "sha256": "65bf6bb2c4242d4d3fe4c5c0e539f13a06ee45e4cf30f1f51e749550a5622daf",
+    "bytes": 15042
+  },
+  {
+    "slug": "active-hang",
+    "frame": 3,
+    "resource": "wg63_active_hang_3",
+    "sha256": "99f34cd2d8ab252f215a01c166d963e0887df7a749b06f17b59902035995c53b",
+    "bytes": 21742
+  },
+  {
+    "slug": "scapular-pull-up",
+    "frame": 1,
+    "resource": "wg63_scapular_pull_up_1",
+    "sha256": "6c4d001874002f57fd9d3ce3e9dfc6256a117794c177446f34bf218c45c1eaaa",
+    "bytes": 14112
+  },
+  {
+    "slug": "scapular-pull-up",
+    "frame": 2,
+    "resource": "wg63_scapular_pull_up_2",
+    "sha256": "3d409699a9dc117337426acd768612f06eed8552248b183b6923162b1b222a89",
+    "bytes": 16702
+  },
+  {
+    "slug": "scapular-pull-up",
+    "frame": 3,
+    "resource": "wg63_scapular_pull_up_3",
+    "sha256": "0a947fe1fb5edfe743617f6e87e72676b22bf03b3af1258e51732ce8ef7fb434",
+    "bytes": 16990
+  },
+  {
+    "slug": "negative-pull-up",
+    "frame": 1,
+    "resource": "wg63_negative_pull_up_1",
+    "sha256": "46f1a7626488e37a3bd1379fd5e8d79b71972274a5d87837cb64b3898fad1479",
+    "bytes": 15836
+  },
+  {
+    "slug": "negative-pull-up",
+    "frame": 2,
+    "resource": "wg63_negative_pull_up_2",
+    "sha256": "4625d75a2bf109bcfa205e46014dc1cc5319cebb61ff8947d6d01efbc088b3cb",
+    "bytes": 16982
+  },
+  {
+    "slug": "negative-pull-up",
+    "frame": 3,
+    "resource": "wg63_negative_pull_up_3",
+    "sha256": "29628090fe793abd94066efc87ee6c19ed2dbae2bf8cd413120e5c453240c4a8",
+    "bytes": 14206
+  },
+  {
+    "slug": "commando-pull-up",
+    "frame": 1,
+    "resource": "wg63_commando_pull_up_1",
+    "sha256": "5be434434c720b947afb6f5a1ddcf46031376d4f56f11abe09058343628a2c1f",
+    "bytes": 15316
+  },
+  {
+    "slug": "commando-pull-up",
+    "frame": 2,
+    "resource": "wg63_commando_pull_up_2",
+    "sha256": "1e6ee0198880a974152ccb1d097023fa7fe57af412267fd9d3f7863d3cd48356",
+    "bytes": 18608
+  },
+  {
+    "slug": "commando-pull-up",
+    "frame": 3,
+    "resource": "wg63_commando_pull_up_3",
+    "sha256": "90c8b14103fb7a428fc38b74f79434f547e55125bc736107bcc5cdf720d6e664",
+    "bytes": 18954
+  },
+  {
+    "slug": "l-sit-pull-up",
+    "frame": 1,
+    "resource": "wg63_l_sit_pull_up_1",
+    "sha256": "42c834742c3b7ad10bffeac169cc1e28e1073e0e49edc28d60f3dc087267c6d5",
+    "bytes": 14708
+  },
+  {
+    "slug": "l-sit-pull-up",
+    "frame": 2,
+    "resource": "wg63_l_sit_pull_up_2",
+    "sha256": "647ab1546b935e6b6f014720ffcf04475dc532d7685e659158f91e98af6ce55a",
+    "bytes": 21608
+  },
+  {
+    "slug": "l-sit-pull-up",
+    "frame": 3,
+    "resource": "wg63_l_sit_pull_up_3",
+    "sha256": "c463a6ec9b86b5a4624a7ba3fafc1382b3d93fafe0701d5ee0d02aca6c3e5d41",
+    "bytes": 21804
+  },
+  {
+    "slug": "towel-pull-up",
+    "frame": 1,
+    "resource": "wg63_towel_pull_up_1",
+    "sha256": "5f6306fa955161988b3eb63c4db05ab592cf50ba0ba62c974d29661e6df00d42",
+    "bytes": 12564
+  },
+  {
+    "slug": "towel-pull-up",
+    "frame": 2,
+    "resource": "wg63_towel_pull_up_2",
+    "sha256": "0942819eab3550a10d8c109919ca61fe6921023647c886154732bc69f141b5ff",
+    "bytes": 17270
+  },
+  {
+    "slug": "towel-pull-up",
+    "frame": 3,
+    "resource": "wg63_towel_pull_up_3",
+    "sha256": "d785514d49a01f2b2afc25a790fdb88d53273547781a6b46813e0b97d64f33a7",
+    "bytes": 12840
+  },
+  {
+    "slug": "bodyweight-squat",
+    "frame": 1,
+    "resource": "wg63_bodyweight_squat_1",
+    "sha256": "9f9cf45bb1278798d26e68caa521100ad1932a34623568f63d96abdbac20fa40",
+    "bytes": 14266
+  },
+  {
+    "slug": "bodyweight-squat",
+    "frame": 2,
+    "resource": "wg63_bodyweight_squat_2",
+    "sha256": "a1a9d15364bcd344aff6ae0861e08e950b9c33a1f43d9c149d657838c8ed9c30",
+    "bytes": 21224
+  },
+  {
+    "slug": "bodyweight-squat",
+    "frame": 3,
+    "resource": "wg63_bodyweight_squat_3",
+    "sha256": "de7330fb75980c85c61412f936ac600c8b4bd8c2f6309b9a5129de232c2c4aaa",
+    "bytes": 17602
+  },
+  {
+    "slug": "pistol-squat",
+    "frame": 1,
+    "resource": "wg63_pistol_squat_1",
+    "sha256": "9f113cf97ace7050813335a301a36bd229568a26f1c7a65d244e34179af71b9e",
+    "bytes": 12854
+  },
+  {
+    "slug": "pistol-squat",
+    "frame": 2,
+    "resource": "wg63_pistol_squat_2",
+    "sha256": "738cf7fa13af2edb7f4058035b3f0334086688a2efd4c392d70e02153201fa68",
+    "bytes": 12972
+  },
+  {
+    "slug": "pistol-squat",
+    "frame": 3,
+    "resource": "wg63_pistol_squat_3",
+    "sha256": "d36bd5eb18cc62708407f733b6afd38cc4eed25cccdee2f53ad9d9bdb7b89591",
+    "bytes": 15128
+  },
+  {
+    "slug": "assisted-pistol-squat",
+    "frame": 1,
+    "resource": "wg63_assisted_pistol_squat_1",
+    "sha256": "04aaebd48f926907e1310f99d1fdf77001df16bacf1911e802282282f4dadffd",
+    "bytes": 14528
+  },
+  {
+    "slug": "assisted-pistol-squat",
+    "frame": 2,
+    "resource": "wg63_assisted_pistol_squat_2",
+    "sha256": "15f675e0ef166738f54aeec56d5d9a868cddce2eae5e0fe0e74d83c8260ddbd9",
+    "bytes": 19582
+  },
+  {
+    "slug": "assisted-pistol-squat",
+    "frame": 3,
+    "resource": "wg63_assisted_pistol_squat_3",
+    "sha256": "5a72fbe139a7d4cd00b8746b3e337a9dcf44658c93bd0a4ec85733fb2d8dbc32",
+    "bytes": 18370
+  },
+  {
+    "slug": "shrimp-squat",
+    "frame": 1,
+    "resource": "wg63_shrimp_squat_1",
+    "sha256": "66589afc55e0763586e32c9721255bc67b621c12e11b5f9bce14b02b8d6fa294",
+    "bytes": 15760
+  },
+  {
+    "slug": "shrimp-squat",
+    "frame": 2,
+    "resource": "wg63_shrimp_squat_2",
+    "sha256": "c271060413b3862eaad5289cbbc431e453e8b45cec203c35f8cac563047f329c",
+    "bytes": 15238
+  },
+  {
+    "slug": "shrimp-squat",
+    "frame": 3,
+    "resource": "wg63_shrimp_squat_3",
+    "sha256": "b19b79c846964efb6a15a96a2b5a477afd24726364217bfb469352f36a49251c",
+    "bytes": 16050
+  },
+  {
+    "slug": "cossack-squat",
+    "frame": 1,
+    "resource": "wg63_cossack_squat_1",
+    "sha256": "462db5df6f101d9911f73f6af727e81a90650514ae2c9b9c3ab56416bc8ae153",
+    "bytes": 13868
+  },
+  {
+    "slug": "cossack-squat",
+    "frame": 2,
+    "resource": "wg63_cossack_squat_2",
+    "sha256": "c4346a364aede2b4edcd4595f90da7398e8852b17b74492838d57a57035203e7",
+    "bytes": 17076
+  },
+  {
+    "slug": "cossack-squat",
+    "frame": 3,
+    "resource": "wg63_cossack_squat_3",
+    "sha256": "c0231d5da8968128635c966568b9e46e7170a24738ebfff18eb038b0a7ac79e5",
+    "bytes": 20726
+  },
+  {
+    "slug": "sissy-squat",
+    "frame": 1,
+    "resource": "wg63_sissy_squat_1",
+    "sha256": "4c300db19588429e6264fa0a371fb3ed3ce94de8512c011ca433fe4a3425dcd6",
+    "bytes": 14802
+  },
+  {
+    "slug": "sissy-squat",
+    "frame": 2,
+    "resource": "wg63_sissy_squat_2",
+    "sha256": "853dd4071a894bcdcd531f653b7999a55f5cb6421ad27b6ef6b2bf927e19f9f4",
+    "bytes": 14676
+  },
+  {
+    "slug": "sissy-squat",
+    "frame": 3,
+    "resource": "wg63_sissy_squat_3",
+    "sha256": "61f5fcd9a47db306f7722a77e4643fa1fda5f18ef5c4548fb41b5f6e526a5ffd",
+    "bytes": 17356
+  },
+  {
+    "slug": "forward-lunge",
+    "frame": 1,
+    "resource": "wg63_forward_lunge_1",
+    "sha256": "c24467e1c9820bc236f7a2bb9decf1d97161274aa93eea98e6bbfce7649d1dbf",
+    "bytes": 13186
+  },
+  {
+    "slug": "forward-lunge",
+    "frame": 2,
+    "resource": "wg63_forward_lunge_2",
+    "sha256": "d30443ca92d987255a8a02b2a04d5a4971ed2b1d6ea10060a1056627fb503a3b",
+    "bytes": 13854
+  },
+  {
+    "slug": "forward-lunge",
+    "frame": 3,
+    "resource": "wg63_forward_lunge_3",
+    "sha256": "aee768d90972a0f4796536beabf000da9045c9916d647db21679d79ca4c80928",
+    "bytes": 14924
+  },
+  {
+    "slug": "lateral-lunge",
+    "frame": 1,
+    "resource": "wg63_lateral_lunge_1",
+    "sha256": "4c53824b0db9d2d4643f0bcaf4d0f22946c388814c39a1fc81cec09a08381a1e",
+    "bytes": 14126
+  },
+  {
+    "slug": "lateral-lunge",
+    "frame": 2,
+    "resource": "wg63_lateral_lunge_2",
+    "sha256": "74a2b7bea42c299a34f2816b8eccd1603f51b1f1d810bf42ed8bf1cec2a3e74f",
+    "bytes": 16854
+  },
+  {
+    "slug": "lateral-lunge",
+    "frame": 3,
+    "resource": "wg63_lateral_lunge_3",
+    "sha256": "109f4a10077b72d0fb4d4229bdc38ba43b9a6e6a5dc4bf8cda6473b334ebbefc",
+    "bytes": 14234
+  },
+  {
+    "slug": "curtsy-lunge",
+    "frame": 1,
+    "resource": "wg63_curtsy_lunge_1",
+    "sha256": "12cb7547bf7f93eb30d7b16e52cefe9b92958b7cd53bac8ec23f9414bc679036",
+    "bytes": 12218
+  },
+  {
+    "slug": "curtsy-lunge",
+    "frame": 2,
+    "resource": "wg63_curtsy_lunge_2",
+    "sha256": "1b93ace660dbfc4c625ba9a6ffd45359c1de9c790bc847c6bb170d898e06eb42",
+    "bytes": 13086
+  },
+  {
+    "slug": "curtsy-lunge",
+    "frame": 3,
+    "resource": "wg63_curtsy_lunge_3",
+    "sha256": "548f1ea0843a1ea00b4203255eb3e7924462df62b195fcb6a6be985935f56206",
+    "bytes": 18074
+  },
+  {
+    "slug": "skater-squat",
+    "frame": 1,
+    "resource": "wg63_skater_squat_1",
+    "sha256": "475e388086c1718a88722d5bae032a59e78600ed86f71734821b0e61f105a34c",
+    "bytes": 12202
+  },
+  {
+    "slug": "skater-squat",
+    "frame": 2,
+    "resource": "wg63_skater_squat_2",
+    "sha256": "f26ad5cdf18ab1a00156b7e20cfee5bc391c6c4e833e1e989a2c4e62fbced067",
+    "bytes": 13272
+  },
+  {
+    "slug": "skater-squat",
+    "frame": 3,
+    "resource": "wg63_skater_squat_3",
+    "sha256": "596d7bfd4da1f8bbde5957029f50c2a8c4b90cdc8f8d23e0a0cefc3b82676069",
+    "bytes": 13394
+  },
+  {
+    "slug": "single-leg-box-squat",
+    "frame": 1,
+    "resource": "wg63_single_leg_box_squat_1",
+    "sha256": "310732e0dab881539fc16d5022b0062dad87fc06e1285ba8fe43cbf959f38aa3",
+    "bytes": 15354
+  },
+  {
+    "slug": "single-leg-box-squat",
+    "frame": 2,
+    "resource": "wg63_single_leg_box_squat_2",
+    "sha256": "656fede5e697425e04189b3c513ad515662db8d2b32b5bbc50446a9b8420b9ee",
+    "bytes": 19042
+  },
+  {
+    "slug": "single-leg-box-squat",
+    "frame": 3,
+    "resource": "wg63_single_leg_box_squat_3",
+    "sha256": "86a0e280b27b9e05bc985d9fa43467361d873695cdd532de6fa9b3b7a763bb95",
+    "bytes": 13274
+  },
+  {
+    "slug": "step-down",
+    "frame": 1,
+    "resource": "wg63_step_down_1",
+    "sha256": "5d347d8d088b62d588a9bedcef59f86da83eda27b7b918af20e5cb47d92dab6e",
+    "bytes": 13146
+  },
+  {
+    "slug": "step-down",
+    "frame": 2,
+    "resource": "wg63_step_down_2",
+    "sha256": "3d76d17708a71fd25090ad751389e5e7878d04e63053c7030ff4355d1e0d1cfa",
+    "bytes": 12778
+  },
+  {
+    "slug": "step-down",
+    "frame": 3,
+    "resource": "wg63_step_down_3",
+    "sha256": "4504500eb0dc2cc2e74e602e114b60c2edf157d0e0a19ec731961c4da2ac259e",
+    "bytes": 12936
+  },
+  {
+    "slug": "calf-raise",
+    "frame": 1,
+    "resource": "wg63_calf_raise_1",
+    "sha256": "f8c82d079dd7d530e18472a0ddb237301de1960bdba97685d70596727a1262b7",
+    "bytes": 15146
+  },
+  {
+    "slug": "calf-raise",
+    "frame": 2,
+    "resource": "wg63_calf_raise_2",
+    "sha256": "6516fcf7f21244cfb2f0c1d899a16a0fa55a848be29c671353cf7cf39f183ebf",
+    "bytes": 17012
+  },
+  {
+    "slug": "calf-raise",
+    "frame": 3,
+    "resource": "wg63_calf_raise_3",
+    "sha256": "390d95066b2c5287ca885b5a74e5926b25bca99fd4efa06f50eaf699df729d10",
+    "bytes": 23242
+  },
+  {
+    "slug": "single-leg-calf-raise",
+    "frame": 1,
+    "resource": "wg63_single_leg_calf_raise_1",
+    "sha256": "6a9be54b1ffef844b98ed7ec67614d89b95049924cc29c7d0f8b3541edd6b05e",
+    "bytes": 12846
+  },
+  {
+    "slug": "single-leg-calf-raise",
+    "frame": 2,
+    "resource": "wg63_single_leg_calf_raise_2",
+    "sha256": "7b152ba0b72f9c1e558d356c497430f28a381209aadb63c1fb753b6cb389b1d2",
+    "bytes": 13846
+  },
+  {
+    "slug": "single-leg-calf-raise",
+    "frame": 3,
+    "resource": "wg63_single_leg_calf_raise_3",
+    "sha256": "efe9fb9c673849020c65b9dc3bf102aaf8f015deedb39cecf5766bb70e6c7935",
+    "bytes": 13114
+  },
+  {
+    "slug": "glute-bridge-march",
+    "frame": 1,
+    "resource": "wg63_glute_bridge_march_1",
+    "sha256": "15953358f70643f1e85fc185024f2d1fcee88e01fb98334f4af49534a50172b3",
+    "bytes": 12846
+  },
+  {
+    "slug": "glute-bridge-march",
+    "frame": 2,
+    "resource": "wg63_glute_bridge_march_2",
+    "sha256": "08ab85c04f36278b4b6f1a4ad1223ce95295970454b9d38ebfb601e82b98d006",
+    "bytes": 12094
+  },
+  {
+    "slug": "glute-bridge-march",
+    "frame": 3,
+    "resource": "wg63_glute_bridge_march_3",
+    "sha256": "4f4129d958e374e2740364203cce82a9200b2a6b5a1a37b511405fd55296259e",
+    "bytes": 14012
+  },
+  {
+    "slug": "frog-pump",
+    "frame": 1,
+    "resource": "wg63_frog_pump_1",
+    "sha256": "752f6c4796f32092a1bf25137e372d7d06e98d986ab97a094b10205a8153f781",
+    "bytes": 13468
+  },
+  {
+    "slug": "frog-pump",
+    "frame": 2,
+    "resource": "wg63_frog_pump_2",
+    "sha256": "a5de92e9cfd0857473ce144bd3774409e1db0ec14d6da7fe837131ba8b52256c",
+    "bytes": 20946
+  },
+  {
+    "slug": "frog-pump",
+    "frame": 3,
+    "resource": "wg63_frog_pump_3",
+    "sha256": "959e3eb7ecf8952ee772b03f962c7e6363c599773f0a4cbdc06a0aa362bbb908",
+    "bytes": 19266
+  },
+  {
+    "slug": "donkey-kick",
+    "frame": 1,
+    "resource": "wg63_donkey_kick_1",
+    "sha256": "0fcc4453a0185983ac51fb9791d2800207dd52c7e5cdd46319bd6b0ffe822f72",
+    "bytes": 14748
+  },
+  {
+    "slug": "donkey-kick",
+    "frame": 2,
+    "resource": "wg63_donkey_kick_2",
+    "sha256": "5493a715ca1300098bfd73c270b6cb43d97ad6128c24e822f0363846e7c71d11",
+    "bytes": 15032
+  },
+  {
+    "slug": "donkey-kick",
+    "frame": 3,
+    "resource": "wg63_donkey_kick_3",
+    "sha256": "127219c269347a3235b98817cfe7642b29f908a0e5ee8be4fd89d1ca20ab64a1",
+    "bytes": 13906
+  },
+  {
+    "slug": "fire-hydrant",
+    "frame": 1,
+    "resource": "wg63_fire_hydrant_1",
+    "sha256": "4b30b8b1a126b9e6c847f729b94c9acc1ae26313f5e50c8316583b5117d6c03e",
+    "bytes": 13932
+  },
+  {
+    "slug": "fire-hydrant",
+    "frame": 2,
+    "resource": "wg63_fire_hydrant_2",
+    "sha256": "182e27e2790515355c214259ac111be2065ce76853080d452f1ef6f151860bcf",
+    "bytes": 15236
+  },
+  {
+    "slug": "fire-hydrant",
+    "frame": 3,
+    "resource": "wg63_fire_hydrant_3",
+    "sha256": "fd7d3f59f828722d36f8bd433ba56db2875834299a4f173560b62872e6140d8b",
+    "bytes": 15466
+  },
+  {
+    "slug": "clamshell",
+    "frame": 1,
+    "resource": "wg63_clamshell_1",
+    "sha256": "d06ec2858d03be3a11c1629ce6a3bb1673827966d26ca57b54efd739d3c07e27",
+    "bytes": 14128
+  },
+  {
+    "slug": "clamshell",
+    "frame": 2,
+    "resource": "wg63_clamshell_2",
+    "sha256": "704903fe6c7f5f820c11edfb1c7dbc5d4b6ec5dc05e0b4790d538b2767acda5d",
+    "bytes": 12840
+  },
+  {
+    "slug": "clamshell",
+    "frame": 3,
+    "resource": "wg63_clamshell_3",
+    "sha256": "8c606104e153137b6d268599e2b1fd3227690be589091b1ef17ae1ddd4cce94c",
+    "bytes": 14032
+  },
+  {
+    "slug": "hip-airplane",
+    "frame": 1,
+    "resource": "wg63_hip_airplane_1",
+    "sha256": "e5637d3bbbaf8974ee114b3633b697b330d078eb5242da04d625e90605b9f213",
+    "bytes": 12196
+  },
+  {
+    "slug": "hip-airplane",
+    "frame": 2,
+    "resource": "wg63_hip_airplane_2",
+    "sha256": "ac6409975f053fcd4d4ca04de8d895906c17722fc1f80b97795887aad82ccdd6",
+    "bytes": 14216
+  },
+  {
+    "slug": "hip-airplane",
+    "frame": 3,
+    "resource": "wg63_hip_airplane_3",
+    "sha256": "bd20869ed6a3e917890c92e925c98b4efc21e3a94d5c3682ad79fb1a3e3224ce",
+    "bytes": 12408
+  },
+  {
+    "slug": "side-lying-hip-abduction",
+    "frame": 1,
+    "resource": "wg63_side_lying_hip_abduction_1",
+    "sha256": "9ac420b7821a73c41dca889d1493565e73f7b888e05f2b2c5223bd3e8c96ca2c",
+    "bytes": 13098
+  },
+  {
+    "slug": "side-lying-hip-abduction",
+    "frame": 2,
+    "resource": "wg63_side_lying_hip_abduction_2",
+    "sha256": "971892218dca99455bb11dd483168f36308fe2978c5d72ba94734b76b08e2fbe",
+    "bytes": 12284
+  },
+  {
+    "slug": "side-lying-hip-abduction",
+    "frame": 3,
+    "resource": "wg63_side_lying_hip_abduction_3",
+    "sha256": "06e21768be29a62420b6567071aad08d002e0bd000cd9d5d195f74a3a4dd7b49",
+    "bytes": 12182
+  },
+  {
+    "slug": "side-lying-leg-raise",
+    "frame": 1,
+    "resource": "wg63_side_lying_leg_raise_1",
+    "sha256": "f9c86cf91c44632c8604c129a01703db981e59c3b9369463a77efe01c2959a5b",
+    "bytes": 11828
+  },
+  {
+    "slug": "side-lying-leg-raise",
+    "frame": 2,
+    "resource": "wg63_side_lying_leg_raise_2",
+    "sha256": "d735ce40a794ade2daec8aa8378796aab2bd7b217eb7c98c5421444e9ae38873",
+    "bytes": 12354
+  },
+  {
+    "slug": "side-lying-leg-raise",
+    "frame": 3,
+    "resource": "wg63_side_lying_leg_raise_3",
+    "sha256": "bea3753d431151f2fce90d81d160248cc74d55ae1c25c3ff14d13b38e82aa101",
+    "bytes": 9520
+  },
+  {
+    "slug": "lying-hamstring-walkout",
+    "frame": 1,
+    "resource": "wg63_lying_hamstring_walkout_1",
+    "sha256": "2b1fb0130867106aab02af9bf14e1dc69b0681e0f8b1a4500ccb24ec9d04a83a",
+    "bytes": 11682
+  },
+  {
+    "slug": "lying-hamstring-walkout",
+    "frame": 2,
+    "resource": "wg63_lying_hamstring_walkout_2",
+    "sha256": "a31a20ccc304b0a2056afc6c2b36d891d8d677f98e24408376ceba085ccdfc7c",
+    "bytes": 13972
+  },
+  {
+    "slug": "lying-hamstring-walkout",
+    "frame": 3,
+    "resource": "wg63_lying_hamstring_walkout_3",
+    "sha256": "1fc089d9de7de2e63ac1d7900f1f4b6e7329cc64f597aaa47a68c26c6666b514",
+    "bytes": 16236
+  },
+  {
+    "slug": "towel-hamstring-curl",
+    "frame": 1,
+    "resource": "wg63_towel_hamstring_curl_1",
+    "sha256": "a9466075e378638c62352c6e89394dd0941fb30b405c7308aa8d273a8401b64d",
+    "bytes": 16616
+  },
+  {
+    "slug": "towel-hamstring-curl",
+    "frame": 2,
+    "resource": "wg63_towel_hamstring_curl_2",
+    "sha256": "df2bfa7c2d6f2b1292e87eb236f5b962f75fbebc9917b1d61c0efb69cb63cee8",
+    "bytes": 13098
+  },
+  {
+    "slug": "towel-hamstring-curl",
+    "frame": 3,
+    "resource": "wg63_towel_hamstring_curl_3",
+    "sha256": "5ea25f76171214df06172de3ecec24876a6c3fceeb9d91d0c1b6d7f54e9d989b",
+    "bytes": 11250
+  },
+  {
+    "slug": "stability-ball-hamstring-curl",
+    "frame": 1,
+    "resource": "wg63_stability_ball_hamstring_curl_1",
+    "sha256": "82a76b0883e20610627c21cd2e1a24e2337f99683ca8c871fbf7c15d77607056",
+    "bytes": 12050
+  },
+  {
+    "slug": "stability-ball-hamstring-curl",
+    "frame": 2,
+    "resource": "wg63_stability_ball_hamstring_curl_2",
+    "sha256": "9a2e911f71c553ec9fb4294b47751883757fe7bb307bf97e23fcdd80e3159012",
+    "bytes": 13798
+  },
+  {
+    "slug": "stability-ball-hamstring-curl",
+    "frame": 3,
+    "resource": "wg63_stability_ball_hamstring_curl_3",
+    "sha256": "14ff4aa28016dbad3f432c0ca21482eff4843bda694d4de01c2fa6cd718e0f7e",
+    "bytes": 14954
+  },
+  {
+    "slug": "banded-glute-bridge",
+    "frame": 1,
+    "resource": "wg63_banded_glute_bridge_1",
+    "sha256": "0cd49562e317005660dec458715797c799ee57eaa38f925cdade46f35a673273",
+    "bytes": 13440
+  },
+  {
+    "slug": "banded-glute-bridge",
+    "frame": 2,
+    "resource": "wg63_banded_glute_bridge_2",
+    "sha256": "c328964e10ce024123dee56060ae5667cef5513b714d8608771fc28398357395",
+    "bytes": 12834
+  },
+  {
+    "slug": "banded-glute-bridge",
+    "frame": 3,
+    "resource": "wg63_banded_glute_bridge_3",
+    "sha256": "e502dd7413370575a030988e6c4b595e3fc603e64b4d387525778983707886aa",
+    "bytes": 12580
+  },
+  {
+    "slug": "banded-hip-thrust",
+    "frame": 1,
+    "resource": "wg63_banded_hip_thrust_1",
+    "sha256": "c31ac8781c8f23d9a0c4778184e871d483f76d3608fafcbc99c970a6def60857",
+    "bytes": 17316
+  },
+  {
+    "slug": "banded-hip-thrust",
+    "frame": 2,
+    "resource": "wg63_banded_hip_thrust_2",
+    "sha256": "547d689a80858f261092b98a6d329b4bfd39dd60805d65ffa0452b665199ae88",
+    "bytes": 19478
+  },
+  {
+    "slug": "banded-hip-thrust",
+    "frame": 3,
+    "resource": "wg63_banded_hip_thrust_3",
+    "sha256": "25b2d7c28e54cc43f35cc845366208158b13a4746f57e7c11cf2e3578883cf99",
+    "bytes": 27594
+  },
+  {
+    "slug": "banded-frog-pump",
+    "frame": 1,
+    "resource": "wg63_banded_frog_pump_1",
+    "sha256": "f29ce514b4d578aa21280c05648ae3e9bb424b8ab056eea16e123f715081460a",
+    "bytes": 14318
+  },
+  {
+    "slug": "banded-frog-pump",
+    "frame": 2,
+    "resource": "wg63_banded_frog_pump_2",
+    "sha256": "ecc7c1dcc28eb7508874a09a42040ef214cefa13b38b2dd8ab186e7fb99749da",
+    "bytes": 14794
+  },
+  {
+    "slug": "banded-frog-pump",
+    "frame": 3,
+    "resource": "wg63_banded_frog_pump_3",
+    "sha256": "ce7f6f3a96cb25a9d4dcf9a49c114546187c830ded8631070bb84e27da080f1c",
+    "bytes": 13414
+  },
+  {
+    "slug": "banded-clamshell",
+    "frame": 1,
+    "resource": "wg63_banded_clamshell_1",
+    "sha256": "16502b5e2f3afb99ff8bb0b52e2df802511bbdeda383e20da43ae65347e77072",
+    "bytes": 14010
+  },
+  {
+    "slug": "banded-clamshell",
+    "frame": 2,
+    "resource": "wg63_banded_clamshell_2",
+    "sha256": "080ad158b43f03c4cd60274b40d11d4c89780459ecd830f202917ab543ae3a0d",
+    "bytes": 14552
+  },
+  {
+    "slug": "banded-clamshell",
+    "frame": 3,
+    "resource": "wg63_banded_clamshell_3",
+    "sha256": "0114e6fe09a7107b74a7d22445bae484317f867dce3e63b1a4d6c3708732091d",
+    "bytes": 13468
+  },
+  {
+    "slug": "banded-lateral-walk",
+    "frame": 1,
+    "resource": "wg63_banded_lateral_walk_1",
+    "sha256": "cb93fe3e2955c248a3b19ba1249ea446a832ca5bff36e535cb060fe9401660dc",
+    "bytes": 13354
+  },
+  {
+    "slug": "banded-lateral-walk",
+    "frame": 2,
+    "resource": "wg63_banded_lateral_walk_2",
+    "sha256": "fa8d487499dc1061683851fc3f416b833991584d7c9ea16a43e67ca16750240c",
+    "bytes": 13406
+  },
+  {
+    "slug": "banded-lateral-walk",
+    "frame": 3,
+    "resource": "wg63_banded_lateral_walk_3",
+    "sha256": "94477d011e58a93bed0d5feb2065df325da4b6550cb4b3db7cbfba7dfc1e64b6",
+    "bytes": 13206
+  },
+  {
+    "slug": "banded-monster-walk",
+    "frame": 1,
+    "resource": "wg63_banded_monster_walk_1",
+    "sha256": "3cac3bede306e19c245daafc0f109f3447631c3e417f072719892d0d5a965d2f",
+    "bytes": 13480
+  },
+  {
+    "slug": "banded-monster-walk",
+    "frame": 2,
+    "resource": "wg63_banded_monster_walk_2",
+    "sha256": "fdead31bb6eecc39c3ac306adaf2015eddd6dd8fe855d31ccc22bf01b80bbc61",
+    "bytes": 15676
+  },
+  {
+    "slug": "banded-monster-walk",
+    "frame": 3,
+    "resource": "wg63_banded_monster_walk_3",
+    "sha256": "549bec88dca07b178b7c37134a1b33866c83c72ea514713b056e4345aa1b4e10",
+    "bytes": 18948
+  },
+  {
+    "slug": "banded-squat",
+    "frame": 1,
+    "resource": "wg63_banded_squat_1",
+    "sha256": "d8fc1927ec157a37b09678edce3f88496e19c438381e31f782b47b5bfeeca9d9",
+    "bytes": 14282
+  },
+  {
+    "slug": "banded-squat",
+    "frame": 2,
+    "resource": "wg63_banded_squat_2",
+    "sha256": "0e5f8ca8cb2807cab6caf2e0ca7401e8ea214bdb972676a567736cba298d660b",
+    "bytes": 24788
+  },
+  {
+    "slug": "banded-squat",
+    "frame": 3,
+    "resource": "wg63_banded_squat_3",
+    "sha256": "44a3b962e97f1973c19272654cf268e1f5d51a2020459758103997b6f639c4fa",
+    "bytes": 15766
+  },
+  {
+    "slug": "banded-donkey-kick",
+    "frame": 1,
+    "resource": "wg63_banded_donkey_kick_1",
+    "sha256": "c6ce1db221f889cf74c954ebaa8161d1f87a265bf0d98a8531762688b60c1fdc",
+    "bytes": 15254
+  },
+  {
+    "slug": "banded-donkey-kick",
+    "frame": 2,
+    "resource": "wg63_banded_donkey_kick_2",
+    "sha256": "dc271e94b4df7f1c4eb2d2fdeffa063feda37ddebf4e37fafa6b0fe17e1ff4b8",
+    "bytes": 13642
+  },
+  {
+    "slug": "banded-donkey-kick",
+    "frame": 3,
+    "resource": "wg63_banded_donkey_kick_3",
+    "sha256": "09840de762780b9cb91d142a7c710baebb7fbb21e5cf33ebd53407ed2a18454a",
+    "bytes": 12776
+  },
+  {
+    "slug": "banded-fire-hydrant",
+    "frame": 1,
+    "resource": "wg63_banded_fire_hydrant_1",
+    "sha256": "7af4df912d19d9a3aae079eeea6453cb5c9229410963935d7ad47740dabdd780",
+    "bytes": 14102
+  },
+  {
+    "slug": "banded-fire-hydrant",
+    "frame": 2,
+    "resource": "wg63_banded_fire_hydrant_2",
+    "sha256": "094a9dfff9203fa2f40fa27f9686e79af4bc2b62ff65791b789174c453fa63af",
+    "bytes": 15082
+  },
+  {
+    "slug": "banded-fire-hydrant",
+    "frame": 3,
+    "resource": "wg63_banded_fire_hydrant_3",
+    "sha256": "ccff9f32012cab64bd34038499e22b6b0ecc38c64ccb75a3d8bbc867ee118e33",
+    "bytes": 12902
+  },
+  {
+    "slug": "banded-kickback",
+    "frame": 1,
+    "resource": "wg63_banded_kickback_1",
+    "sha256": "1b6bcc8bf47d2353ca056efb6f6b64a6e07ba78fd2ca94d76cab70730e3fa99c",
+    "bytes": 13116
+  },
+  {
+    "slug": "banded-kickback",
+    "frame": 2,
+    "resource": "wg63_banded_kickback_2",
+    "sha256": "6c62a801b0afbad8472c0b1e082513ac1d1cfdca151b7ee408d5057be112b41a",
+    "bytes": 11860
+  },
+  {
+    "slug": "banded-kickback",
+    "frame": 3,
+    "resource": "wg63_banded_kickback_3",
+    "sha256": "40adf982383305777493ffc25ff4ff797ff5cdf9cafdb836f5fd4348ed132b60",
+    "bytes": 11336
+  },
+  {
+    "slug": "banded-standing-hip-abduction",
+    "frame": 1,
+    "resource": "wg63_banded_standing_hip_abduction_1",
+    "sha256": "7141b37535ce7be72cae41726341dec8cbb5321e981bca80a789409dccc56f61",
+    "bytes": 14106
+  },
+  {
+    "slug": "banded-standing-hip-abduction",
+    "frame": 2,
+    "resource": "wg63_banded_standing_hip_abduction_2",
+    "sha256": "5e89f3c5df728cefd058326fea8168108857a70b500296cfeedda041e560f213",
+    "bytes": 18926
+  },
+  {
+    "slug": "banded-standing-hip-abduction",
+    "frame": 3,
+    "resource": "wg63_banded_standing_hip_abduction_3",
+    "sha256": "917837d4f8f2eb7ddd33b0c3460728991e9d6c85b575b75844d747cb7d75cf57",
+    "bytes": 14318
+  },
+  {
+    "slug": "banded-seated-hip-abduction",
+    "frame": 1,
+    "resource": "wg63_banded_seated_hip_abduction_1",
+    "sha256": "a38aabad340e2d03397e2a6bf2066d02360ea5db3113db73cc5b4641826c357c",
+    "bytes": 16122
+  },
+  {
+    "slug": "banded-seated-hip-abduction",
+    "frame": 2,
+    "resource": "wg63_banded_seated_hip_abduction_2",
+    "sha256": "bc317cfcd4badfb25955238b8b4afd6c5e17bb0b8d5127988301d99b29add360",
+    "bytes": 25834
+  },
+  {
+    "slug": "banded-seated-hip-abduction",
+    "frame": 3,
+    "resource": "wg63_banded_seated_hip_abduction_3",
+    "sha256": "d01ef196f1c4edfe99bd3684aac5dcbd7807e8ac03678551ce761021d34e03cd",
+    "bytes": 17034
+  },
+  {
+    "slug": "band-pull-apart",
+    "frame": 1,
+    "resource": "wg63_band_pull_apart_1",
+    "sha256": "22a85dd989f0aac53c231de990e6828b35499531a23088362ce99827b723f6eb",
+    "bytes": 13618
+  },
+  {
+    "slug": "band-pull-apart",
+    "frame": 2,
+    "resource": "wg63_band_pull_apart_2",
+    "sha256": "04c2ee48c2e31dee8dcb5f57743d9eefd6b3c62b33ff4040d3d7c2cf7524813a",
+    "bytes": 17080
+  },
+  {
+    "slug": "band-pull-apart",
+    "frame": 3,
+    "resource": "wg63_band_pull_apart_3",
+    "sha256": "e55cecd683ca28aa61d18dca899e58cfe84bb596b64605284e85e3feb386ac96",
+    "bytes": 16448
+  },
+  {
+    "slug": "banded-face-pull",
+    "frame": 1,
+    "resource": "wg63_banded_face_pull_1",
+    "sha256": "10fed7899b877a59aa14f40157d540143499839ad2dd9c1914c11a67002c5547",
+    "bytes": 15258
+  },
+  {
+    "slug": "banded-face-pull",
+    "frame": 2,
+    "resource": "wg63_banded_face_pull_2",
+    "sha256": "f47ac8d6cddc07ee20d53433d44c433e1b6899ac8123cd04c22e39ff0a750964",
+    "bytes": 14436
+  },
+  {
+    "slug": "banded-face-pull",
+    "frame": 3,
+    "resource": "wg63_banded_face_pull_3",
+    "sha256": "9746a0c7c5c78b3744c07c9fbe821fb4429c8e68b34a3408d631bc0923a169cc",
+    "bytes": 14248
+  },
+  {
+    "slug": "banded-row",
+    "frame": 1,
+    "resource": "wg63_banded_row_1",
+    "sha256": "cceb63e4d751e87a6295822c27235e87c345ba7341e2b15bb4a29ff183b5eda3",
+    "bytes": 13502
+  },
+  {
+    "slug": "banded-row",
+    "frame": 2,
+    "resource": "wg63_banded_row_2",
+    "sha256": "4bcd74710186e415695d9d1bf0dd0e13d4e1d2422071c08bce4b273bd93a63ad",
+    "bytes": 19928
+  },
+  {
+    "slug": "banded-row",
+    "frame": 3,
+    "resource": "wg63_banded_row_3",
+    "sha256": "4b392d733deb9f0c6163fbcf05b58c9c115d2608bce87ca5e3a1c2efdf9f606e",
+    "bytes": 13536
+  },
+  {
+    "slug": "banded-lat-pulldown",
+    "frame": 1,
+    "resource": "wg63_banded_lat_pulldown_1",
+    "sha256": "08155dc9d0d49c7077e8080167010bfeddb40a8c7ebd9716ee5e70def9b07d43",
+    "bytes": 16124
+  },
+  {
+    "slug": "banded-lat-pulldown",
+    "frame": 2,
+    "resource": "wg63_banded_lat_pulldown_2",
+    "sha256": "81b72b486679409308f4662964bf5155773a3e9fa1c73b98a39b7f89c628dd25",
+    "bytes": 28676
+  },
+  {
+    "slug": "banded-lat-pulldown",
+    "frame": 3,
+    "resource": "wg63_banded_lat_pulldown_3",
+    "sha256": "c8b06df16ddcc8bb84e0eaa9c8e550327ea56c8833abc6e1e7ef06a4f8515f1e",
+    "bytes": 21478
+  },
+  {
+    "slug": "banded-pallof-press",
+    "frame": 1,
+    "resource": "wg63_banded_pallof_press_1",
+    "sha256": "2e0886196e53adc6b6a6b6ebe92e87468173f5cd57066b8aac31c0d746a59f90",
+    "bytes": 13090
+  },
+  {
+    "slug": "banded-pallof-press",
+    "frame": 2,
+    "resource": "wg63_banded_pallof_press_2",
+    "sha256": "a91e1063709860d10f3aad0745b9a5b29d4430776b2ddc49c69b70d4f65efec1",
+    "bytes": 20166
+  },
+  {
+    "slug": "banded-pallof-press",
+    "frame": 3,
+    "resource": "wg63_banded_pallof_press_3",
+    "sha256": "9797e7b10c2fe0a833f9073f637d7441928a8776029033aa29fdecf40db2018f",
+    "bytes": 14814
+  },
+  {
+    "slug": "banded-woodchop",
+    "frame": 1,
+    "resource": "wg63_banded_woodchop_1",
+    "sha256": "4b725711bf4b90e97f6afe5c55e8e402c1f0e3c2afd07f9990df52b274492c63",
+    "bytes": 14802
+  },
+  {
+    "slug": "banded-woodchop",
+    "frame": 2,
+    "resource": "wg63_banded_woodchop_2",
+    "sha256": "f76b7baa4995f49d2dca3dc7b31fbc1bf9e39ea833d9c7f395133e5d50ae3632",
+    "bytes": 19274
+  },
+  {
+    "slug": "banded-woodchop",
+    "frame": 3,
+    "resource": "wg63_banded_woodchop_3",
+    "sha256": "2cbe7961b9c470e51aabac0bcba569351851e503112e7e2461cb09caf262e1ae",
+    "bytes": 20954
+  },
+  {
+    "slug": "banded-dead-bug",
+    "frame": 1,
+    "resource": "wg63_banded_dead_bug_1",
+    "sha256": "9fa661f855d9e75cc2323b7daeb83cfe5ddeec01200eecb79ed6e1a679f52afe",
+    "bytes": 13746
+  },
+  {
+    "slug": "banded-dead-bug",
+    "frame": 2,
+    "resource": "wg63_banded_dead_bug_2",
+    "sha256": "fe7f4756cbded1b05fe49fc08416fe92abe83df4d5aac3081a12d8fce57fa27a",
+    "bytes": 16316
+  },
+  {
+    "slug": "banded-dead-bug",
+    "frame": 3,
+    "resource": "wg63_banded_dead_bug_3",
+    "sha256": "bd147a23aacfdbc4f27c2912a590b5d146c00a2e7f509d25d84bed40644ccf1a",
+    "bytes": 14554
+  },
+  {
+    "slug": "hollow-body-hold",
+    "frame": 1,
+    "resource": "wg63_hollow_body_hold_1",
+    "sha256": "2e0ea1429a08c8e1777f91fcfca992cc6f76f429a2b420ccdc3474eb4b625d6f",
+    "bytes": 11282
+  },
+  {
+    "slug": "hollow-body-hold",
+    "frame": 2,
+    "resource": "wg63_hollow_body_hold_2",
+    "sha256": "1fa2fb9124ada72679eaf854faf56898f8f489887c354a7a59176de2139217ad",
+    "bytes": 13078
+  },
+  {
+    "slug": "hollow-body-hold",
+    "frame": 3,
+    "resource": "wg63_hollow_body_hold_3",
+    "sha256": "e1a5644063754c643fe7d69e156d9d38d61b384bc7247854d16be5e261c60f39",
+    "bytes": 11850
+  },
+  {
+    "slug": "hollow-rock",
+    "frame": 1,
+    "resource": "wg63_hollow_rock_1",
+    "sha256": "f924f005602a3f0bbf23c646330051a0d5b48a28f1ca1395a5dab7c055e071c3",
+    "bytes": 11498
+  },
+  {
+    "slug": "hollow-rock",
+    "frame": 2,
+    "resource": "wg63_hollow_rock_2",
+    "sha256": "9b8dfbcb5efdb1d5b1dc93b711baac02fc18aa625f5c9a377e3c0844839bb8c0",
+    "bytes": 12424
+  },
+  {
+    "slug": "hollow-rock",
+    "frame": 3,
+    "resource": "wg63_hollow_rock_3",
+    "sha256": "27946f536029eac09ebc86f272ffd7574a2c7659854177cc3024bcbd2abff349",
+    "bytes": 12620
+  },
+  {
+    "slug": "v-up",
+    "frame": 1,
+    "resource": "wg63_v_up_1",
+    "sha256": "fec905f3b5cf2fc3b7b7ce442babf2028e6442a5e9dc0bb256af1aea2fedd710",
+    "bytes": 15628
+  },
+  {
+    "slug": "v-up",
+    "frame": 2,
+    "resource": "wg63_v_up_2",
+    "sha256": "0b756c45d9b715c365efd6909cdeb7f5255b553ec4fba0ee40fabfc9c58ca657",
+    "bytes": 10020
+  },
+  {
+    "slug": "v-up",
+    "frame": 3,
+    "resource": "wg63_v_up_3",
+    "sha256": "efb554e551fbb1b8bd6748137042291a64f2bdd23a1a7194c784734e4cafdd4a",
+    "bytes": 7424
+  },
+  {
+    "slug": "flutter-kick",
+    "frame": 1,
+    "resource": "wg63_flutter_kick_1",
+    "sha256": "e1f967940d24eac67cd23f6cf1d1493848116faafac77337b537f74637b08276",
+    "bytes": 12318
+  },
+  {
+    "slug": "flutter-kick",
+    "frame": 2,
+    "resource": "wg63_flutter_kick_2",
+    "sha256": "48f79a15c7cfa4fea6ed0a9caf65825a3b41820d74cc15bdb094e9d67f25b11c",
+    "bytes": 12734
+  },
+  {
+    "slug": "flutter-kick",
+    "frame": 3,
+    "resource": "wg63_flutter_kick_3",
+    "sha256": "55d6d2984ec3e1b32c20b4ecc60c16a2da27de73f8b2d3d6e7ed38d9f52e6f98",
+    "bytes": 13248
+  },
+  {
+    "slug": "lying-leg-raise",
+    "frame": 1,
+    "resource": "wg63_lying_leg_raise_1",
+    "sha256": "58a91b9a2a85fc7918b3c6509cc73d3982e750bea1f92602e6067b7581a1dc8a",
+    "bytes": 12776
+  },
+  {
+    "slug": "lying-leg-raise",
+    "frame": 2,
+    "resource": "wg63_lying_leg_raise_2",
+    "sha256": "4a8484bef150940067bae5b6b4772a19ba1b494069967dce4119706c446e26b6",
+    "bytes": 11712
+  },
+  {
+    "slug": "lying-leg-raise",
+    "frame": 3,
+    "resource": "wg63_lying_leg_raise_3",
+    "sha256": "86779c72e8f1bf758e4697d2a3c113e123708c3f3d072bc297cb0f0d73fb7049",
+    "bytes": 9964
+  },
+  {
+    "slug": "toe-touch",
+    "frame": 1,
+    "resource": "wg63_toe_touch_1",
+    "sha256": "85e206be2f08842aa3408bd8906942d8f0cb45367846b20ada162c15d85360bf",
+    "bytes": 17648
+  },
+  {
+    "slug": "toe-touch",
+    "frame": 2,
+    "resource": "wg63_toe_touch_2",
+    "sha256": "c85c103c7b4470bd522007bec9163d92079b01a41c183d793e94dbe2fbb83d24",
+    "bytes": 13422
+  },
+  {
+    "slug": "toe-touch",
+    "frame": 3,
+    "resource": "wg63_toe_touch_3",
+    "sha256": "c1383866ab04cd14d2a577efd56c99fabdc94ecfc2226d43333fbd2053f8523c",
+    "bytes": 8296
+  },
+  {
+    "slug": "heel-tap",
+    "frame": 1,
+    "resource": "wg63_heel_tap_1",
+    "sha256": "7e7e2e15733772a4fdd59c75a9e3a08597179c01421dc271d79c553cde4d6162",
+    "bytes": 13600
+  },
+  {
+    "slug": "heel-tap",
+    "frame": 2,
+    "resource": "wg63_heel_tap_2",
+    "sha256": "e64f89f981e51022da7fa7c6d48eddfd8de2a8d92753ef7ccd590ac198b909b5",
+    "bytes": 14878
+  },
+  {
+    "slug": "heel-tap",
+    "frame": 3,
+    "resource": "wg63_heel_tap_3",
+    "sha256": "df6e5ec088a2425f26e6cef17081863a3f21e5fd963b97f0030f10a552e87adb",
+    "bytes": 14896
+  },
+  {
+    "slug": "plank-shoulder-tap",
+    "frame": 1,
+    "resource": "wg63_plank_shoulder_tap_1",
+    "sha256": "a9e0ccbffa39c3adff99fb5b4227b3d0fd1b29b480948e694360bfedf3973842",
+    "bytes": 11648
+  },
+  {
+    "slug": "plank-shoulder-tap",
+    "frame": 2,
+    "resource": "wg63_plank_shoulder_tap_2",
+    "sha256": "54a27a14756976844c5fce97997b8bd2d54a04c9c03e63994252867654dd6006",
+    "bytes": 16936
+  },
+  {
+    "slug": "plank-shoulder-tap",
+    "frame": 3,
+    "resource": "wg63_plank_shoulder_tap_3",
+    "sha256": "fa7a77aac3da374b8c675a26ba1646fc77b4788902cd5df0973398495db5894b",
+    "bytes": 16690
+  },
+  {
+    "slug": "plank-jack",
+    "frame": 1,
+    "resource": "wg63_plank_jack_1",
+    "sha256": "dd5b9305cb10b127b65a0391edd6d80981c1a5a95f751f31dea66527a00cda67",
+    "bytes": 12056
+  },
+  {
+    "slug": "plank-jack",
+    "frame": 2,
+    "resource": "wg63_plank_jack_2",
+    "sha256": "03f5f6011c6e6b7c9a693b48cb436c972110f1f90f775f3594008cce5f251bc5",
+    "bytes": 13922
+  },
+  {
+    "slug": "plank-jack",
+    "frame": 3,
+    "resource": "wg63_plank_jack_3",
+    "sha256": "579b51c9bedf82483efb4526a572f83cc49e8581737f2632c220aad43bfaf321",
+    "bytes": 15992
+  },
+  {
+    "slug": "bear-plank",
+    "frame": 1,
+    "resource": "wg63_bear_plank_1",
+    "sha256": "ed093389157efb3676f83fad8a97f837d450c3d17783416c75425ba053b06cff",
+    "bytes": 14184
+  },
+  {
+    "slug": "bear-plank",
+    "frame": 2,
+    "resource": "wg63_bear_plank_2",
+    "sha256": "ca77fc9b39238a22ed5975763108a35d92597310e29a08ab510bbb02c6664988",
+    "bytes": 20008
+  },
+  {
+    "slug": "bear-plank",
+    "frame": 3,
+    "resource": "wg63_bear_plank_3",
+    "sha256": "4abbbaf6ece297dbb0ebc9834657ed1e6fd18906622c104611c5e7654f27913c",
+    "bytes": 18242
+  },
+  {
+    "slug": "bear-crawl",
+    "frame": 1,
+    "resource": "wg63_bear_crawl_1",
+    "sha256": "3ee999249afbd1725a9669dbd34dfcb052c0e94d5bdd709beaba30d92c75a328",
+    "bytes": 13282
+  },
+  {
+    "slug": "bear-crawl",
+    "frame": 2,
+    "resource": "wg63_bear_crawl_2",
+    "sha256": "ae2b3c6341b79182955b74f55c0b5f511b7902f5ca08b53c04960318101e1d85",
+    "bytes": 13280
+  },
+  {
+    "slug": "bear-crawl",
+    "frame": 3,
+    "resource": "wg63_bear_crawl_3",
+    "sha256": "d0a84385773c9f18d6a2fa1731b27178af2bbe59dd7b2f71453e28c37e26bcae",
+    "bytes": 13076
+  },
+  {
+    "slug": "crab-walk",
+    "frame": 1,
+    "resource": "wg63_crab_walk_1",
+    "sha256": "ffdc3dc6cb786ebd9fb9f1d0fb27da4509b88f087c4b902a7e7791f29794bcda",
+    "bytes": 13962
+  },
+  {
+    "slug": "crab-walk",
+    "frame": 2,
+    "resource": "wg63_crab_walk_2",
+    "sha256": "0f6dd113a7eb5c024f5136f8fbb8ed70fbf0ecdd5bcd0e1897c0194ecf3aad3f",
+    "bytes": 15384
+  },
+  {
+    "slug": "crab-walk",
+    "frame": 3,
+    "resource": "wg63_crab_walk_3",
+    "sha256": "b3adbef0f04fdb76e3e1db80aba2908a3b7dd845f8c3f180464316e0c34c2e33",
+    "bytes": 18904
+  },
+  {
+    "slug": "inchworm",
+    "frame": 1,
+    "resource": "wg63_inchworm_1",
+    "sha256": "ede7013f4d16e50d56ad807be22408dc1242af763ed4f8144c15d33cc5a068be",
+    "bytes": 16088
+  },
+  {
+    "slug": "inchworm",
+    "frame": 2,
+    "resource": "wg63_inchworm_2",
+    "sha256": "9351e4c7aabb33f44394f03d61f33cbe76878a8fab5dbd1f12e9b19d897bd0bb",
+    "bytes": 19008
+  },
+  {
+    "slug": "inchworm",
+    "frame": 3,
+    "resource": "wg63_inchworm_3",
+    "sha256": "b10ebec6e50e0d9dba23fb32bd694e641a9dcbaba4c7382ccb504f94ee2aca5a",
+    "bytes": 19048
+  },
+  {
+    "slug": "l-sit-hold",
+    "frame": 1,
+    "resource": "wg63_l_sit_hold_1",
+    "sha256": "2e6de624e9feb51cf98a4ba237b2cbc47474edece640ac80edde4057c4a35749",
+    "bytes": 15220
+  },
+  {
+    "slug": "l-sit-hold",
+    "frame": 2,
+    "resource": "wg63_l_sit_hold_2",
+    "sha256": "d41cf790374c2b7cf8936fe0c836f1c2d5861b2ed8aefb31dc82baef2022fe5d",
+    "bytes": 23488
+  },
+  {
+    "slug": "l-sit-hold",
+    "frame": 3,
+    "resource": "wg63_l_sit_hold_3",
+    "sha256": "9857753487f6f032e625da21d622662c072e990ac247c44dbd8bc2ae0c170b72",
+    "bytes": 16982
+  },
+  {
+    "slug": "seated-knee-tuck",
+    "frame": 1,
+    "resource": "wg63_seated_knee_tuck_1",
+    "sha256": "b7885950f98f9e7815f41ccf9007bcde04c00c2bd5adbe79c66494cb585edb24",
+    "bytes": 16546
+  },
+  {
+    "slug": "seated-knee-tuck",
+    "frame": 2,
+    "resource": "wg63_seated_knee_tuck_2",
+    "sha256": "f1d9cf6a5128bb27d375f8691e8400f5b79b6485fdf767436f73f091f306ef82",
+    "bytes": 22574
+  },
+  {
+    "slug": "seated-knee-tuck",
+    "frame": 3,
+    "resource": "wg63_seated_knee_tuck_3",
+    "sha256": "02e4210895bb1760dd1a3f97cce6778ade44d26834c03be3b1607871dad7eefa",
+    "bytes": 18284
+  },
+  {
+    "slug": "side-plank-hip-dip",
+    "frame": 1,
+    "resource": "wg63_side_plank_hip_dip_1",
+    "sha256": "da7f5e794f9e859d01e9cf55a8b70623a89a8bea35bfe0166c3da56bc69fa087",
+    "bytes": 13008
+  },
+  {
+    "slug": "side-plank-hip-dip",
+    "frame": 2,
+    "resource": "wg63_side_plank_hip_dip_2",
+    "sha256": "95a62562ee5dff8ba896c6825bba21f89666e849ed46f0ca4b09f656283fde4f",
+    "bytes": 13662
+  },
+  {
+    "slug": "side-plank-hip-dip",
+    "frame": 3,
+    "resource": "wg63_side_plank_hip_dip_3",
+    "sha256": "2369689f01b456978d461cedd9938301ee80c9e51b0250419c7fbeb98aeefb18",
+    "bytes": 12348
+  },
+  {
+    "slug": "copenhagen-plank",
+    "frame": 1,
+    "resource": "wg63_copenhagen_plank_1",
+    "sha256": "24caba050db7177fb8e4ad676d47d8c5eb6023d67d5a2054d59879c605bdc24e",
+    "bytes": 11840
+  },
+  {
+    "slug": "copenhagen-plank",
+    "frame": 2,
+    "resource": "wg63_copenhagen_plank_2",
+    "sha256": "a015ca3df5d55882b6ca9a2fd37eb9fce2b6f194aa8c831f78060c51949d4a6e",
+    "bytes": 14112
+  },
+  {
+    "slug": "copenhagen-plank",
+    "frame": 3,
+    "resource": "wg63_copenhagen_plank_3",
+    "sha256": "266a07d44f8c542ee822dcd67d1872c7263b67aef8b337e4256ee59d90d3b0f8",
+    "bytes": 18876
+  },
+  {
+    "slug": "dragon-flag",
+    "frame": 1,
+    "resource": "wg63_dragon_flag_1",
+    "sha256": "afcb29fcd2b85c3cf348554d317cb669c45737fc57401e5b70ad4acc2e167fba",
+    "bytes": 12700
+  },
+  {
+    "slug": "dragon-flag",
+    "frame": 2,
+    "resource": "wg63_dragon_flag_2",
+    "sha256": "edc2c828e487f300b8c07879bcca2c37c2b843af8416d39878ddb0f0fade3169",
+    "bytes": 18518
+  },
+  {
+    "slug": "dragon-flag",
+    "frame": 3,
+    "resource": "wg63_dragon_flag_3",
+    "sha256": "2d46095d91c2ed055bcf65a04b965d43d79c0696ceeafb1eb71dfc9f515fc6c2",
+    "bytes": 15586
+  },
+  {
+    "slug": "burpee",
+    "frame": 1,
+    "resource": "wg63_burpee_1",
+    "sha256": "910f29e20939b308d85d1d39aa302ddc196489fe7f2fa0fba872abd23e491bce",
+    "bytes": 12196
+  },
+  {
+    "slug": "burpee",
+    "frame": 2,
+    "resource": "wg63_burpee_2",
+    "sha256": "48109949875a9df1d16e9fff8bb5a57f89c13e3681680a65bddb7bad9f4b99e2",
+    "bytes": 15784
+  },
+  {
+    "slug": "burpee",
+    "frame": 3,
+    "resource": "wg63_burpee_3",
+    "sha256": "500a2c4391350d6849f103bdf5bf353edc4ff40ad3914f951ac2b89b6a733bda",
+    "bytes": 11992
+  },
+  {
+    "slug": "half-burpee",
+    "frame": 1,
+    "resource": "wg63_half_burpee_1",
+    "sha256": "cecf565961fa014a6c8dce26c12dabe84963f11bc6771928e905ca2f754b591b",
+    "bytes": 12176
+  },
+  {
+    "slug": "half-burpee",
+    "frame": 2,
+    "resource": "wg63_half_burpee_2",
+    "sha256": "a18c06e2f4772ea2e52e6e103f63962f5b40437a464a822319fd0c9a040abd00",
+    "bytes": 11392
+  },
+  {
+    "slug": "half-burpee",
+    "frame": 3,
+    "resource": "wg63_half_burpee_3",
+    "sha256": "a3ac9c20b8567bc04ff7cac0be9aaee1547c4998bfd6f2f0684938da2a5a2acd",
+    "bytes": 17686
+  },
+  {
+    "slug": "squat-thrust",
+    "frame": 1,
+    "resource": "wg63_squat_thrust_1",
+    "sha256": "0927012e43e7d886b6ace057f44f605f9e411731d40709bd48c64be1754234c7",
+    "bytes": 14290
+  },
+  {
+    "slug": "squat-thrust",
+    "frame": 2,
+    "resource": "wg63_squat_thrust_2",
+    "sha256": "78394878408c5592a96583ea913cae7115b2f6c663d97d6d3e552f97ecfebabc",
+    "bytes": 22704
+  },
+  {
+    "slug": "squat-thrust",
+    "frame": 3,
+    "resource": "wg63_squat_thrust_3",
+    "sha256": "9e3f6842f3b449cb25a7b2bf69c79664d08dce15f292c1ef1856d99ccfc6d27f",
+    "bytes": 18430
+  },
+  {
+    "slug": "high-knees",
+    "frame": 1,
+    "resource": "wg63_high_knees_1",
+    "sha256": "36704acb5e66a70b61c1a63cee984a0d0e9ed15ea0ae8dc0ea69780b4a951952",
+    "bytes": 13116
+  },
+  {
+    "slug": "high-knees",
+    "frame": 2,
+    "resource": "wg63_high_knees_2",
+    "sha256": "5f911b53ffc1a87bb07e50e6adcf2e2e5a7bdaa2913a500c63b076fd299a7ef2",
+    "bytes": 20250
+  },
+  {
+    "slug": "high-knees",
+    "frame": 3,
+    "resource": "wg63_high_knees_3",
+    "sha256": "0c052b30d80de1889415e833929ca0850a1056edb9f43da8f7cea46e9696b505",
+    "bytes": 16816
+  },
+  {
+    "slug": "jumping-jack",
+    "frame": 1,
+    "resource": "wg63_jumping_jack_1",
+    "sha256": "8e180449c76cdccdb4f2222960e43ca75072948ef79cc8123bdb20aba882b95f",
+    "bytes": 13622
+  },
+  {
+    "slug": "jumping-jack",
+    "frame": 2,
+    "resource": "wg63_jumping_jack_2",
+    "sha256": "e7e33c70f436460db5c3a7900e5a2bdab7bf9d851156402f0ba03a0b69a63f5f",
+    "bytes": 15368
+  },
+  {
+    "slug": "jumping-jack",
+    "frame": 3,
+    "resource": "wg63_jumping_jack_3",
+    "sha256": "52a62fb52c546b025d061e0d4ba833f903d5ba564cb467323f9a86834a0b539b",
+    "bytes": 16378
+  },
+  {
+    "slug": "skater-hop",
+    "frame": 1,
+    "resource": "wg63_skater_hop_1",
+    "sha256": "c4cd6df59cf78f44ff8303dc69ff0cbcf5ef743bf72116252654b93b4ca7cf38",
+    "bytes": 13462
+  },
+  {
+    "slug": "skater-hop",
+    "frame": 2,
+    "resource": "wg63_skater_hop_2",
+    "sha256": "c4b8b99a7fcf6b44bb37faae6c666040dbe298accf9bf94ae4bd5d10e16c4947",
+    "bytes": 13674
+  },
+  {
+    "slug": "skater-hop",
+    "frame": 3,
+    "resource": "wg63_skater_hop_3",
+    "sha256": "576ed9669832949ff72b571d9bc003ea50143cfa504795ec5dbe363f02e7a610",
+    "bytes": 13926
+  },
+  {
+    "slug": "lateral-shuffle",
+    "frame": 1,
+    "resource": "wg63_lateral_shuffle_1",
+    "sha256": "dc75abb8568362e2612d93846870aa6ce71e046fdcf08c7645521e80f8e1c0ad",
+    "bytes": 14636
+  },
+  {
+    "slug": "lateral-shuffle",
+    "frame": 2,
+    "resource": "wg63_lateral_shuffle_2",
+    "sha256": "0fd7a9a1f7725c428aac079fb3bca4721f967d4992e6bbc6007ad1bf0b54e8bb",
+    "bytes": 14240
+  },
+  {
+    "slug": "lateral-shuffle",
+    "frame": 3,
+    "resource": "wg63_lateral_shuffle_3",
+    "sha256": "5e50c0a5f0013afee9ddedfe5f9afa4d8ce1d74efb081ed8673af182fde1782f",
+    "bytes": 15766
+  },
+  {
+    "slug": "fast-feet",
+    "frame": 1,
+    "resource": "wg63_fast_feet_1",
+    "sha256": "7b81d7bf2d26d537569df235e0974a8437fd20e4d4f26bb801c63aa41ad6d4e8",
+    "bytes": 14616
+  },
+  {
+    "slug": "fast-feet",
+    "frame": 2,
+    "resource": "wg63_fast_feet_2",
+    "sha256": "d5be4424e708b2fa4ff9597ac10be87533e0799254268289aceb8eb946a38c7b",
+    "bytes": 16326
+  },
+  {
+    "slug": "fast-feet",
+    "frame": 3,
+    "resource": "wg63_fast_feet_3",
+    "sha256": "8c6ad23633e5eb88a2e2ecd42e101bbfad4882d206fbdbe56c0cade261027b1f",
+    "bytes": 16862
+  },
+  {
+    "slug": "sprawl",
+    "frame": 1,
+    "resource": "wg63_sprawl_1",
+    "sha256": "f4a3ee24f7da43271747d2f026917eee366307a5705f67dcda51908b4a83e3eb",
+    "bytes": 12724
+  },
+  {
+    "slug": "sprawl",
+    "frame": 2,
+    "resource": "wg63_sprawl_2",
+    "sha256": "5f1c06fed98ed510d894522d60eccd4cd9e49730d343f1b52c6e48d1834bf83e",
+    "bytes": 19938
+  },
+  {
+    "slug": "sprawl",
+    "frame": 3,
+    "resource": "wg63_sprawl_3",
+    "sha256": "b2a86c8e7c332762d25f51faa902270b626684e072193d0633be3e2391196ba4",
+    "bytes": 15066
+  },
+  {
+    "slug": "seal-jack",
+    "frame": 1,
+    "resource": "wg63_seal_jack_1",
+    "sha256": "3af8a9896e83219ea0ea5519002a643f46456c910c83462915a631025b6019c1",
+    "bytes": 16106
+  },
+  {
+    "slug": "seal-jack",
+    "frame": 2,
+    "resource": "wg63_seal_jack_2",
+    "sha256": "4e702a2a6fee8cbb608bc5ee70ee32006658fa8bfbb48ecc851a3f2c92a801e6",
+    "bytes": 21266
+  },
+  {
+    "slug": "seal-jack",
+    "frame": 3,
+    "resource": "wg63_seal_jack_3",
+    "sha256": "d2b8514f1684b2e76c814e5a9ce1a2c8f8ce86515c31bc5fa321f0f439ca7d53",
+    "bytes": 20450
+  },
+  {
+    "slug": "cat-cow-stretch",
+    "frame": 1,
+    "resource": "wg63_cat_cow_stretch_1",
+    "sha256": "038939ac8022a1376e6d53be3c41eca536667f8815441eeb45896fa9c069679a",
+    "bytes": 13162
+  },
+  {
+    "slug": "cat-cow-stretch",
+    "frame": 2,
+    "resource": "wg63_cat_cow_stretch_2",
+    "sha256": "bf7f3a35f74146ef8e0e66ea661d6e8c57c7e8709b50499fa46adb70762a0b1b",
+    "bytes": 11732
+  },
+  {
+    "slug": "cat-cow-stretch",
+    "frame": 3,
+    "resource": "wg63_cat_cow_stretch_3",
+    "sha256": "edd3512fa5ae5bb73f8a42f96f4df83280ac7d21f771f850fee4483edadf5224",
+    "bytes": 11504
+  },
+  {
+    "slug": "arm-circles",
+    "frame": 1,
+    "resource": "wg63_arm_circles_1",
+    "sha256": "421fb0e2a30ad50b604053732327d7a978236ba6bda4753f75e365934fca9257",
+    "bytes": 15432
+  },
+  {
+    "slug": "arm-circles",
+    "frame": 2,
+    "resource": "wg63_arm_circles_2",
+    "sha256": "6cffff4718531663315e7d961b679ff213177adbcbc415e5f0ba2b2c436fb710",
+    "bytes": 19042
+  },
+  {
+    "slug": "arm-circles",
+    "frame": 3,
+    "resource": "wg63_arm_circles_3",
+    "sha256": "8477e280713f453ff62af6871e4fc8ef1e1043ec8252ce928a5e2d1d9670976a",
+    "bytes": 19646
+  },
+  {
+    "slug": "worlds-greatest-stretch",
+    "frame": 1,
+    "resource": "wg63_worlds_greatest_stretch_1",
+    "sha256": "b8b2bd90b9c810ddee8edd1784f4800adfa3a44331233fd347a48b532562fe70",
+    "bytes": 13960
+  },
+  {
+    "slug": "worlds-greatest-stretch",
+    "frame": 2,
+    "resource": "wg63_worlds_greatest_stretch_2",
+    "sha256": "86b4614353fb04851f2ef6ef472870e945f3cace469a23d38d158c36c6c5b260",
+    "bytes": 14048
+  },
+  {
+    "slug": "worlds-greatest-stretch",
+    "frame": 3,
+    "resource": "wg63_worlds_greatest_stretch_3",
+    "sha256": "d6d95daae8b15c925587dc5f8e18ecf072cf83d8a80b142def68cac925f2d5b2",
+    "bytes": 14140
+  },
+  {
+    "slug": "leg-swings-stretch",
+    "frame": 1,
+    "resource": "wg63_leg_swings_stretch_1",
+    "sha256": "23744d861a10f54f2ccea48c7c5ee613acc79434f6200a07f397dddeb1ada3ff",
+    "bytes": 13560
+  },
+  {
+    "slug": "leg-swings-stretch",
+    "frame": 2,
+    "resource": "wg63_leg_swings_stretch_2",
+    "sha256": "190c1cee7442c41b14c26a2a4f7516136a338266d66b0ad776640099d63bc4ee",
+    "bytes": 20192
+  },
+  {
+    "slug": "leg-swings-stretch",
+    "frame": 3,
+    "resource": "wg63_leg_swings_stretch_3",
+    "sha256": "8fc5379f4c12449f863559f9cf36782180d7f49b106a17d34886d3b6b3e187ec",
+    "bytes": 19534
+  },
+  {
+    "slug": "torso-twist-stretch",
+    "frame": 1,
+    "resource": "wg63_torso_twist_stretch_1",
+    "sha256": "ae68627d73958249bbfc20ba3e5db92e059e21e91338e920eefbe6dd02ea454e",
+    "bytes": 14362
+  },
+  {
+    "slug": "torso-twist-stretch",
+    "frame": 2,
+    "resource": "wg63_torso_twist_stretch_2",
+    "sha256": "0bfecea8d5f3d614bb733c5afa348e9688729000dad7e4df05ee90de042648ec",
+    "bytes": 23734
+  },
+  {
+    "slug": "torso-twist-stretch",
+    "frame": 3,
+    "resource": "wg63_torso_twist_stretch_3",
+    "sha256": "5fe6ea8c859a79df52daa353ee0f57614ee523b4401c97d63cc260cca7ea4235",
+    "bytes": 16352
+  },
+  {
+    "slug": "doorway-chest-stretch",
+    "frame": 1,
+    "resource": "wg63_doorway_chest_stretch_1",
+    "sha256": "d5abb5cb07cc405fb2092a4b6a1b39e8b28e7ebfa9d36dd763e9173ddb3b2704",
+    "bytes": 14034
+  },
+  {
+    "slug": "doorway-chest-stretch",
+    "frame": 2,
+    "resource": "wg63_doorway_chest_stretch_2",
+    "sha256": "3d6eb9bbceed164829131d1e1b557b4047fdaa6d90c72fcbe64854b3f7bddb7e",
+    "bytes": 18692
+  },
+  {
+    "slug": "doorway-chest-stretch",
+    "frame": 3,
+    "resource": "wg63_doorway_chest_stretch_3",
+    "sha256": "299a98bff0abc2991cfa48f9c10e86b7d9c406ed47c60f1b82874e2ed630a74d",
+    "bytes": 16228
+  },
+  {
+    "slug": "childs-pose",
+    "frame": 1,
+    "resource": "wg63_childs_pose_1",
+    "sha256": "9eaef1c40e30e51bc74ab7bf8433f6d8bb72d73d9c82cb9c1babf58c88072fa4",
+    "bytes": 11078
+  },
+  {
+    "slug": "childs-pose",
+    "frame": 2,
+    "resource": "wg63_childs_pose_2",
+    "sha256": "66c0ad0975972266271357d5f4febe50bbe9a8c5172c482eb3fd6364068d0838",
+    "bytes": 11132
+  },
+  {
+    "slug": "childs-pose",
+    "frame": 3,
+    "resource": "wg63_childs_pose_3",
+    "sha256": "0212afdbf66c25df25c290ea38ffe585e35f7edde5595a272341ed76f0a5deae",
+    "bytes": 13246
+  },
+  {
+    "slug": "kneeling-hip-flexor-stretch",
+    "frame": 1,
+    "resource": "wg63_kneeling_hip_flexor_stretch_1",
+    "sha256": "17a78b76fc714f776a7d262c3ce0814988c21515c07d3a08624b020b588933e9",
+    "bytes": 13724
+  },
+  {
+    "slug": "kneeling-hip-flexor-stretch",
+    "frame": 2,
+    "resource": "wg63_kneeling_hip_flexor_stretch_2",
+    "sha256": "604c70a45f16e0ef33de27c3069b586c276cbd1c2833fb6f5c5741c45b503d29",
+    "bytes": 15002
+  },
+  {
+    "slug": "kneeling-hip-flexor-stretch",
+    "frame": 3,
+    "resource": "wg63_kneeling_hip_flexor_stretch_3",
+    "sha256": "5d48746d87b3eb8766b48caf5244c5718093bc05eb2968d7701e4a03ae996b61",
+    "bytes": 15562
+  },
+  {
+    "slug": "hamstring-stretch",
+    "frame": 1,
+    "resource": "wg63_hamstring_stretch_1",
+    "sha256": "08f2897837fa16d787b4adda7034723a8e946039eff2fab63aa9b39d9be9425e",
+    "bytes": 15068
+  },
+  {
+    "slug": "hamstring-stretch",
+    "frame": 2,
+    "resource": "wg63_hamstring_stretch_2",
+    "sha256": "cd6030cc5e7ae6724cf490f29f67f832dd8091516c1d93269c7332750031fc92",
+    "bytes": 20530
+  },
+  {
+    "slug": "hamstring-stretch",
+    "frame": 3,
+    "resource": "wg63_hamstring_stretch_3",
+    "sha256": "29439eec4a5bddbcd105722b43c15ca5ca1c8217488dec7d11055a230bfe4100",
+    "bytes": 14124
+  },
+  {
+    "slug": "standing-quad-stretch",
+    "frame": 1,
+    "resource": "wg63_standing_quad_stretch_1",
+    "sha256": "4763a8e74fa842d5043f0ab7d9b7ac3fda746ce25d60570cbd0b3762fc5550a2",
+    "bytes": 11664
+  },
+  {
+    "slug": "standing-quad-stretch",
+    "frame": 2,
+    "resource": "wg63_standing_quad_stretch_2",
+    "sha256": "4424045ff722bce1a0df82e03cd58a4a857b6e8f5bc4a74d7a72d66ca5aa2ee6",
+    "bytes": 12056
+  },
+  {
+    "slug": "standing-quad-stretch",
+    "frame": 3,
+    "resource": "wg63_standing_quad_stretch_3",
+    "sha256": "1a2e17bff6a13bf16f7b71f8db05a8cc78764a9279451bd07f40cda7e29cf779",
+    "bytes": 13026
+  },
+  {
+    "slug": "seated-forward-fold-stretch",
+    "frame": 1,
+    "resource": "wg63_seated_forward_fold_stretch_1",
+    "sha256": "e27e5b81128024b39d7d31a0575588d0cac785c030fc2121d3acdea27054994a",
+    "bytes": 16160
+  },
+  {
+    "slug": "seated-forward-fold-stretch",
+    "frame": 2,
+    "resource": "wg63_seated_forward_fold_stretch_2",
+    "sha256": "657a98edfccd60b6d7b58def307848cd864892c840dbc501bd44efd489d7f425",
+    "bytes": 18832
+  },
+  {
+    "slug": "seated-forward-fold-stretch",
+    "frame": 3,
+    "resource": "wg63_seated_forward_fold_stretch_3",
+    "sha256": "8989a483ce3160bb43aeb124222ad364c5cf80dab970e84d71ce4d5db6d99fea",
+    "bytes": 18466
+  },
+  {
+    "slug": "cross-body-shoulder-stretch",
+    "frame": 1,
+    "resource": "wg63_cross_body_shoulder_stretch_1",
+    "sha256": "a3283eab23f1b433a7bd5b6b83caf7b2abcd47a5bf61d98b2d93f14bc53f501b",
+    "bytes": 11290
+  },
+  {
+    "slug": "cross-body-shoulder-stretch",
+    "frame": 2,
+    "resource": "wg63_cross_body_shoulder_stretch_2",
+    "sha256": "0f717dd5b2530c839cb74e7fab7e7f57aa557990ed8abdf06d42eaaf49b53f0c",
+    "bytes": 12946
+  },
+  {
+    "slug": "cross-body-shoulder-stretch",
+    "frame": 3,
+    "resource": "wg63_cross_body_shoulder_stretch_3",
+    "sha256": "da206b43ede96fccc972a54c6503368f41df94059e39fc2d068531d23280acec",
+    "bytes": 14044
+  },
+  {
+    "slug": "wall-calf-stretch",
+    "frame": 1,
+    "resource": "wg63_wall_calf_stretch_1",
+    "sha256": "cc5802e7af9d9e74fc0664c7a63ddc6990a57f554c7179a7a24fceb4b7322008",
+    "bytes": 14114
+  },
+  {
+    "slug": "wall-calf-stretch",
+    "frame": 2,
+    "resource": "wg63_wall_calf_stretch_2",
+    "sha256": "23f2e47071172c54466c08670e05142a60c52d49106be40cd22ad36a82d2eaad",
+    "bytes": 14014
+  },
+  {
+    "slug": "wall-calf-stretch",
+    "frame": 3,
+    "resource": "wg63_wall_calf_stretch_3",
+    "sha256": "784e9c95f4272d8212a4aae6340b45d5bf8b754bfda5a6a3517fe189508f4b0b",
+    "bytes": 14020
+  },
+  {
+    "slug": "butterfly-stretch",
+    "frame": 1,
+    "resource": "wg63_butterfly_stretch_1",
+    "sha256": "d382e1991dee0c4e5e7bfc6c3b2230d0d225150a81ade8146f72adc3d6cd1087",
+    "bytes": 17766
+  },
+  {
+    "slug": "butterfly-stretch",
+    "frame": 2,
+    "resource": "wg63_butterfly_stretch_2",
+    "sha256": "8fa37f31d489e05b1d85dea3283d36a793eb9c65218c8e76b4dca64fd8583e9f",
+    "bytes": 18742
+  },
+  {
+    "slug": "butterfly-stretch",
+    "frame": 3,
+    "resource": "wg63_butterfly_stretch_3",
+    "sha256": "bb1831a84e5af5d777bd05e329c9899dee1deae639889cc6a3c8d810c073fb5f",
+    "bytes": 26256
+  }
+]

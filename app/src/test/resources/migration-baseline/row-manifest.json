@@ -1,0 +1,738 @@
+{
+  "android_metadata": {
+    "columns": [
+      "locale"
+    ],
+    "rows": [
+      [
+        "en_US"
+      ]
+    ],
+    "sha256": "b75020507f255a4045d7df8db986dd0206736f9357d605c63a69c44381f02787"
+  },
+  "exercises": {
+    "columns": [
+      "id",
+      "name",
+      "normalizedName",
+      "primaryMuscle",
+      "equipment",
+      "instructions",
+      "isBuiltIn",
+      "deletedAt"
+    ],
+    "rows": [
+      [
+        1,
+        "Barbell Bench Press",
+        "barbell bench press",
+        "Chest",
+        "Barbell",
+        "Lie flat on bench, grip bar slightly wider than shoulders, lower under control to mid-chest, and press to lockout.",
+        1,
+        null
+      ],
+      [
+        2,
+        "Incline Dumbbell Press",
+        "incline dumbbell press",
+        "Chest",
+        "Dumbbell",
+        "Set bench to 30 degrees. Lower dumbbells to upper chest with elbows at 45 degrees, then press up.",
+        1,
+        null
+      ],
+      [
+        3,
+        "Flat Dumbbell Press",
+        "flat dumbbell press",
+        "Chest",
+        "Dumbbell",
+        "Lie on flat bench and press dumbbells from chest level to full extension above shoulders.",
+        1,
+        null
+      ],
+      [
+        4,
+        "Cable Chest Fly",
+        "cable chest fly",
+        "Chest",
+        "Cable",
+        "Step forward with slight elbow bend, bring handles together in an arc in front of chest.",
+        1,
+        null
+      ],
+      [
+        5,
+        "Push-Up",
+        "push-up",
+        "Chest",
+        "Bodyweight",
+        "Brace core in plank position, lower chest to floor with elbows tucked at 45 degrees, and push back up.",
+        1,
+        null
+      ],
+      [
+        6,
+        "Chest Dip",
+        "chest dip",
+        "Chest",
+        "Bodyweight",
+        "Lean torso slightly forward on parallel bars, lower until shoulders are below elbows, and press up.",
+        1,
+        null
+      ],
+      [
+        7,
+        "Conventional Deadlift",
+        "conventional deadlift",
+        "Back",
+        "Barbell",
+        "Stand with mid-foot under bar, hinge hips, brace lats and core, and drive the floor away keeping bar close to shins.",
+        1,
+        null
+      ],
+      [
+        8,
+        "Barbell Bent-Over Row",
+        "barbell bent-over row",
+        "Back",
+        "Barbell",
+        "Hinge torso to 45 degrees, pull bar toward lower ribs while squeezing shoulder blades together.",
+        1,
+        null
+      ],
+      [
+        9,
+        "Pull-Up",
+        "pull-up",
+        "Back",
+        "Bodyweight",
+        "Grip bar slightly wider than shoulders from a dead hang and pull chest toward the bar.",
+        1,
+        null
+      ],
+      [
+        10,
+        "Chin-Up",
+        "chin-up",
+        "Back",
+        "Bodyweight",
+        "Use a shoulder-width supinated (underhand) grip and pull until chin clears the bar.",
+        1,
+        null
+      ],
+      [
+        11,
+        "Lat Pulldown",
+        "lat pulldown",
+        "Back",
+        "Cable",
+        "Sit tall with thighs secured, pull bar down to upper chest while driving elbows toward hips.",
+        1,
+        null
+      ],
+      [
+        12,
+        "Seated Cable Row",
+        "seated cable row",
+        "Back",
+        "Cable",
+        "Sit with neutral spine, pull handle to abdomen, pause briefly, and control the return.",
+        1,
+        null
+      ],
+      [
+        13,
+        "One-Arm Dumbbell Row",
+        "one-arm dumbbell row",
+        "Back",
+        "Dumbbell",
+        "Brace one hand on bench, row dumbbell toward hip crease while keeping torso level.",
+        1,
+        null
+      ],
+      [
+        14,
+        "Chest-Supported Machine Row",
+        "chest-supported machine row",
+        "Back",
+        "Machine",
+        "Rest chest against pad and pull handles back focusing on mid-back retraction.",
+        1,
+        null
+      ],
+      [
+        15,
+        "Barbell Back Squat",
+        "barbell back squat",
+        "Quadriceps",
+        "Barbell",
+        "Rest bar across upper traps, brace core, squat down until hips crease below knees, and drive back up.",
+        1,
+        null
+      ],
+      [
+        16,
+        "Barbell Front Squat",
+        "barbell front squat",
+        "Quadriceps",
+        "Barbell",
+        "Rack bar across front deltoids with high elbows, keep torso upright, and squat to full depth.",
+        1,
+        null
+      ],
+      [
+        17,
+        "Leg Press",
+        "leg press",
+        "Quadriceps",
+        "Machine",
+        "Place feet shoulder-width on sled, lower until knees reach 90 degrees without lower back rounding, and press.",
+        1,
+        null
+      ],
+      [
+        18,
+        "Bulgarian Split Squat",
+        "bulgarian split squat",
+        "Quadriceps",
+        "Dumbbell",
+        "Elevate rear foot on bench, lower back knee toward floor while keeping front foot planted, then drive up.",
+        1,
+        null
+      ],
+      [
+        19,
+        "Goblet Squat",
+        "goblet squat",
+        "Quadriceps",
+        "Kettlebell",
+        "Hold kettlebell or dumbbell at chest height, sit between hips with upright posture, and stand tall.",
+        1,
+        null
+      ],
+      [
+        20,
+        "Leg Extension",
+        "leg extension",
+        "Quadriceps",
+        "Machine",
+        "Adjust pad above ankles, extend knees fully with a brief pause at top, and lower slowly.",
+        1,
+        null
+      ],
+      [
+        21,
+        "Romanian Deadlift",
+        "romanian deadlift",
+        "Hamstrings",
+        "Barbell",
+        "Keep slight knee bend, push hips straight back until hamstring stretch is reached, then squeeze glutes to stand.",
+        1,
+        null
+      ],
+      [
+        22,
+        "Dumbbell Romanian Deadlift",
+        "dumbbell romanian deadlift",
+        "Hamstrings",
+        "Dumbbell",
+        "Track dumbbells close to thighs while hinging hips back with a flat spine.",
+        1,
+        null
+      ],
+      [
+        23,
+        "Lying Leg Curl",
+        "lying leg curl",
+        "Hamstrings",
+        "Machine",
+        "Keep hips pressed into bench, curl pad toward glutes, and control the eccentric phase.",
+        1,
+        null
+      ],
+      [
+        24,
+        "Seated Leg Curl",
+        "seated leg curl",
+        "Hamstrings",
+        "Machine",
+        "Lock lap pad snugly over thighs and curl lower leg pad back and under seat.",
+        1,
+        null
+      ],
+      [
+        25,
+        "Barbell Hip Thrust",
+        "barbell hip thrust",
+        "Glutes",
+        "Barbell",
+        "Brace upper back on bench, drive through heels to full hip extension with chin tucked.",
+        1,
+        null
+      ],
+      [
+        26,
+        "Kettlebell Swing",
+        "kettlebell swing",
+        "Glutes",
+        "Kettlebell",
+        "Hike bell behind hips and snap hips forward explosively to float bell to chest height.",
+        1,
+        null
+      ],
+      [
+        27,
+        "Overhead Barbell Press",
+        "overhead barbell press",
+        "Shoulders",
+        "Barbell",
+        "Brace glutes and abs, press bar vertically from collarbones to overhead lockout.",
+        1,
+        null
+      ],
+      [
+        28,
+        "Seated Dumbbell Shoulder Press",
+        "seated dumbbell shoulder press",
+        "Shoulders",
+        "Dumbbell",
+        "Sit against back support and press dumbbells overhead without overarching lower back.",
+        1,
+        null
+      ],
+      [
+        29,
+        "Dumbbell Lateral Raise",
+        "dumbbell lateral raise",
+        "Shoulders",
+        "Dumbbell",
+        "Raise dumbbells out to sides in scapular plane up to shoulder height with soft elbows.",
+        1,
+        null
+      ],
+      [
+        30,
+        "Cable Face Pull",
+        "cable face pull",
+        "Shoulders",
+        "Cable",
+        "Pull rope attachment toward forehead while externally rotating shoulders so hands finish by ears.",
+        1,
+        null
+      ],
+      [
+        31,
+        "Rear Delt Dumbbell Fly",
+        "rear delt dumbbell fly",
+        "Shoulders",
+        "Dumbbell",
+        "Hinge at hips and sweep dumbbells outward to target posterior deltoids.",
+        1,
+        null
+      ],
+      [
+        32,
+        "Barbell Bicep Curl",
+        "barbell bicep curl",
+        "Biceps",
+        "Barbell",
+        "Keep elbows pinned by sides and curl bar upward without swinging torso.",
+        1,
+        null
+      ],
+      [
+        33,
+        "EZ Bar Preacher Curl",
+        "ez bar preacher curl",
+        "Biceps",
+        "EZ Bar",
+        "Rest upper arms flat on preacher pad, lower bar to near full extension, and curl up.",
+        1,
+        null
+      ],
+      [
+        34,
+        "Incline Dumbbell Curl",
+        "incline dumbbell curl",
+        "Biceps",
+        "Dumbbell",
+        "Sit on incline bench letting arms hang behind torso for a deep bicep stretch, then curl.",
+        1,
+        null
+      ],
+      [
+        35,
+        "Hammer Curl",
+        "hammer curl",
+        "Biceps",
+        "Dumbbell",
+        "Curl dumbbells with a neutral (palms facing each other) grip to target brachialis and forearms.",
+        1,
+        null
+      ],
+      [
+        36,
+        "Cable Tricep Pushdown",
+        "cable tricep pushdown",
+        "Triceps",
+        "Cable",
+        "Keep elbows locked at sides and extend rope or bar attachment down until arms are straight.",
+        1,
+        null
+      ],
+      [
+        37,
+        "EZ Bar Skullcrusher",
+        "ez bar skullcrusher",
+        "Triceps",
+        "EZ Bar",
+        "Lie on bench, hinge at elbows to lower bar toward forehead, then extend back to lockout.",
+        1,
+        null
+      ],
+      [
+        38,
+        "Overhead Cable Tricep Extension",
+        "overhead cable tricep extension",
+        "Triceps",
+        "Cable",
+        "Face away from cable column and extend rope overhead keeping upper arms stationary.",
+        1,
+        null
+      ],
+      [
+        39,
+        "Close-Grip Bench Press",
+        "close-grip bench press",
+        "Triceps",
+        "Barbell",
+        "Grip bar shoulder-width apart, keep elbows tucked close to ribs, and press from lower chest.",
+        1,
+        null
+      ],
+      [
+        40,
+        "Hanging Leg Raise",
+        "hanging leg raise",
+        "Core",
+        "Bodyweight",
+        "Hang from bar and curl pelvis upward bringing knees or straight legs toward chest.",
+        1,
+        null
+      ],
+      [
+        41,
+        "Cable Crunch",
+        "cable crunch",
+        "Core",
+        "Cable",
+        "Kneel below high pulley holding rope by head and flex spine to bring ribs toward hips.",
+        1,
+        null
+      ],
+      [
+        42,
+        "Plank",
+        "plank",
+        "Core",
+        "Bodyweight",
+        "Support body on forearms and toes, maintaining a rigid line from head to heels.",
+        1,
+        null
+      ],
+      [
+        43,
+        "Standing Calf Raise",
+        "standing calf raise",
+        "Calves",
+        "Machine",
+        "Lower heels below platform for a full stretch, then drive onto balls of feet and pause at top.",
+        1,
+        null
+      ],
+      [
+        44,
+        "Seated Calf Raise",
+        "seated calf raise",
+        "Calves",
+        "Machine",
+        "Place balls of feet on platform with pad over knees, lower into full stretch, and press up.",
+        1,
+        null
+      ],
+      [
+        45,
+        "Bambang",
+        "bambang",
+        "Chest",
+        "Barbell",
+        "Keep this custom exercise",
+        0,
+        null
+      ]
+    ],
+    "sha256": "26a0bfd1c6f125ff2fec5d5fab7d9f786e2b851b2e9639bf89c91088e14e9b78"
+  },
+  "workout_templates": {
+    "columns": [
+      "id",
+      "title",
+      "createdAt",
+      "updatedAt"
+    ],
+    "rows": [
+      [
+        1,
+        "Push Day",
+        1793512606810,
+        1793512606810
+      ]
+    ],
+    "sha256": "0fa442a3b009626dc36ee33ba5539dce4e1d95a147a02aab889b67ba71283727"
+  },
+  "template_exercises": {
+    "columns": [
+      "id",
+      "templateId",
+      "exerciseId",
+      "sortOrder",
+      "exerciseNameSnapshot",
+      "muscleSnapshot",
+      "equipmentSnapshot"
+    ],
+    "rows": [
+      [
+        1,
+        1,
+        1,
+        0,
+        "Barbell Bench Press",
+        "Chest",
+        "Barbell"
+      ],
+      [
+        2,
+        1,
+        45,
+        1,
+        "Bambang",
+        "Chest",
+        "Barbell"
+      ]
+    ],
+    "sha256": "cb07c97d47c3e2c6be1742d6483f7c2e0f944854f148c73873a4a09055211a96"
+  },
+  "template_sets": {
+    "columns": [
+      "id",
+      "templateExerciseId",
+      "sortOrder",
+      "suggestedReps",
+      "suggestedWeightGrams"
+    ],
+    "rows": [
+      [
+        1,
+        1,
+        0,
+        8,
+        10000
+      ],
+      [
+        2,
+        2,
+        0,
+        8,
+        1000000
+      ]
+    ],
+    "sha256": "b5c7f845477c476348d6c9474827c3cc9334e8e81f8ec1b6a67bb59c8d376b3a"
+  },
+  "workout_sessions": {
+    "columns": [
+      "id",
+      "title",
+      "sourceTemplateId",
+      "startedAt",
+      "endedAt",
+      "status",
+      "updatedAt"
+    ],
+    "rows": [
+      [
+        1,
+        "Push Day",
+        1,
+        1792000000000,
+        1792000600000,
+        "COMPLETED",
+        1792000600000
+      ],
+      [
+        2,
+        "Push Day",
+        1,
+        1792086400000,
+        null,
+        "ACTIVE",
+        1792086400000
+      ]
+    ],
+    "sha256": "d734ad9aa71b5fe606bc26bc66d297bd8c4756fdebf4be3171286d33dbe3521b"
+  },
+  "session_exercises": {
+    "columns": [
+      "id",
+      "sessionId",
+      "exerciseId",
+      "nameSnapshot",
+      "muscleSnapshot",
+      "equipmentSnapshot",
+      "sortOrder"
+    ],
+    "rows": [
+      [
+        1,
+        1,
+        1,
+        "Barbell Bench Press",
+        "Chest",
+        "Barbell",
+        0
+      ],
+      [
+        2,
+        1,
+        45,
+        "Bambang",
+        "Chest",
+        "Barbell",
+        1
+      ],
+      [
+        3,
+        2,
+        1,
+        "Barbell Bench Press",
+        "Chest",
+        "Barbell",
+        0
+      ],
+      [
+        4,
+        2,
+        45,
+        "Bambang",
+        "Chest",
+        "Barbell",
+        1
+      ]
+    ],
+    "sha256": "bc9d9b569dd65ada4060bd2dfa4f85e54ffe87152a183d959a8fa93b7799dcbb"
+  },
+  "logged_sets": {
+    "columns": [
+      "id",
+      "sessionExerciseId",
+      "sortOrder",
+      "reps",
+      "weightGrams",
+      "isComplete",
+      "setType"
+    ],
+    "rows": [
+      [
+        1,
+        1,
+        0,
+        8,
+        10000,
+        1,
+        "WORK"
+      ],
+      [
+        2,
+        2,
+        0,
+        8,
+        1000000,
+        1,
+        "WORK"
+      ],
+      [
+        3,
+        3,
+        0,
+        8,
+        10000,
+        0,
+        "WORK"
+      ],
+      [
+        4,
+        4,
+        0,
+        8,
+        1000000,
+        0,
+        "WORK"
+      ]
+    ],
+    "sha256": "293fc5c2e21b57aefede07306a1834dbf23ee19e75e8e606d3466c8bd2975022"
+  },
+  "body_measurement_entries": {
+    "columns": [
+      "id",
+      "recordedAt",
+      "updatedAt",
+      "note"
+    ],
+    "rows": [
+      [
+        7001,
+        1792000000000,
+        1792000000000,
+        "Preserve pre-upgrade measurements"
+      ]
+    ],
+    "sha256": "c9443366707a9294971e95292d8d2a89e1d3a02fba8827200e272316a12a9718"
+  },
+  "body_measurement_values": {
+    "columns": [
+      "id",
+      "entryId",
+      "metricKey",
+      "canonicalValue"
+    ],
+    "rows": [
+      [
+        7001,
+        7001,
+        "body_weight",
+        78500
+      ],
+      [
+        7002,
+        7001,
+        "waist",
+        8100
+      ]
+    ],
+    "sha256": "4c224bd362c764cfa85f6584e731da1b5b9388f34f95bc607af237531043e094"
+  },
+  "room_master_table": {
+    "columns": [
+      "id",
+      "identity_hash"
+    ],
+    "rows": [
+      [
+        42,
+        "50a8d82bc36de843d9d344d3483b5cab"
+      ]
+    ],
+    "sha256": "a1238d1e51a2b77918451487ae01a035f3d2981f3b2141e8a475fe07da6ce3c9"
+  }
+}

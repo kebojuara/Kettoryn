@@ -1,0 +1,40 @@
+# Local build and editor state
+.gradle/
+**/build/
+.idea/
+*.iml
+local.properties
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+# Distribution and signing secrets
+*.apk
+*.aab
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+*.cer
+*.crt
+*signing*.properties
+.env
+.env.*
+# Private development material
+.agents/
+.codex/
+Kettoryn-Private-Guide/
+Kettoryn-Releases/
+# Personal exports/databases (only reviewed synthetic test fixtures are included)
+*.db
+*.db-wal
+*.db-shm
+*.kettoryn
+!app/src/test/resources/migration-baseline/v2-populated.db
+!app/src/test/resources/migration-baseline/old-format-backup.kettoryn
+!app/src/androidTest/assets/migration-baseline/v2-populated.db
+!app/src/androidTest/assets/migration-baseline/old-format-backup.kettoryn
+!/Kettoryn-v1.0.0-release.apk
+/screenshot/
+.kotlin/

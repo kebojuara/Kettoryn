@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Monochrome silhouette preserving all 6 distinct shapes of Approved K -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M27.06,51.42 L28.81,51.42 L28.81,59.69 L27.06,59.69 Q26.0,59.69 26.0,58.63 L26.0,52.48 Q26.0,51.42 27.06,51.42 Z M31.24,46.49 L33.36,46.49 L33.36,64.7 L31.24,64.7 Q29.87,64.7 29.87,63.33 L29.87,47.86 Q29.87,46.49 31.24,46.49 Z M36.55,41.25 L40.57,41.25 L40.57,69.55 L36.55,69.55 Q34.73,69.55 34.73,67.73 L34.73,43.07 Q34.73,41.25 36.55,41.25 Z M42.77,34.8 L52.1,34.8 Q54.23,34.8 54.23,36.92 L54.23,45.35 L42.77,56.81 Z M42.77,58.02 L54.23,69.48 L54.23,71.0 Q54.23,73.12 52.1,73.12 L42.77,73.12 Z M46.56,56.73 L60.75,56.73 L79.5,73.12 L61.97,73.12 L45.65,57.56 Z M47.02,56.35 L67.81,35.56 L81.92,35.56 L60.98,56.35 Z" />
+</vector>
+

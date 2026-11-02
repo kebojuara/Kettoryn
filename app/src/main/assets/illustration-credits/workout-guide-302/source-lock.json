@@ -1,0 +1,7 @@
+{
+  "source": "https://github.com/bryllim/workout-guide.git",
+  "commit": "aac599224bb9780305239607ef98540b7e0ce389",
+  "manifest_sha256": "b3d110d680a7d6cb94731b8b41ee3f82bfdbd2f9a358038f8c17d453b5fb632b",
+  "expected_exercises": 302,
+  "expected_frames": 906
+}
